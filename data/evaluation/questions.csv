@@ -1,0 +1,10 @@
+question_id,question,expected_filename
+ibu_01,What safety warnings are listed for ibuprofen?,ibuprofen_200mg_haleon_us_holdings_llc.pdf
+ibu_02,What are the allergy warnings for ibuprofen?,ibuprofen_200mg_haleon_us_holdings_llc.pdf
+ibu_03,What does the ibuprofen label say about stomach bleeding?,ibuprofen_200mg_haleon_us_holdings_llc.pdf
+ace_01,What warnings are listed for acetaminophen?,acetaminophen_325mg_health_pharma.pdf
+ace_02,What is the acetaminophen liver warning?,acetaminophen_325mg_health_pharma.pdf
+ace_03,When should a person stop using acetaminophen according to the label?,acetaminophen_325mg_health_pharma.pdf
+flu_01,What uses are listed for fluoxetine?,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf
+flu_02,What side effects are listed for fluoxetine?,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf
+flu_03,What warnings does the fluoxetine label give about suicidal thoughts?,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf
