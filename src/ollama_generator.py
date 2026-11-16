@@ -30,6 +30,10 @@ EVIDENCE_TERMINATOR = "\n\nAnswer the QUESTION using only these reference passag
 CITATION = re.compile(r"\[S[1-9][0-9]*\]")
 POTENTIAL_CITATION = re.compile(r"\[S[^\]\r\n]*\]")
 SOURCE_ID = re.compile(r"S[1-9][0-9]*\Z")
+# Local models often emit combined pointers like [S1, S3] instead of [S1] [S3].
+COMBINED_CITATION = re.compile(
+    r"\[(\s*S[1-9][0-9]*(?:\s*,\s*S[1-9][0-9]*)+\s*)\]"
+)
 
 
 def _int_between(value: Any, lo: int, hi: int, label: str) -> int:
@@ -192,9 +196,19 @@ def _safe_result(package: dict, *, status: str, reason: str, answer: str,
     }
 
 
+def _expand_combined_citations(text: str) -> str:
+    """Rewrite [S1, S3] into [S1][S3] so ID validation can accept common LLM forms."""
+
+    def _replace(match: re.Match[str]) -> str:
+        ids = re.findall(r"S[1-9][0-9]*", match.group(1))
+        return "".join(f"[{cid}]" for cid in ids)
+
+    return COMBINED_CITATION.sub(_replace, text)
+
+
 def _check_answer(text: str, allowed_ids: set[str]) -> tuple[str, str, str, list[str]]:
     """Fail closed on missing/unknown citation IDs; no entailment claim."""
-    text = text.strip()
+    text = _expand_combined_citations(text.strip())
     if text == ABSTENTION:
         return "abstained", "Model reported insufficient evidence", ABSTENTION, []
     if not text:
@@ -269,6 +283,7 @@ def generate_grounded_answer(
         "model": model.strip(),
         "messages": package["messages"],
         "stream": False,
+        "keep_alive": "60m",
         "options": {
             "temperature": 0,
             "seed": 42,
