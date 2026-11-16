@@ -32,30 +32,30 @@ User question ──► drug router ──► retrieve Top-K ──► prompt bu
                                               citation check ──► Gradio UI
 ```
 
-| Stage | Role |
-|------|------|
-| Ingest | Extract page-level text from PDFs with PyMuPDF |
-| Clean | Conservative, page-preserving text normalization |
-| Chunk | Character chunking that never crosses page boundaries |
-| Embed | `BAAI/bge-small-en-v1.5` embeddings |
-| Index | Persistent ChromaDB vectors (~7,194 chunks) |
-| Retrieve | Source-scoped Top-K semantic search |
-| Generate | Local Ollama chat with streaming + citation checks |
-| Evaluate | Labeled IR metrics for assignment reporting |
+| Stage    | Role                                                  |
+| -------- | ----------------------------------------------------- |
+| Ingest   | Extract page-level text from PDFs with PyMuPDF        |
+| Clean    | Conservative, page-preserving text normalization      |
+| Chunk    | Character chunking that never crosses page boundaries |
+| Embed    | `BAAI/bge-small-en-v1.5` embeddings                   |
+| Index    | Persistent ChromaDB vectors (~7,194 chunks)           |
+| Retrieve | Source-scoped Top-K semantic search                   |
+| Generate | Local Ollama chat with streaming + citation checks    |
+| Evaluate | Labeled IR metrics for assignment reporting           |
 
 ---
 
 ## Stack
 
-| Component | Choice |
-|----------|--------|
-| Language | Python 3.11+ |
-| PDF extraction | PyMuPDF |
-| Embeddings | BAAI/bge-small-en-v1.5 |
-| Vector store | ChromaDB |
-| LLM runtime | Ollama |
-| Model | `qwen2.5:7b-instruct` |
-| UI | Gradio 6 |
+| Component      | Choice                 |
+| -------------- | ---------------------- |
+| Language       | Python 3.11+           |
+| PDF extraction | PyMuPDF                |
+| Embeddings     | BAAI/bge-small-en-v1.5 |
+| Vector store   | ChromaDB               |
+| LLM runtime    | Ollama                 |
+| Model          | `qwen2.5:7b-instruct`  |
+| UI             | Gradio 6               |
 
 ---
 
@@ -109,7 +109,7 @@ python -m scripts.app
 
 Open [http://127.0.0.1:7860](http://127.0.0.1:7860).
 
-The app warms Ollama on startup, then opens a ChatGPT-style local interface.
+The app warms Ollama on startup, then opens a local interface.
 
 ---
 
@@ -217,11 +217,11 @@ Tests are offline by default (fake Ollama / fake retrieval). No GPU is required 
 
 ## Hardware notes
 
-| Resource | Recommendation |
-|---------|----------------|
-| RAM | 16 GB+ recommended for Qwen2.5 7B + embeddings |
-| GPU | Optional; 4 GB VRAM works with partial offload |
-| Disk | Space for PDFs, embeddings, and ChromaDB |
+| Resource | Recommendation                                 |
+| -------- | ---------------------------------------------- |
+| RAM      | 16 GB+ recommended for Qwen2.5 7B + embeddings |
+| GPU      | Optional; 4 GB VRAM works with partial offload |
+| Disk     | Space for PDFs, embeddings, and ChromaDB       |
 
 If Ollama returns out-of-memory errors, free RAM, keep a single model loaded, and retry after the app warmup completes.
 
