@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "status": "rejected_mixed_abstention",
+  "question": "What are the adverse reactions of ibuprofen?",
+  "model": "qwen2.5:7b-instruct",
+  "answer": "I don't have enough information in the provided documents.",
+  "reason": "Model mixed unsupported content with abstention",
+  "citations": [],
+  "cited_sources": [],
+  "prompt_status": "ready",
+  "prompt_sha256": "8318d30acf79c456d2e35a3ade2fb835c22592f46649911645b5b5baeeeb9d2d",
+  "usage": {
+    "prompt_eval_count": 1613,
+    "eval_count": 24,
+    "done_reason": "stop"
+  },
+  "note": "Citations checked for valid IDs only. Medical factual support was not automatically verified."
+}
