@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "status": "rejected_mixed_abstention",
+  "question": "What safety warnings are listed for ibuprofen?",
+  "model": "qwen2.5:7b-instruct",
+  "answer": "I don't have enough information in the provided documents.",
+  "reason": "Model mixed unsupported content with abstention",
+  "citations": [],
+  "cited_sources": [],
+  "prompt_status": "ready",
+  "prompt_sha256": "8ee074696b85e8054fdade86a9731c282eb1223fe9e2a4919d5c9fc92500d5d6",
+  "usage": {
+    "prompt_eval_count": 1613,
+    "eval_count": 24,
+    "done_reason": "stop"
+  },
+  "note": "Citations checked for valid IDs only. Medical factual support was not automatically verified."
+}
