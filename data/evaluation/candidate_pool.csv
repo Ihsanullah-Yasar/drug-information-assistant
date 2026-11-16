@@ -1,0 +1,3247 @@
+﻿question_id,question,mode,rank,chunk_id,filename,page_number,chunk_index,cosine_similarity,full_passage,review_relevant_1_or_0
+ibu_01,What safety warnings are listed for ibuprofen?,global,1,7d9bb17f25250a80bd8f5bfeced2fcbd04066ad5eb7947e6a51cbd43d4a391ed,naproxen_500mg_remedyrepack_inc.pdf,2,4,0.7428862452507019,"BING INFORMATION: CONTENTS*
+WARNING: RISK OF SERIOUS CARDIOVASCULAR AND GASTROINTESTINAL
+EVENTS
+1 INDICATIONS AND USAGE
+2 DOSAGE AND ADMINISTRATION
+2.1 General Dosing Instructions
+2.2 Rheumatoid Arthritis, Osteoarthritis and Ankylosing Spondylitis
+2.3 Polyarticular Juvenile Idiopathic Arthritis
+2.4 Management of Pain, Primary Dysmenorrhea, and Acute Tendonitis
+and Bursitis
+2.5 Acute Gout
+2.6 Non-Interchangeability with Other Formulations of Naproxen
+3 DOSAGE FORMS AND STRENGTHS
+4 CONTRAINDICATIONS
+5 WARNINGS AND PRECAUTIONS
+5.1 Cardiovascular Thrombotic Events
+5.2 Gastrointestinal Bleeding, Ulceration, and Perforation
+5.3 Hepatotoxicity
+5.4 Hypertension
+5.5 Heart Failure and Edema
+5.6 Renal Toxicity and Hyperkalemia
+5.7 Anaphylactic Reactions
+5.8 Exacerbation of Asthma Related to Aspirin Sensitivity
+5.9 Serious Skin Reactions
+5.10 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
+5.11 Fetal Toxicity
+5.12 Hematologic Toxicity
+5.13 Masking of Inflammation and Fever
+",
+ibu_01,What safety warnings are listed for ibuprofen?,global,2,14d4e62baa5a01a23ba4353ccf3a4a2727537f35b24e8d2ef85b7774cae9256f,ibuprofen_200mg_haleon_us_holdings_llc.pdf,2,1,0.7394492626190186,"asthma (wheezing)
+shock
+skin reddening
+rash
+blisters
+If an allergic reaction occurs, stop use and seek medical help right away.
+Stomach bleeding warning:
+This product contains an NSAID, which may cause severe stomach bleeding. The chance
+is higher if you
+are age 60 or older
+have had stomach ulcers or bleeding problems
+take a blood thinning (anticoagulant) or steroid drug
+take other drugs containing prescription or non-prescription NSAIDs [aspirin,
+ibuprofen, naproxen, or others]
+have 3 or more alcoholic drinks every day while using this product
+take more or for a longer time than directed
+Heart attack and stroke warning:
+NSAIDs, except aspirin, increase the risk of heart attack, heart failure, and stroke. These
+can be fatal. The risk is higher if you use more than directed or for longer than directed.
+Do not use
+if you have ever had an allergic reaction to any other pain reliever/fever reducer
+right before or after heart surgery
+Ask a doctor before use if
+",
+ibu_01,What safety warnings are listed for ibuprofen?,global,3,dae77189374b92f1541307db767b31957c90b7c1f1b18a1f88d3ea64ba04fc4c,naproxen_500mg_remedyrepack_inc.pdf,16,5,0.7374609708786011,"stric
+pain, dyspepsia, melena, and hematemesis to their health care provider. In the setting of
+concomitant use of low-dose aspirin for cardiac prophylaxis, inform patients of the
+increased risk for and the signs and symptoms of GI bleeding [see Warnings and
+Precautions (5.2)].
+Hepatotoxicity
+Inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea,
+fatigue, lethargy, pruritus, diarrhea, jaundice, right upper quadrant tenderness, and “flu-
+like” symptoms). If these occur, instruct patients to stop naproxen tablets and seek
+immediate medical therapy [ see Warnings and Precautions (5.3)].
+Heart Failure and Edema
+Advise patients to be alert for the symptoms of congestive heart failure including
+shortness of breath, unexplained weight gain, or edema and to contact their healthcare
+provider if such symptoms occur [see Warnings and Precautions (5.5)] .
+Anaphylactic Reactions
+Inform patients of the signs of an anaphylactic reaction (e.g., difficulty breathing,
+",
+ibu_01,What safety warnings are listed for ibuprofen?,global,4,955a611853adef9b94e6e29e174a74952f3676cbf854cf601e0e69f525b2781f,naproxen_500mg_remedyrepack_inc.pdf,3,1,0.7374125719070435,"FULL PRESCRIBING INFORMATION
+WARNING: RISK OF SERIOUS CARDIOVASCULAR AND
+GASTROINTESTINAL EVENTS
+Cardiovascular Thrombotic Events
+• Nonsteroidal anti-inflammatory drugs (NSAIDs) cause an increased risk
+of serious cardiovascular thrombotic events, including myocardial
+infarction and stroke, which can be fatal. This risk may occur early in
+treatment and may increase with duration of use [ see Warnings and
+Precautions (5.1)].
+• Naproxen Tablets are contraindicated in the setting of coronary artery
+bypass graft (CABG) surgery [ see Contraindications(4), Warnings and
+Precautions (5.1)] .
+Gastrointestinal Bleeding, Ulceration, and Perforation
+• NSAIDs cause an increased risk of serious gastrointestinal (GI)
+adverse events including bleeding, ulceration, and perforation of the
+stomach or intestines, which can be fatal. These events can occur at
+any time during use and without warning symptoms. Elderly patients and
+patients with a prior history of peptic ulcer disease and/or GI bleeding
+",
+ibu_01,What safety warnings are listed for ibuprofen?,global,5,cac21ba44e01e3d2245de22ec82d3d358a54cdd1e92bdb339ccc2699da7b0c2e,naproxen_500mg_remedyrepack_inc.pdf,1,2,0.7368146777153015," ( 4, 5.1)
+• NSAIDs cause an increased risk of serious gastrointestinal (GI) adverse events
+including bleeding, ulceration, and perforation of the stomach or intestines, which can
+be fatal. These events can occur at any time during use and without warning
+symptoms. Elderly patients and patients with a prior history of peptic ulcer disease
+and/or GI bleeding are at greater risk for serious GI events. ( 5.2)
+RECENT MAJOR CHANGES
+Warnings and Precautions ( 5.9) 11/2024
+INDICATIONS AND USAGE
+Naproxen tablets are a non-steroidal anti-inflammatory drugs indicated for: (1)
+(1)
+the relief of the signs and symptoms of:
+• rheumatoid arthritis
+• osteoarthritis
+• ankylosing spondylitis
+• polyarticular juvenile idiopathic arthritis (1)
+(1)
+Naproxen Tablets are also indicated for:
+the relief of signs and symptoms of:
+• tendonitis
+• bursitis
+• acute gout (1)
+(1)
+the management of:
+• pain
+• primary dysmenorrhea (1)
+(1)
+(1)
+DOSAGE AND ADMINISTRATION
+",
+ibu_01,What safety warnings are listed for ibuprofen?,global,6,23643591e34cc2fa8b8fa58320d1ae27ef71f93f11461f290cb234cbace09ffd,diclofenac_sodium_100mg_nucare_pharmaceuticals_llc.pdf,17,4,0.7351627349853516,"ents (see WARNINGS)
+• GI Bleeding, Ulceration and Perforation (see WARNINGS)
+• Hepatotoxicity (see WARNINGS)
+• Hypertension (see WARNINGS)
+• Heart Failure and Edema (see WARNINGS)
+• Renal Toxicity and Hyperkalemia (see WARNINGS)
+• Anaphylactic Reactions (see WARNINGS)
+• Serious Skin Reactions (see WARNINGS)
+• Hematologic Toxicity (see WARNINGS)",
+ibu_01,What safety warnings are listed for ibuprofen?,global,7,07d8f1f4c1cf9fa741e826ca9ec56a0deab057ea6c984b73c444a4a2074a46ac,pantoprazole_sodium_40mg_redpharm_drug.pdf,8,2,0.7335724234580994,"6 ADVERSE REACTIONS
+The following serious adverse reactions are described below and elsewhere in labeling:
+• Acute Tubulointerstitial Nephritis [see Warnings and Precautions(5.2)]
+• Clostridium difficile-Associated Diarrhea [see Warnings and Precautions(5.3)]
+• Bone Fracture [see Warnings and Precautions(5.4)]
+• Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.5)]
+• Cutaneous and Systemic Lupus Erythematosus [see Warnings and
+Precautions(5.6)]
+• Cyanocobalamin (Vitamin B-12) Deficiency [see Warnings and Precautions(5.7)]
+• Hypomagnesemia and Mineral Metabolism [see Warnings and Precautions(5.8)]
+• Fundic Gland Polyps [see Warnings and Precautions(5.10)]
+6.1 Clinical Trials Experience
+The adverse reaction profiles for pantoprazole sodium delayed-release oral suspension
+and pantoprazole sodium delayed-release tablets are similar.
+Because clinical trials are conducted under widely varying conditions, adverse reaction
+",
+ibu_01,What safety warnings are listed for ibuprofen?,global,8,d734d9a0f441d2597485395366643a2dd6f9a99e35ddf7ee8540af9f69160b35,diclofenac_sodium_100mg_nucare_pharmaceuticals_llc.pdf,11,3,0.7300292253494263,"ended due to
+the increased risk of gastrointestinal toxicity, and little or no increase in efficacy ( see
+WARNINGS: Gastrointestinal Bleeding, Ulceration, and Perforation and Drug
+Interactions). Alert patients that NSAIDs may be present in “over the counter”
+medications for treatment of colds, fever, or insomnia.
+Use of NSAIDS and Low-Dose Aspirin
+Inform patients not to use low-dose aspirin concomitantly with diclofenac sodium
+extended-release tablets until they talk to their healthcare provider ( see PRECAUTIONS;
+Drug Interactions).
+Masking of Inflammation and Fever
+The pharmacological activity of diclofenac sodium extended-release tablets in reducing
+inflammation, and possibly fever, may diminish the utility of diagnostic signs in detecting
+infections.
+Laboratory Monitoring
+Because serious GI bleeding, hepatotoxicity, and renal injury can occur without warning
+symptoms or signs, consider monitoring patients on long-term NSAID treatment with a
+",
+ibu_01,What safety warnings are listed for ibuprofen?,global,9,e7ddef13c7737ea91b77095c1aa8bc80c24852a67db1c3481d5de6294df3f649,meloxicam_15mg_bryant_ranch_prepack.pdf,11,2,0.7285795211791992,"anticoagulants, antiplatelet agents (e.g., aspirin), serotonin reuptake inhibitors (SSRIs)
+and serotonin norepinephrine reuptake inhibitors (SNRIs) may increase this risk. Monitor
+these patients for signs of bleeding [see Drug Interactions (7)] .
+5.13 Masking of Inflammation and Fever
+The pharmacological activity of meloxicam in reducing inflammation, and possibly fever,
+may diminish the utility of diagnostic signs in detecting infections.
+5.14 Laboratory Monitoring
+Because serious GI bleeding, hepatotoxicity, and renal injury can occur without warning
+symptoms or signs, consider monitoring patients on long-term NSAID treatment with a
+CBC and a chemistry profile periodically [see Warnings and Precautions (5.2, 5.3, 5.6)] .
+6 ADVERSE REACTIONS
+The following adverse reactions are discussed in greater detail in other sections of the
+labeling:
+Cardiovascular Thrombotic Events [see Boxed Warningand Warnings and Precautions
+(5.1)]
+",
+ibu_01,What safety warnings are listed for ibuprofen?,global,10,4d6d577286462b23a8c15ae24b53f3429b7611b9b31466c2e51a499229a7f12f,indomethacin_50mg_northstar_rxllc.pdf,4,1,0.7264693379402161,"WARNING: RISK OF SERIOUS CARDIOVASCULAR AND
+GASTROINTESTINAL EVENTS
+Cardiovascular Thrombotic Events
+• Nonsteroidal anti-inflammatory drugs (NSAIDs) cause an increased risk
+of serious cardiovascular thrombotic events, including myocardial
+infarction and stroke, which can be fatal. This risk may occur early in
+treatment and may increase with duration of use [ see Warnings and
+Precautions ( 5.1) ].
+• Indomethacin suppositories are contraindicated in the setting of
+coronary artery bypass graft (CABG) surgery [ see Contraindications (
+4) and Warnings and Precautions ( 5.1) ].
+Gastrointestinal Bleeding, Ulceration, and Perforation
+• NSAIDs cause an increased risk of serious gastrointestinal (GI)
+adverse events including bleeding, ulceration, and perforation of the
+stomach or intestines, which can be fatal. These events can occur at
+any time during use and without warning symptoms. Elderly patients and
+patients with a prior history of peptic ulcer disease and/or GI bleeding
+",
+ibu_01,What safety warnings are listed for ibuprofen?,drug_aware,1,14d4e62baa5a01a23ba4353ccf3a4a2727537f35b24e8d2ef85b7774cae9256f,ibuprofen_200mg_haleon_us_holdings_llc.pdf,2,1,0.7394492626190186,"asthma (wheezing)
+shock
+skin reddening
+rash
+blisters
+If an allergic reaction occurs, stop use and seek medical help right away.
+Stomach bleeding warning:
+This product contains an NSAID, which may cause severe stomach bleeding. The chance
+is higher if you
+are age 60 or older
+have had stomach ulcers or bleeding problems
+take a blood thinning (anticoagulant) or steroid drug
+take other drugs containing prescription or non-prescription NSAIDs [aspirin,
+ibuprofen, naproxen, or others]
+have 3 or more alcoholic drinks every day while using this product
+take more or for a longer time than directed
+Heart attack and stroke warning:
+NSAIDs, except aspirin, increase the risk of heart attack, heart failure, and stroke. These
+can be fatal. The risk is higher if you use more than directed or for longer than directed.
+Do not use
+if you have ever had an allergic reaction to any other pain reliever/fever reducer
+right before or after heart surgery
+Ask a doctor before use if
+",
+ibu_01,What safety warnings are listed for ibuprofen?,drug_aware,2,4ed4b42e11da8f38b5752954ae094f3ef854175121820b704b4544737291cceb,ibuprofen_200mg_haleon_us_holdings_llc.pdf,2,2,0.7208064794540405," longer than directed.
+Do not use
+if you have ever had an allergic reaction to any other pain reliever/fever reducer
+right before or after heart surgery
+Ask a doctor before use if
+stomach bleeding warning applies to you
+you have problems or serious side effects from taking pain relievers or fever
+reducers
+you have a history of stomach problems, such as heartburn
+you have high blood pressure, heart disease, liver cirrhosis, kidney disease, asthma,
+or had a stroke
+you are taking a diuretic
+Ask a doctor or pharmacist before use if you are
+under a doctor's care for any serious condition
+taking aspirin for heart attack or stroke, because ibuprofen may decrease this benefit
+of aspirin
+taking any other drug
+When using this product
+take with food or milk if stomach upset occurs
+Stop use and ask a doctor if
+you experience any of the following signs of stomach bleeding:
+feel faint",
+ibu_01,What safety warnings are listed for ibuprofen?,drug_aware,3,0eb26c6b6bbf3b13b40d36d8f9ddfab1f18dc0510948c9deaf900c1a07210d32,ibuprofen_200mg_haleon_us_holdings_llc.pdf,3,1,0.7185655832290649,"vomit blood
+have bloody or black stools
+have stomach pain that does not get better
+you have symptoms of heart problems or stroke:
+chest pain
+trouble breathing
+weakness in one part or side of body
+slurred speech
+leg swelling
+pain gets worse or lasts more than 10 days
+fever gets worse or lasts more than 3 days
+redness or swelling is present in the painful area
+any new symptoms appear
+If pregnant or breast-feeding,
+ask a health professional before use. It is especially important not to use ibuprofen at 20
+weeks or later in pregnancy unless definitely directed to do so by a doctor because it
+may cause problems in the unborn child or complications during delivery.
+Keep out of reach of children.
+In case of overdose, get medical help or contact a Poison Control Center right away.
+Directions
+Advil Tablets
+do not take more than directed
+the smallest effective dose should be used
+adults and children 12 years and over: take 1 tablet every 4 to 6 hours while
+symptoms persist
+",
+ibu_01,What safety warnings are listed for ibuprofen?,drug_aware,4,f313b19ebb1c2b28ae6bd22611fd6004f86d7f9f813e2fcb3d802fdab4298bd2,ibuprofen_200mg_haleon_us_holdings_llc.pdf,22,1,0.7013074159622192,"Product Information
+Product Type HUMAN OTC DRUG Item Code (Source) NDC:0573-1711
+Route of Administration ORAL
+Active Ingredient/Active Moiety
+Ingredient Name Basis of Strength Strength
+IBUPROFEN (UNII: WK2XYI10QM) (IBUPROFEN - UNII:WK2XYI10QM) IBUPROFEN 200 mg
+Inactive Ingredients
+Ingredient Name Strength
+MICROCRYSTALLINE CELLULOSE (UNII: OP1R32D61U)
+CROSCARMELLOSE SODIUM (UNII: M28OL1HH48)
+FERRIC OXIDE RED (UNII: 1K09F3G675)
+METHYLPARABEN (UNII: A2I8C7HI9T)
+POVIDONE, UNSPECIFIED (UNII: FZ989GH94E)
+PROPYLPARABEN (UNII: Z8IX2SC1OH)
+SHELLAC (UNII: 46N107B71O)
+SILICON DIOXIDE (UNII: ETJ7Z6XBU4)
+SODIUM BENZOATE (UNII: OJ245FE5EU)
+SODIUM LAURYL SULFATE (UNII: 368GB5141J)
+STARCH, CORN (UNII: O8232NY3SJ)
+STEARIC ACID (UNII: 4ELV7Z65AP)
+SUCROSE (UNII: C151H8M554)
+TITANIUM DIOXIDE (UNII: 15FIX9V2JP)
+WHITE WAX (UNII: 7G1J5DA97F)
+DIACETYLATED MONOGLYCERIDES (UNII: 5Z17386USF)
+Product Characteristics
+Color brown (pinkish brown) Score no score
+Shape ROUND Size 11mm
+Flavor Imprint Code Advil
+",
+ibu_01,What safety warnings are listed for ibuprofen?,drug_aware,5,9a3b2ec1a9e01df20790651a5d98a545e82e15f4f79762e75226b894c95bf2d8,ibuprofen_200mg_haleon_us_holdings_llc.pdf,13,1,0.7003288269042969,"Product Information
+Product Type HUMAN OTC DRUG Item Code (Source) NDC:0573-0154
+Route of Administration ORAL
+Active Ingredient/Active Moiety
+Ingredient Name Basis of Strength Strength
+IBUPROFEN (UNII: WK2XYI10QM) (IBUPROFEN - UNII:WK2XYI10QM) IBUPROFEN 200 mg
+Inactive Ingredients
+Ingredient Name Strength
+MICROCRYSTALLINE CELLULOSE (UNII: OP1R32D61U)
+CROSCARMELLOSE SODIUM (UNII: M28OL1HH48)
+FERRIC OXIDE RED (UNII: 1K09F3G675)
+METHYLPARABEN (UNII: A2I8C7HI9T)
+POVIDONE, UNSPECIFIED (UNII: FZ989GH94E)
+PROPYLPARABEN (UNII: Z8IX2SC1OH)
+SHELLAC (UNII: 46N107B71O)
+SILICON DIOXIDE (UNII: ETJ7Z6XBU4)
+SODIUM BENZOATE (UNII: OJ245FE5EU)
+SODIUM LAURYL SULFATE (UNII: 368GB5141J)
+STARCH, CORN (UNII: O8232NY3SJ)
+STEARIC ACID (UNII: 4ELV7Z65AP)
+SUCROSE (UNII: C151H8M554)
+TITANIUM DIOXIDE (UNII: 15FIX9V2JP)
+WHITE WAX (UNII: 7G1J5DA97F)
+DIACETYLATED MONOGLYCERIDES (UNII: 5Z17386USF)
+Product Characteristics
+Color brown (pinkish brown) Score no score
+Shape ROUND Size 11mm
+Flavor Imprint Code Advil
+",
+ibu_01,What safety warnings are listed for ibuprofen?,drug_aware,6,dac65ee39251aee744fea5a96b316e422d02db6120148d4b903ab748446deb42,ibuprofen_200mg_haleon_us_holdings_llc.pdf,1,1,0.6983760595321655,"ADVIL- ibuprofen tablet, coated
+Haleon US Holdings LLC
+----------
+Drug Facts
+Active Ingredient
+Advil Tablets (in each tablet)
+Ibuprofen 200 mg (NSAID)*
+*nonsteroidal anti-inflammatory drug
+Advil Caplets (in each caplet)
+Ibuprofen 200 mg (NSAID)*
+*nonsteroidal anti-inflammatory drug
+Advil Gel Caplets (in each gel caplet)
+Ibuprofen 200 mg (NSAID)*
+*nonsteroidal anti-inflammatory drug
+Purpose
+Pain reliever/Fever reducer
+Uses
+temporarily relieves minor aches and pains due to:
+headache
+toothache
+backache
+menstrual cramps
+the common cold
+muscular aches
+minor pain of arthritis
+temporarily reduces fever
+Warnings
+Allergy alert:
+Ibuprofen may cause a severe allergic reaction, especially in people allergic to aspirin.
+Symptoms may include:
+hives
+facial swelling",
+ibu_01,What safety warnings are listed for ibuprofen?,drug_aware,7,8e60d16c4a13530dd27e0187d2ee67ab23b6376d6f44b65f88c40f40250b8cbd,ibuprofen_200mg_haleon_us_holdings_llc.pdf,14,2,0.6957327127456665," Marketing End
+Category Citation Date Date
+NDA NDA018989 05/18/1984
+ADVIL
+ibuprofen tablet, coated
+Product Information
+Product Type HUMAN OTC DRUG Item Code (Source) NDC:0573-0151
+Route of Administration ORAL
+Active Ingredient/Active Moiety
+Ingredient Name Basis of Strength Strength
+IBUPROFEN (UNII: WK2XYI10QM) (IBUPROFEN - UNII:WK2XYI10QM) IBUPROFEN 200 mg
+Inactive Ingredients
+Ingredient Name Strength
+MICROCRYSTALLINE CELLULOSE (UNII: OP1R32D61U)
+CROSCARMELLOSE SODIUM (UNII: M28OL1HH48)
+FERRIC OXIDE RED (UNII: 1K09F3G675)",
+ibu_01,What safety warnings are listed for ibuprofen?,drug_aware,8,8b0d96fd793cc9dd4e705bcf70240bcbbaccbaeeb28cbdcaa2c649154e9946e0,ibuprofen_200mg_haleon_us_holdings_llc.pdf,16,1,0.6941623687744141,"115 in 1 BOTTLE; Type 0: Not a Combination 8
+Product
+NDC:0573-0151- 9 2 in 1 CARTON 03/28/2025
+40
+100 in 1 BOTTLE; Type 0: Not a Combination 9
+Product
+Marketing Information
+Marketing Application Number or Monograph Marketing Start Marketing End
+Category Citation Date Date
+NDA NDA018989 05/18/1984
+ADVIL
+ibuprofen tablet, coated
+Product Information
+Product Type HUMAN OTC DRUG Item Code (Source) NDC:0573-0161
+Route of Administration ORAL
+Active Ingredient/Active Moiety
+Ingredient Name Basis of Strength Strength
+IBUPROFEN (UNII: WK2XYI10QM) (IBUPROFEN - UNII:WK2XYI10QM) IBUPROFEN 200 mg
+Inactive Ingredients
+Ingredient Name Strength
+MICROCRYSTALLINE CELLULOSE (UNII: OP1R32D61U)
+CROSCARMELLOSE SODIUM (UNII: M28OL1HH48)
+FERRIC OXIDE RED (UNII: 1K09F3G675)
+METHYLPARABEN (UNII: A2I8C7HI9T)
+POVIDONE, UNSPECIFIED (UNII: FZ989GH94E)
+PROPYLPARABEN (UNII: Z8IX2SC1OH)
+SHELLAC (UNII: 46N107B71O)
+SILICON DIOXIDE (UNII: ETJ7Z6XBU4)
+SODIUM BENZOATE (UNII: OJ245FE5EU)
+",
+ibu_01,What safety warnings are listed for ibuprofen?,drug_aware,9,4e78e4ded038b02009aa5eedeea402d200626a26f0daac58a5580d8b5e88551d,ibuprofen_200mg_haleon_us_holdings_llc.pdf,10,1,0.6894009709358215,"Principal Display Panel - 225 Caplet Bottle Label
+NDC 0573-1711-14
+Advil®
+Ibuprofen Tablets, 200 mg
+Pain Reliever/Fever Reducer (NSAID)
+225 Caplets
+Caplets
+READ AND KEEP CARTON FOR COMPLETE
+WARNINGS AND INFORMATION
+PAA085439 Bottle Label",
+ibu_01,What safety warnings are listed for ibuprofen?,drug_aware,10,0d587cc85b257984e3e0f9e6be66ced7e3486b9c0ce75bd376eacfc00c05e742,ibuprofen_200mg_haleon_us_holdings_llc.pdf,4,2,0.6893147230148315,"odium,
+methylparaben, microcrystalline cellulose, pharmaceutical glaze, pharmaceutical ink,
+povidone, pregelatinized starch, propylparaben, sodium benzoate, sodium lauryl sulfate,
+stearic acid, sucrose, synthetic iron oxide, titanium dioxide, white wax
+Advil Gel Caplets
+colloidal silicon dioxide, corn starch, croscarmellose sodium, FD&C red no. 40, FD&C
+yellow no. 6, fractionated coconut oil, gelatin, glycerin, hypromellose, pharmaceutical ink,
+pregelatinized starch, propyl gallate, purified water, sodium lauryl sulfate, stearic acid,
+synthetic iron oxides, titanium dioxide, triacetin
+Questions or comments?
+call toll free 1-800-88-ADVIL
+Additional Information (Tablets)
+Do Not Use if seal under bottle cap imprinted with “SEALED for YOUR
+PROTECTION”is broken or missing.
+READ AND KEEP CARTON FOR COMPLETE WARNINGS AND INFORMATION
+PRINCIPAL DISPLAY PANEL – 100 Gel Caplet Bottle Carton
+NDC 0573-0165-40
+Advil
+Ibuprofen Tablets, 200 mg",
+ibu_02,What are the allergy warnings for ibuprofen?,global,1,cff9b39e13e04ea0f0205e610e0fbfbde4458ec004898bb4c3fe07be5f6c0039,diclofenac_sodium_100mg_nucare_pharmaceuticals_llc.pdf,4,4,0.7561626434326172,"ns).
+• History of asthma, urticaria, or allergic-type reactions after taking aspirin or other
+NSAIDs. Severe, sometimes fatal, anaphylactice reactions to NSAIDs have been reported
+in such patients ( see WARNINGS; Anaphylactic Reactions, PRECAUTIONS; Exacerbation
+of Asthma Related to Aspirin Sensitivity) .
+• In the setting of coronary artery bypass graft (CABG) surgery ( see WARNINGS;
+Cardiovascular Thrombotic Events).
+WARNINGS",
+ibu_02,What are the allergy warnings for ibuprofen?,global,2,14d4e62baa5a01a23ba4353ccf3a4a2727537f35b24e8d2ef85b7774cae9256f,ibuprofen_200mg_haleon_us_holdings_llc.pdf,2,1,0.7476779222488403,"asthma (wheezing)
+shock
+skin reddening
+rash
+blisters
+If an allergic reaction occurs, stop use and seek medical help right away.
+Stomach bleeding warning:
+This product contains an NSAID, which may cause severe stomach bleeding. The chance
+is higher if you
+are age 60 or older
+have had stomach ulcers or bleeding problems
+take a blood thinning (anticoagulant) or steroid drug
+take other drugs containing prescription or non-prescription NSAIDs [aspirin,
+ibuprofen, naproxen, or others]
+have 3 or more alcoholic drinks every day while using this product
+take more or for a longer time than directed
+Heart attack and stroke warning:
+NSAIDs, except aspirin, increase the risk of heart attack, heart failure, and stroke. These
+can be fatal. The risk is higher if you use more than directed or for longer than directed.
+Do not use
+if you have ever had an allergic reaction to any other pain reliever/fever reducer
+right before or after heart surgery
+Ask a doctor before use if
+",
+ibu_02,What are the allergy warnings for ibuprofen?,global,3,dac65ee39251aee744fea5a96b316e422d02db6120148d4b903ab748446deb42,ibuprofen_200mg_haleon_us_holdings_llc.pdf,1,1,0.7424271106719971,"ADVIL- ibuprofen tablet, coated
+Haleon US Holdings LLC
+----------
+Drug Facts
+Active Ingredient
+Advil Tablets (in each tablet)
+Ibuprofen 200 mg (NSAID)*
+*nonsteroidal anti-inflammatory drug
+Advil Caplets (in each caplet)
+Ibuprofen 200 mg (NSAID)*
+*nonsteroidal anti-inflammatory drug
+Advil Gel Caplets (in each gel caplet)
+Ibuprofen 200 mg (NSAID)*
+*nonsteroidal anti-inflammatory drug
+Purpose
+Pain reliever/Fever reducer
+Uses
+temporarily relieves minor aches and pains due to:
+headache
+toothache
+backache
+menstrual cramps
+the common cold
+muscular aches
+minor pain of arthritis
+temporarily reduces fever
+Warnings
+Allergy alert:
+Ibuprofen may cause a severe allergic reaction, especially in people allergic to aspirin.
+Symptoms may include:
+hives
+facial swelling",
+ibu_02,What are the allergy warnings for ibuprofen?,global,4,fdf04fe9d8db025478088eba87e57bc983b20550986e18737b083292c76b6f5f,acetaminophen_325mg_health_pharma.pdf,1,2,0.7399320602416992,"s has 3 or more alcoholic drinks every day while using this product
+Allergy alert:Acetaminophen may cause severe skin reactions. Symptoms may include:
+skin reddening
+blisters
+rash
+If a skin reaction occurs, stop use and seek medical help right away.
+Do not use
+With any other drug containing acetaminophen (prescription or nonprescription). If
+you are not sure whether a drug contains acetaminophen, ask a doctor or
+pharmacist.
+If you are allergic to acetaminophen or any of the inactive ingredients in this product.",
+ibu_02,What are the allergy warnings for ibuprofen?,global,5,dae77189374b92f1541307db767b31957c90b7c1f1b18a1f88d3ea64ba04fc4c,naproxen_500mg_remedyrepack_inc.pdf,16,5,0.7375749349594116,"stric
+pain, dyspepsia, melena, and hematemesis to their health care provider. In the setting of
+concomitant use of low-dose aspirin for cardiac prophylaxis, inform patients of the
+increased risk for and the signs and symptoms of GI bleeding [see Warnings and
+Precautions (5.2)].
+Hepatotoxicity
+Inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea,
+fatigue, lethargy, pruritus, diarrhea, jaundice, right upper quadrant tenderness, and “flu-
+like” symptoms). If these occur, instruct patients to stop naproxen tablets and seek
+immediate medical therapy [ see Warnings and Precautions (5.3)].
+Heart Failure and Edema
+Advise patients to be alert for the symptoms of congestive heart failure including
+shortness of breath, unexplained weight gain, or edema and to contact their healthcare
+provider if such symptoms occur [see Warnings and Precautions (5.5)] .
+Anaphylactic Reactions
+Inform patients of the signs of an anaphylactic reaction (e.g., difficulty breathing,
+",
+ibu_02,What are the allergy warnings for ibuprofen?,global,6,fc55c2d5c81376bcbb3cc5e0f3f13d5b6a44aff3d8f1bd94a81f6af3366af37b,indomethacin_50mg_northstar_rxllc.pdf,27,1,0.7337233424186707,"Hepatotoxicity
+Inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea,
+fatigue, lethargy, pruritus, diarrhea, jaundice, right upper quadrant tenderness, and “flu-
+like” symptoms). If these occur, instruct patients to stop indomethacin suppositories
+and seek immediate medical therapy [ see Warnings and Precautions ( 5.3) ].
+Heart Failure and Edema
+Advise patients to be alert for the symptoms of congestive heart failure including
+shortness of breath, unexplained weight gain, or edema and to contact their healthcare
+provider if such symptoms occur [ see Warnings and Precautions ( 5.5) ].
+Anaphylactic Reactions
+Inform patients of the signs of an anaphylactic reaction (e.g., difficulty breathing,
+swelling of the face or throat). Instruct patients to seek immediate emergency help if
+these occur [ see Contraindications ( 4) and Warnings and Precautions ( 5.7) ].
+Serious Skin Reactions, including DRESS
+",
+ibu_02,What are the allergy warnings for ibuprofen?,global,7,7efef68dd6c8a6bfa06ddcff26665718c1e51b0607c4906f5c2dc4b7abf9d71c,diclofenac_sodium_100mg_nucare_pharmaceuticals_llc.pdf,11,1,0.731163740158081,"provider if such symptoms occur ( see WARNINGS; Heart Failure and Edema).
+Anaphylactic Reactions
+Inform patients of the signs of an anaphylactic reaction (e.g., difficulty breathing,
+swelling of the face or throat). Instruct patients to seek immediate emergency help if
+these occur ( see WARNINGS; Anaphylactic Reactions).
+Serious Skin Reactions, including DRESS
+Advise patients to stop taking diclofenac sodium extended-release tablets immediately if
+they develop any type of rash or fever and contact their healthcare provider as soon as
+possible ( see WARNINGS; Serious Skin Reactions).
+Female Fertility
+Advise females of reproductive potential who desire pregnancy that NSAIDs, including
+diclofenac sodium extended-release tablets, may be associated with a reversible delay in
+ovulation ( see PRECAUTIONS; Carcinogenesis, Mutagenesis, Impairment of Fertility).
+Fetal Toxicity
+Inform pregnant women to avoid use of diclofenac sodium extended-release tablets and
+",
+ibu_02,What are the allergy warnings for ibuprofen?,global,8,3f86abe1a15d7b3ec30e0ded388c30065187a81b0873145610536915998339b0,ciprofloxacin_hydrochloride_500mg_pd_rx_pharmaceuticals_inc.pdf,19,1,0.7303376197814941,"Hepatitis
+Pancreatitis
+Hemic/Lymphatic Petechia
+Metabolic/Nutritional Hyperglycemia
+Hypoglycemia
+Musculoskeletal Arthralgia
+Joint Stiffness
+Muscle Weakness
+Renal/Urogenital Interstitial Nephritis
+Renal Failure
+System Organ Class Adverse Reactions
+Respiratory Dyspnea
+Laryngeal Edema
+Hemoptysis
+Bronchospasm
+Skin/Hypersensitivity Anaphylactic Reactions including life-
+threatening anaphylactic shock
+Erythema Multiforme/Stevens-Johnson
+Syndrome
+Exfoliative Dermatitis
+Toxic Epidermal Necrolysis
+Pruritus
+Urticaria
+Photosensitivity/Phototoxicity reaction
+Flushing
+Fever
+Angioedema
+Erythema Nodosum
+Sweating
+Special Senses Blurred Vision
+Disturbed Vision (chromatopsia and
+photopsia)
+Decreased Visual Acuity
+Diplopia
+Tinnitus
+Hearing Loss
+Bad Taste
+In randomized, double-blind controlled clinical trials comparing Ciprofloxacin tablets [500
+mg two times daily (BID)] to cefuroxime axetil (250 mg–500 mg BID) and to
+",
+ibu_02,What are the allergy warnings for ibuprofen?,global,9,9ccb43b3a7a094d6f7c4b78022db4ed9d3566483844917a9535fb2ce61eeeddf,ampicillin_sodium_10g_per_100ml_northstar_rx_llc.pdf,4,1,0.7294939160346985,"WARNINGS
+Serious and occasionally fatal hypersensitivity (anaphylactoid) reactions have been
+reported in patients on penicillin therapy. Although anaphylaxis is more frequent
+following parenteral therapy, it has occurred in patients on oral penicillins. These
+reactions are more apt to occur in individuals with a history of penicillin hypersensitivity
+and/or a history of sensitivity to multiple allergens. There have been well-documented
+reports of individuals with a history of penicillin hypersensitivity reactions who have
+experienced severe hypersensitivity reactions when treated with a cephalosporin. Before
+initiating therapy with a penicillin, careful inquiry should be made concerning previous
+hypersensitivity reactions to penicillins, cephalosporins, and other allergens. If an allergic
+reaction occurs, the drug should be discontinued and appropriate therapy instituted.
+SERIOUS ANAPHYLACTOID REACTIONS REQUIRE IMMEDIATE EMERGENCY TREATMENT
+",
+ibu_02,What are the allergy warnings for ibuprofen?,global,10,56385e6d322ac2bbc57112239b6db1fd4e8b3f25c5e065a034409dc60aabd5af,clindamycin_hydrochloride_75mg_150mg_300mg_micro_labs_limited.pdf,11,2,0.727888822555542,"t differences
+between young and elderly subjects with normal hepatic function and normal (age-
+adjusted) renal function after oral or intravenous administration.
+ADVERSE REACTIONS
+The following reactions have been reported with the use of clindamycin.
+Infections and Infestations:Clostridioides difficilecolitis
+Gastrointestinal:Abdominal pain, pseudomembranous colitis, nausea, vomiting, and
+diarrhea (See BOXED WARNING). The onset of pseudomembranous colitis symptoms
+may occur during or after antibacterial treatment (See WARNINGS). Esophagitis
+(including necrotizing esophagitis) and esophageal ulcer have been reported, particularly
+when taken in a lying position or with a small amount of water. An unpleasant or metallic
+taste has been reported after oral administration.
+Hypersensitivity Reactions:Generalized mild to moderate morbilliform-like
+(maculopapular) skin rashes are the most frequently reported adverse reactions.
+",
+ibu_02,What are the allergy warnings for ibuprofen?,drug_aware,1,14d4e62baa5a01a23ba4353ccf3a4a2727537f35b24e8d2ef85b7774cae9256f,ibuprofen_200mg_haleon_us_holdings_llc.pdf,2,1,0.7476779222488403,"asthma (wheezing)
+shock
+skin reddening
+rash
+blisters
+If an allergic reaction occurs, stop use and seek medical help right away.
+Stomach bleeding warning:
+This product contains an NSAID, which may cause severe stomach bleeding. The chance
+is higher if you
+are age 60 or older
+have had stomach ulcers or bleeding problems
+take a blood thinning (anticoagulant) or steroid drug
+take other drugs containing prescription or non-prescription NSAIDs [aspirin,
+ibuprofen, naproxen, or others]
+have 3 or more alcoholic drinks every day while using this product
+take more or for a longer time than directed
+Heart attack and stroke warning:
+NSAIDs, except aspirin, increase the risk of heart attack, heart failure, and stroke. These
+can be fatal. The risk is higher if you use more than directed or for longer than directed.
+Do not use
+if you have ever had an allergic reaction to any other pain reliever/fever reducer
+right before or after heart surgery
+Ask a doctor before use if
+",
+ibu_02,What are the allergy warnings for ibuprofen?,drug_aware,2,dac65ee39251aee744fea5a96b316e422d02db6120148d4b903ab748446deb42,ibuprofen_200mg_haleon_us_holdings_llc.pdf,1,1,0.7424271106719971,"ADVIL- ibuprofen tablet, coated
+Haleon US Holdings LLC
+----------
+Drug Facts
+Active Ingredient
+Advil Tablets (in each tablet)
+Ibuprofen 200 mg (NSAID)*
+*nonsteroidal anti-inflammatory drug
+Advil Caplets (in each caplet)
+Ibuprofen 200 mg (NSAID)*
+*nonsteroidal anti-inflammatory drug
+Advil Gel Caplets (in each gel caplet)
+Ibuprofen 200 mg (NSAID)*
+*nonsteroidal anti-inflammatory drug
+Purpose
+Pain reliever/Fever reducer
+Uses
+temporarily relieves minor aches and pains due to:
+headache
+toothache
+backache
+menstrual cramps
+the common cold
+muscular aches
+minor pain of arthritis
+temporarily reduces fever
+Warnings
+Allergy alert:
+Ibuprofen may cause a severe allergic reaction, especially in people allergic to aspirin.
+Symptoms may include:
+hives
+facial swelling",
+ibu_02,What are the allergy warnings for ibuprofen?,drug_aware,3,0eb26c6b6bbf3b13b40d36d8f9ddfab1f18dc0510948c9deaf900c1a07210d32,ibuprofen_200mg_haleon_us_holdings_llc.pdf,3,1,0.7255589365959167,"vomit blood
+have bloody or black stools
+have stomach pain that does not get better
+you have symptoms of heart problems or stroke:
+chest pain
+trouble breathing
+weakness in one part or side of body
+slurred speech
+leg swelling
+pain gets worse or lasts more than 10 days
+fever gets worse or lasts more than 3 days
+redness or swelling is present in the painful area
+any new symptoms appear
+If pregnant or breast-feeding,
+ask a health professional before use. It is especially important not to use ibuprofen at 20
+weeks or later in pregnancy unless definitely directed to do so by a doctor because it
+may cause problems in the unborn child or complications during delivery.
+Keep out of reach of children.
+In case of overdose, get medical help or contact a Poison Control Center right away.
+Directions
+Advil Tablets
+do not take more than directed
+the smallest effective dose should be used
+adults and children 12 years and over: take 1 tablet every 4 to 6 hours while
+symptoms persist
+",
+ibu_02,What are the allergy warnings for ibuprofen?,drug_aware,4,4ed4b42e11da8f38b5752954ae094f3ef854175121820b704b4544737291cceb,ibuprofen_200mg_haleon_us_holdings_llc.pdf,2,2,0.7079851031303406," longer than directed.
+Do not use
+if you have ever had an allergic reaction to any other pain reliever/fever reducer
+right before or after heart surgery
+Ask a doctor before use if
+stomach bleeding warning applies to you
+you have problems or serious side effects from taking pain relievers or fever
+reducers
+you have a history of stomach problems, such as heartburn
+you have high blood pressure, heart disease, liver cirrhosis, kidney disease, asthma,
+or had a stroke
+you are taking a diuretic
+Ask a doctor or pharmacist before use if you are
+under a doctor's care for any serious condition
+taking aspirin for heart attack or stroke, because ibuprofen may decrease this benefit
+of aspirin
+taking any other drug
+When using this product
+take with food or milk if stomach upset occurs
+Stop use and ask a doctor if
+you experience any of the following signs of stomach bleeding:
+feel faint",
+ibu_02,What are the allergy warnings for ibuprofen?,drug_aware,5,f313b19ebb1c2b28ae6bd22611fd6004f86d7f9f813e2fcb3d802fdab4298bd2,ibuprofen_200mg_haleon_us_holdings_llc.pdf,22,1,0.6974283456802368,"Product Information
+Product Type HUMAN OTC DRUG Item Code (Source) NDC:0573-1711
+Route of Administration ORAL
+Active Ingredient/Active Moiety
+Ingredient Name Basis of Strength Strength
+IBUPROFEN (UNII: WK2XYI10QM) (IBUPROFEN - UNII:WK2XYI10QM) IBUPROFEN 200 mg
+Inactive Ingredients
+Ingredient Name Strength
+MICROCRYSTALLINE CELLULOSE (UNII: OP1R32D61U)
+CROSCARMELLOSE SODIUM (UNII: M28OL1HH48)
+FERRIC OXIDE RED (UNII: 1K09F3G675)
+METHYLPARABEN (UNII: A2I8C7HI9T)
+POVIDONE, UNSPECIFIED (UNII: FZ989GH94E)
+PROPYLPARABEN (UNII: Z8IX2SC1OH)
+SHELLAC (UNII: 46N107B71O)
+SILICON DIOXIDE (UNII: ETJ7Z6XBU4)
+SODIUM BENZOATE (UNII: OJ245FE5EU)
+SODIUM LAURYL SULFATE (UNII: 368GB5141J)
+STARCH, CORN (UNII: O8232NY3SJ)
+STEARIC ACID (UNII: 4ELV7Z65AP)
+SUCROSE (UNII: C151H8M554)
+TITANIUM DIOXIDE (UNII: 15FIX9V2JP)
+WHITE WAX (UNII: 7G1J5DA97F)
+DIACETYLATED MONOGLYCERIDES (UNII: 5Z17386USF)
+Product Characteristics
+Color brown (pinkish brown) Score no score
+Shape ROUND Size 11mm
+Flavor Imprint Code Advil
+",
+ibu_02,What are the allergy warnings for ibuprofen?,drug_aware,6,9a3b2ec1a9e01df20790651a5d98a545e82e15f4f79762e75226b894c95bf2d8,ibuprofen_200mg_haleon_us_holdings_llc.pdf,13,1,0.6946735978126526,"Product Information
+Product Type HUMAN OTC DRUG Item Code (Source) NDC:0573-0154
+Route of Administration ORAL
+Active Ingredient/Active Moiety
+Ingredient Name Basis of Strength Strength
+IBUPROFEN (UNII: WK2XYI10QM) (IBUPROFEN - UNII:WK2XYI10QM) IBUPROFEN 200 mg
+Inactive Ingredients
+Ingredient Name Strength
+MICROCRYSTALLINE CELLULOSE (UNII: OP1R32D61U)
+CROSCARMELLOSE SODIUM (UNII: M28OL1HH48)
+FERRIC OXIDE RED (UNII: 1K09F3G675)
+METHYLPARABEN (UNII: A2I8C7HI9T)
+POVIDONE, UNSPECIFIED (UNII: FZ989GH94E)
+PROPYLPARABEN (UNII: Z8IX2SC1OH)
+SHELLAC (UNII: 46N107B71O)
+SILICON DIOXIDE (UNII: ETJ7Z6XBU4)
+SODIUM BENZOATE (UNII: OJ245FE5EU)
+SODIUM LAURYL SULFATE (UNII: 368GB5141J)
+STARCH, CORN (UNII: O8232NY3SJ)
+STEARIC ACID (UNII: 4ELV7Z65AP)
+SUCROSE (UNII: C151H8M554)
+TITANIUM DIOXIDE (UNII: 15FIX9V2JP)
+WHITE WAX (UNII: 7G1J5DA97F)
+DIACETYLATED MONOGLYCERIDES (UNII: 5Z17386USF)
+Product Characteristics
+Color brown (pinkish brown) Score no score
+Shape ROUND Size 11mm
+Flavor Imprint Code Advil
+",
+ibu_02,What are the allergy warnings for ibuprofen?,drug_aware,7,8b0d96fd793cc9dd4e705bcf70240bcbbaccbaeeb28cbdcaa2c649154e9946e0,ibuprofen_200mg_haleon_us_holdings_llc.pdf,16,1,0.6911158561706543,"115 in 1 BOTTLE; Type 0: Not a Combination 8
+Product
+NDC:0573-0151- 9 2 in 1 CARTON 03/28/2025
+40
+100 in 1 BOTTLE; Type 0: Not a Combination 9
+Product
+Marketing Information
+Marketing Application Number or Monograph Marketing Start Marketing End
+Category Citation Date Date
+NDA NDA018989 05/18/1984
+ADVIL
+ibuprofen tablet, coated
+Product Information
+Product Type HUMAN OTC DRUG Item Code (Source) NDC:0573-0161
+Route of Administration ORAL
+Active Ingredient/Active Moiety
+Ingredient Name Basis of Strength Strength
+IBUPROFEN (UNII: WK2XYI10QM) (IBUPROFEN - UNII:WK2XYI10QM) IBUPROFEN 200 mg
+Inactive Ingredients
+Ingredient Name Strength
+MICROCRYSTALLINE CELLULOSE (UNII: OP1R32D61U)
+CROSCARMELLOSE SODIUM (UNII: M28OL1HH48)
+FERRIC OXIDE RED (UNII: 1K09F3G675)
+METHYLPARABEN (UNII: A2I8C7HI9T)
+POVIDONE, UNSPECIFIED (UNII: FZ989GH94E)
+PROPYLPARABEN (UNII: Z8IX2SC1OH)
+SHELLAC (UNII: 46N107B71O)
+SILICON DIOXIDE (UNII: ETJ7Z6XBU4)
+SODIUM BENZOATE (UNII: OJ245FE5EU)
+",
+ibu_02,What are the allergy warnings for ibuprofen?,drug_aware,8,8e60d16c4a13530dd27e0187d2ee67ab23b6376d6f44b65f88c40f40250b8cbd,ibuprofen_200mg_haleon_us_holdings_llc.pdf,14,2,0.6893629431724548," Marketing End
+Category Citation Date Date
+NDA NDA018989 05/18/1984
+ADVIL
+ibuprofen tablet, coated
+Product Information
+Product Type HUMAN OTC DRUG Item Code (Source) NDC:0573-0151
+Route of Administration ORAL
+Active Ingredient/Active Moiety
+Ingredient Name Basis of Strength Strength
+IBUPROFEN (UNII: WK2XYI10QM) (IBUPROFEN - UNII:WK2XYI10QM) IBUPROFEN 200 mg
+Inactive Ingredients
+Ingredient Name Strength
+MICROCRYSTALLINE CELLULOSE (UNII: OP1R32D61U)
+CROSCARMELLOSE SODIUM (UNII: M28OL1HH48)
+FERRIC OXIDE RED (UNII: 1K09F3G675)",
+ibu_02,What are the allergy warnings for ibuprofen?,drug_aware,9,4e78e4ded038b02009aa5eedeea402d200626a26f0daac58a5580d8b5e88551d,ibuprofen_200mg_haleon_us_holdings_llc.pdf,10,1,0.6862449645996094,"Principal Display Panel - 225 Caplet Bottle Label
+NDC 0573-1711-14
+Advil®
+Ibuprofen Tablets, 200 mg
+Pain Reliever/Fever Reducer (NSAID)
+225 Caplets
+Caplets
+READ AND KEEP CARTON FOR COMPLETE
+WARNINGS AND INFORMATION
+PAA085439 Bottle Label",
+ibu_02,What are the allergy warnings for ibuprofen?,drug_aware,10,0a12c36d75d1118ea1780b491ebf0ae1318b8ba6221c1e545b0846b3470e7b71,ibuprofen_200mg_haleon_us_holdings_llc.pdf,20,1,0.6824172735214233,"60 in 1 BOTTLE; Type 0: Not a Combination 5
+Product
+NDC:0573-0150- 6 1 in 1 CARTON 05/18/1984
+41
+125 in 1 BOTTLE; Type 0: Not a Combination 6
+Product
+NDC:0573-0150- 7 1 in 1 CARTON 05/18/1984
+42
+150 in 1 BOTTLE; Type 0: Not a Combination 7
+Product
+Marketing Information
+Marketing Application Number or Monograph Marketing Start Marketing End
+Category Citation Date Date
+NDA NDA018989 05/18/1984
+ADVIL
+ibuprofen tablet, coated
+Product Information
+Product Type HUMAN OTC DRUG Item Code (Source) NDC:0573-0160
+Route of Administration ORAL
+Active Ingredient/Active Moiety
+Ingredient Name Basis of Strength Strength
+IBUPROFEN (UNII: WK2XYI10QM) (IBUPROFEN - UNII:WK2XYI10QM) IBUPROFEN 200 mg
+Inactive Ingredients
+Ingredient Name Strength
+MICROCRYSTALLINE CELLULOSE (UNII: OP1R32D61U)
+CROSCARMELLOSE SODIUM (UNII: M28OL1HH48)
+FERRIC OXIDE RED (UNII: 1K09F3G675)
+METHYLPARABEN (UNII: A2I8C7HI9T)
+POVIDONE, UNSPECIFIED (UNII: FZ989GH94E)
+PROPYLPARABEN (UNII: Z8IX2SC1OH)
+SHELLAC (UNII: 46N107B71O)
+",
+ibu_03,What does the ibuprofen label say about stomach bleeding?,global,1,3370b833541f01a123ace284620a6d4b418116d5d9b250ebd8737838aea44db1,diclofenac_sodium_100mg_nucare_pharmaceuticals_llc.pdf,20,2,0.7453747987747192," tears (perforation) of the
+esophagus (tube leading from the mouth to the stomach), stomach and
+intestines:
+• any time during use
+• without warning symptoms
+• that may cause death
+The risk of getting an ulcer or bleeding increases with:
+• past history of stomach ulcers, or stomach or intestinal bleeding with use of NSAIDs
+• taking medicines called “corticosteroids”, “anticoagulants”, “SSRIs”, or “SNRIs”
+• increasing doses of NSAIDs
+• longer use of NSAIDs
+• smoking
+• drinking alcohol
+• older age
+• poor health
+• advanced liver disease
+• bleeding problems
+NSAIDs should only be used:
+• exactly as prescribed
+• at the lowest dose possible for your treatment
+• for the shortest time needed
+What are NSAIDs?
+NSAIDs are used to treat pain and redness, swelling, and heat (inflammation) from
+medical conditions, such as different types of arthritis, menstrual cramps, and other
+types of short-term pain.
+Who should not take NSAIDs?
+Do not take NSAIDs:
+",
+ibu_03,What does the ibuprofen label say about stomach bleeding?,global,2,4abb31e0c8d3601b1576a8ba6ffb35bd1424ee9ba3bfc7855d4ffc02dd52e07a,naproxen_500mg_remedyrepack_inc.pdf,5,2,0.7450187802314758,"ation
+NSAIDs, including naproxen, cause serious gastrointestinal (GI) adverse events including
+inflammation, bleeding, ulceration, and perforation of the esophagus, stomach, small
+intestine, or large intestine, which can be fatal. These serious adverse events can occur
+at any time, with or without warning symptoms, in patients treated with NSAIDs.
+Only one in five patients who develop a serious upper GI adverse event on NSAID
+therapy is symptomatic. Upper GI ulcers, gross bleeding, or perforation caused by
+NSAIDs occurred in approximately 1% of patients treated for 3 to 6 months, and in
+about 2% to 4% of patients treated for one year. However, even short-term NSAID
+therapy is not without risk.
+Risk Factors for GI Bleeding, Ulceration, and Perforation
+Patients with a prior history of peptic ulcer disease and/or GI bleeding who used NSAIDs
+had a greater than 10-fold increased risk for developing a GI bleed compared to patients
+",
+ibu_03,What does the ibuprofen label say about stomach bleeding?,global,3,cac21ba44e01e3d2245de22ec82d3d358a54cdd1e92bdb339ccc2699da7b0c2e,naproxen_500mg_remedyrepack_inc.pdf,1,2,0.7434396743774414," ( 4, 5.1)
+• NSAIDs cause an increased risk of serious gastrointestinal (GI) adverse events
+including bleeding, ulceration, and perforation of the stomach or intestines, which can
+be fatal. These events can occur at any time during use and without warning
+symptoms. Elderly patients and patients with a prior history of peptic ulcer disease
+and/or GI bleeding are at greater risk for serious GI events. ( 5.2)
+RECENT MAJOR CHANGES
+Warnings and Precautions ( 5.9) 11/2024
+INDICATIONS AND USAGE
+Naproxen tablets are a non-steroidal anti-inflammatory drugs indicated for: (1)
+(1)
+the relief of the signs and symptoms of:
+• rheumatoid arthritis
+• osteoarthritis
+• ankylosing spondylitis
+• polyarticular juvenile idiopathic arthritis (1)
+(1)
+Naproxen Tablets are also indicated for:
+the relief of signs and symptoms of:
+• tendonitis
+• bursitis
+• acute gout (1)
+(1)
+the management of:
+• pain
+• primary dysmenorrhea (1)
+(1)
+(1)
+DOSAGE AND ADMINISTRATION
+",
+ibu_03,What does the ibuprofen label say about stomach bleeding?,global,4,14d4e62baa5a01a23ba4353ccf3a4a2727537f35b24e8d2ef85b7774cae9256f,ibuprofen_200mg_haleon_us_holdings_llc.pdf,2,1,0.7378697395324707,"asthma (wheezing)
+shock
+skin reddening
+rash
+blisters
+If an allergic reaction occurs, stop use and seek medical help right away.
+Stomach bleeding warning:
+This product contains an NSAID, which may cause severe stomach bleeding. The chance
+is higher if you
+are age 60 or older
+have had stomach ulcers or bleeding problems
+take a blood thinning (anticoagulant) or steroid drug
+take other drugs containing prescription or non-prescription NSAIDs [aspirin,
+ibuprofen, naproxen, or others]
+have 3 or more alcoholic drinks every day while using this product
+take more or for a longer time than directed
+Heart attack and stroke warning:
+NSAIDs, except aspirin, increase the risk of heart attack, heart failure, and stroke. These
+can be fatal. The risk is higher if you use more than directed or for longer than directed.
+Do not use
+if you have ever had an allergic reaction to any other pain reliever/fever reducer
+right before or after heart surgery
+Ask a doctor before use if
+",
+ibu_03,What does the ibuprofen label say about stomach bleeding?,global,5,4ed4b42e11da8f38b5752954ae094f3ef854175121820b704b4544737291cceb,ibuprofen_200mg_haleon_us_holdings_llc.pdf,2,2,0.7371746301651001," longer than directed.
+Do not use
+if you have ever had an allergic reaction to any other pain reliever/fever reducer
+right before or after heart surgery
+Ask a doctor before use if
+stomach bleeding warning applies to you
+you have problems or serious side effects from taking pain relievers or fever
+reducers
+you have a history of stomach problems, such as heartburn
+you have high blood pressure, heart disease, liver cirrhosis, kidney disease, asthma,
+or had a stroke
+you are taking a diuretic
+Ask a doctor or pharmacist before use if you are
+under a doctor's care for any serious condition
+taking aspirin for heart attack or stroke, because ibuprofen may decrease this benefit
+of aspirin
+taking any other drug
+When using this product
+take with food or milk if stomach upset occurs
+Stop use and ask a doctor if
+you experience any of the following signs of stomach bleeding:
+feel faint",
+ibu_03,What does the ibuprofen label say about stomach bleeding?,global,6,fc858c1eb62a46e984b1584503253bba602e62e56beab0135b4a4fdece4cd034,indomethacin_50mg_northstar_rxllc.pdf,29,3,0.733223557472229,"tired or weaker than usual • there is blood in your bowel
+movement or it is black and sticky like tar
+• diarrhea • unusual weight gain
+• itching • skin rash or blisters with fever
+• your skin or eyes look yellow • swelling of the arms, legs,
+hands and feet
+• indigestion or stomach pain
+• flu-like symptoms
+If you take too much of your NSAID, call your healthcare provider or get
+medical help right away.
+These are not all the possible side eﬀects of NSAIDs. For more information, ask your
+healthcare provider or pharmacist about NSAIDs.
+Call your doctor for medical advice about side eﬀects. You may report side eﬀects to
+FDA at 1-800-FDA-1088.
+Other information about NSAIDs
+• Aspirin is an NSAID but it does not increase the chance of a heart attack. Aspirin can
+cause bleeding in the brain, stomach, and intestines. Aspirin can also cause ulcers in the",
+ibu_03,What does the ibuprofen label say about stomach bleeding?,global,7,bde8742dfc0a3be0a4d1b345497b7b0c460b1a950c2b2726a27a2172036fc290,aspirin_81mg_l_n_k_international_inc.pdf,2,1,0.7322189807891846,"stomach bleeding warning applies to you
+you have a history of stomach problems, such as heartburn
+you have high blood pressure, heart disease, liver cirrhosis, or kidney disease
+you have asthma
+you are taking a diuretic
+Ask a doctor or pharmacist before use if you are
+taking a prescription drug for
+gout
+diabetes
+arthritis
+Stop use and ask a doctor if
+an allergic reaction occurs. Seek medical help right away.
+you experience any of the following signs of stomach bleeding:
+vomit blood
+have bloody or black stools
+feel faint
+have stomach pain that does not get better
+ringing in the ears or a loss of hearing occurs
+pain gets worse or lasts more than 10 days
+fever gets worse or lasts more than 3 days
+redness or swelling is present
+new symptoms occur
+These could be signs of a serious condition.
+If pregnant or breast-feeding,
+ask a health professional before use. It is especially important not to use aspirin at 20
+",
+ibu_03,What does the ibuprofen label say about stomach bleeding?,global,8,5aa6891ec67b58b7f78a82340a44c878f5235ceb9f36b4b9180a4d2132f71220,diclofenac_sodium_100mg_nucare_pharmaceuticals_llc.pdf,11,4,0.7321270704269409,"itoring
+Because serious GI bleeding, hepatotoxicity, and renal injury can occur without warning
+symptoms or signs, consider monitoring patients on long-term NSAID treatment with a
+CBC and a chemistry profile periodically ( see WARNINGS; Gastrointestinal Bleeding,
+Ulceration and Perforation, and Hepatotoxicity).
+Drug Interactions
+See Table 2 for clinically significant drug interactions with diclofenac.
+Table 2. Clinically Significant Drug Interactions with Diclofenac",
+ibu_03,What does the ibuprofen label say about stomach bleeding?,global,9,b1d5d2145c34092d2439fa23e9fc35eb2238d8110cbdf2a29db6b4ea5d6829fc,sertraline_hydrochloride_50mg_remedyrepack_inc.pdf,7,4,0.7316075563430786," nonsteroidal anti-
+inflammatory drugs (NSAIDs), other antiplatelet drugs, warfarin, and other
+anticoagulants may add to this risk. Case reports and epidemiological studies (case-
+control and cohort design) have demonstrated an association between use of drugs
+that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding.
+Based on data from the published observational studies, exposure to SSRIs, particularly
+in the month before delivery, has been associated with a less than 2-fold increase in the
+risk of postpartum hemorrhage [see Use in Specific Populations (8.1)]. Bleeding events
+related to drugs that interfere with serotonin reuptake have ranged from ecchymosis,
+hematoma, epistaxis, and petechiae to life-threatening hemorrhages.
+Inform patients of the increased risk of bleeding associated with the concomitant use of
+sertraline hydrochloride and antiplatelet agents or anticoagulants. For patients taking
+",
+ibu_03,What does the ibuprofen label say about stomach bleeding?,global,10,479b175b935cfdd817190e77586b745d1baac289d637799478f5444af6afb7cd,indomethacin_50mg_northstar_rxllc.pdf,28,2,0.7295726537704468," the mouth to the stomach), stomach and
+intestines:
+o anytime during use
+o without warning symptoms
+o that may cause death
+The risk of getting an ulcer or bleeding increases with:
+o past history of stomach ulcers, or stomach or intestinal bleeding with use of
+NSAIDs
+o taking medicines called “corticosteroids”, “anticoagulants”, “SSRIs”, or “SNRIs”
+o increasing doses of NSAIDs o older age
+o longer use of NSAIDs o poor health
+o smoking o advanced liver disease
+o drinking alcohol o bleeding problems
+NSAIDs should only be used:
+o exactly as prescribed
+o at the lowest dose possible for your treatment
+o for the shortest time needed
+What are NSAIDs?
+NSAIDs are used to treat pain and redness, swelling, and heat (inﬂammation) from
+medical conditions such as diﬀerent types of arthritis, menstrual cramps, and other
+types of short-term pain.
+Who should not take NSAIDs?
+Do not take NSAIDs:
+• if you have had an asthma attack, hives, or other allergic reaction with aspirin or any
+other NSAIDs.
+",
+ibu_03,What does the ibuprofen label say about stomach bleeding?,drug_aware,1,14d4e62baa5a01a23ba4353ccf3a4a2727537f35b24e8d2ef85b7774cae9256f,ibuprofen_200mg_haleon_us_holdings_llc.pdf,2,1,0.7378697395324707,"asthma (wheezing)
+shock
+skin reddening
+rash
+blisters
+If an allergic reaction occurs, stop use and seek medical help right away.
+Stomach bleeding warning:
+This product contains an NSAID, which may cause severe stomach bleeding. The chance
+is higher if you
+are age 60 or older
+have had stomach ulcers or bleeding problems
+take a blood thinning (anticoagulant) or steroid drug
+take other drugs containing prescription or non-prescription NSAIDs [aspirin,
+ibuprofen, naproxen, or others]
+have 3 or more alcoholic drinks every day while using this product
+take more or for a longer time than directed
+Heart attack and stroke warning:
+NSAIDs, except aspirin, increase the risk of heart attack, heart failure, and stroke. These
+can be fatal. The risk is higher if you use more than directed or for longer than directed.
+Do not use
+if you have ever had an allergic reaction to any other pain reliever/fever reducer
+right before or after heart surgery
+Ask a doctor before use if
+",
+ibu_03,What does the ibuprofen label say about stomach bleeding?,drug_aware,2,4ed4b42e11da8f38b5752954ae094f3ef854175121820b704b4544737291cceb,ibuprofen_200mg_haleon_us_holdings_llc.pdf,2,2,0.7371746301651001," longer than directed.
+Do not use
+if you have ever had an allergic reaction to any other pain reliever/fever reducer
+right before or after heart surgery
+Ask a doctor before use if
+stomach bleeding warning applies to you
+you have problems or serious side effects from taking pain relievers or fever
+reducers
+you have a history of stomach problems, such as heartburn
+you have high blood pressure, heart disease, liver cirrhosis, kidney disease, asthma,
+or had a stroke
+you are taking a diuretic
+Ask a doctor or pharmacist before use if you are
+under a doctor's care for any serious condition
+taking aspirin for heart attack or stroke, because ibuprofen may decrease this benefit
+of aspirin
+taking any other drug
+When using this product
+take with food or milk if stomach upset occurs
+Stop use and ask a doctor if
+you experience any of the following signs of stomach bleeding:
+feel faint",
+ibu_03,What does the ibuprofen label say about stomach bleeding?,drug_aware,3,4e78e4ded038b02009aa5eedeea402d200626a26f0daac58a5580d8b5e88551d,ibuprofen_200mg_haleon_us_holdings_llc.pdf,10,1,0.7176526784896851,"Principal Display Panel - 225 Caplet Bottle Label
+NDC 0573-1711-14
+Advil®
+Ibuprofen Tablets, 200 mg
+Pain Reliever/Fever Reducer (NSAID)
+225 Caplets
+Caplets
+READ AND KEEP CARTON FOR COMPLETE
+WARNINGS AND INFORMATION
+PAA085439 Bottle Label",
+ibu_03,What does the ibuprofen label say about stomach bleeding?,drug_aware,4,0eb26c6b6bbf3b13b40d36d8f9ddfab1f18dc0510948c9deaf900c1a07210d32,ibuprofen_200mg_haleon_us_holdings_llc.pdf,3,1,0.7143767476081848,"vomit blood
+have bloody or black stools
+have stomach pain that does not get better
+you have symptoms of heart problems or stroke:
+chest pain
+trouble breathing
+weakness in one part or side of body
+slurred speech
+leg swelling
+pain gets worse or lasts more than 10 days
+fever gets worse or lasts more than 3 days
+redness or swelling is present in the painful area
+any new symptoms appear
+If pregnant or breast-feeding,
+ask a health professional before use. It is especially important not to use ibuprofen at 20
+weeks or later in pregnancy unless definitely directed to do so by a doctor because it
+may cause problems in the unborn child or complications during delivery.
+Keep out of reach of children.
+In case of overdose, get medical help or contact a Poison Control Center right away.
+Directions
+Advil Tablets
+do not take more than directed
+the smallest effective dose should be used
+adults and children 12 years and over: take 1 tablet every 4 to 6 hours while
+symptoms persist
+",
+ibu_03,What does the ibuprofen label say about stomach bleeding?,drug_aware,5,dac65ee39251aee744fea5a96b316e422d02db6120148d4b903ab748446deb42,ibuprofen_200mg_haleon_us_holdings_llc.pdf,1,1,0.7078232765197754,"ADVIL- ibuprofen tablet, coated
+Haleon US Holdings LLC
+----------
+Drug Facts
+Active Ingredient
+Advil Tablets (in each tablet)
+Ibuprofen 200 mg (NSAID)*
+*nonsteroidal anti-inflammatory drug
+Advil Caplets (in each caplet)
+Ibuprofen 200 mg (NSAID)*
+*nonsteroidal anti-inflammatory drug
+Advil Gel Caplets (in each gel caplet)
+Ibuprofen 200 mg (NSAID)*
+*nonsteroidal anti-inflammatory drug
+Purpose
+Pain reliever/Fever reducer
+Uses
+temporarily relieves minor aches and pains due to:
+headache
+toothache
+backache
+menstrual cramps
+the common cold
+muscular aches
+minor pain of arthritis
+temporarily reduces fever
+Warnings
+Allergy alert:
+Ibuprofen may cause a severe allergic reaction, especially in people allergic to aspirin.
+Symptoms may include:
+hives
+facial swelling",
+ibu_03,What does the ibuprofen label say about stomach bleeding?,drug_aware,6,7271a717b68be5269a588452ccadfcf45baf914d6e000d7d07839997def99500,ibuprofen_200mg_haleon_us_holdings_llc.pdf,8,1,0.7027167081832886,"PRINCIPAL DISPLAY PANEL - 100 Tablet Bottle Label
+Advil ®
+Ibuprofen Tablets, 200 mg
+Pain Reliever/Fever Reducer (NSAID)
+100 Tablets
+Tablets
+READ AND KEEP CARTON FOR COMPLETE",
+ibu_03,What does the ibuprofen label say about stomach bleeding?,drug_aware,7,d4bd5b20e9cc85b723dc07982ae1d306aef0f1a7e1d490d893b11f42256a722e,ibuprofen_200mg_haleon_us_holdings_llc.pdf,17,1,0.6994340419769287,"Color brown (pinkish brown) Score no score
+Shape OVAL Size 15mm
+Flavor Imprint Code Advil
+Contains
+Packaging
+Marketing Start Marketing End# Item Code Package Description
+Date Date
+NDC:0573-0161- 1 1 in 1 CARTON 05/18/1984
+35
+150 in 1 BOTTLE; Type 0: Not a Combination 1
+Product
+NDC:0573-0161- 2 1 in 1 CARTON 05/18/1984
+51
+200 in 1 BOTTLE; Type 0: Not a Combination 2
+Product
+NDC:0573-0161- 3 1 in 1 CARTON 05/18/1984
+85
+225 in 1 BOTTLE; Type 0: Not a Combination 3
+Product
+NDC:0573-0161- 65 in 1 BOTTLE; Type 0: Not a Combination 4 05/01/2017
+65 Product
+Marketing Information
+Marketing Application Number or Monograph Marketing Start Marketing End
+Category Citation Date Date
+NDA NDA018989 05/18/1984
+ADVIL
+ibuprofen tablet, coated
+Product Information
+Product Type HUMAN OTC DRUG Item Code (Source) NDC:0573-0166
+Route of Administration ORAL
+Active Ingredient/Active Moiety
+Ingredient Name Basis of Strength Strength
+IBUPROFEN (UNII: WK2XYI10QM) (IBUPROFEN - UNII:WK2XYI10QM) IBUPROFEN 200 mg
+",
+ibu_03,What does the ibuprofen label say about stomach bleeding?,drug_aware,8,f313b19ebb1c2b28ae6bd22611fd6004f86d7f9f813e2fcb3d802fdab4298bd2,ibuprofen_200mg_haleon_us_holdings_llc.pdf,22,1,0.6856657266616821,"Product Information
+Product Type HUMAN OTC DRUG Item Code (Source) NDC:0573-1711
+Route of Administration ORAL
+Active Ingredient/Active Moiety
+Ingredient Name Basis of Strength Strength
+IBUPROFEN (UNII: WK2XYI10QM) (IBUPROFEN - UNII:WK2XYI10QM) IBUPROFEN 200 mg
+Inactive Ingredients
+Ingredient Name Strength
+MICROCRYSTALLINE CELLULOSE (UNII: OP1R32D61U)
+CROSCARMELLOSE SODIUM (UNII: M28OL1HH48)
+FERRIC OXIDE RED (UNII: 1K09F3G675)
+METHYLPARABEN (UNII: A2I8C7HI9T)
+POVIDONE, UNSPECIFIED (UNII: FZ989GH94E)
+PROPYLPARABEN (UNII: Z8IX2SC1OH)
+SHELLAC (UNII: 46N107B71O)
+SILICON DIOXIDE (UNII: ETJ7Z6XBU4)
+SODIUM BENZOATE (UNII: OJ245FE5EU)
+SODIUM LAURYL SULFATE (UNII: 368GB5141J)
+STARCH, CORN (UNII: O8232NY3SJ)
+STEARIC ACID (UNII: 4ELV7Z65AP)
+SUCROSE (UNII: C151H8M554)
+TITANIUM DIOXIDE (UNII: 15FIX9V2JP)
+WHITE WAX (UNII: 7G1J5DA97F)
+DIACETYLATED MONOGLYCERIDES (UNII: 5Z17386USF)
+Product Characteristics
+Color brown (pinkish brown) Score no score
+Shape ROUND Size 11mm
+Flavor Imprint Code Advil
+",
+ibu_03,What does the ibuprofen label say about stomach bleeding?,drug_aware,9,8e60d16c4a13530dd27e0187d2ee67ab23b6376d6f44b65f88c40f40250b8cbd,ibuprofen_200mg_haleon_us_holdings_llc.pdf,14,2,0.6854242086410522," Marketing End
+Category Citation Date Date
+NDA NDA018989 05/18/1984
+ADVIL
+ibuprofen tablet, coated
+Product Information
+Product Type HUMAN OTC DRUG Item Code (Source) NDC:0573-0151
+Route of Administration ORAL
+Active Ingredient/Active Moiety
+Ingredient Name Basis of Strength Strength
+IBUPROFEN (UNII: WK2XYI10QM) (IBUPROFEN - UNII:WK2XYI10QM) IBUPROFEN 200 mg
+Inactive Ingredients
+Ingredient Name Strength
+MICROCRYSTALLINE CELLULOSE (UNII: OP1R32D61U)
+CROSCARMELLOSE SODIUM (UNII: M28OL1HH48)
+FERRIC OXIDE RED (UNII: 1K09F3G675)",
+ibu_03,What does the ibuprofen label say about stomach bleeding?,drug_aware,10,9a3b2ec1a9e01df20790651a5d98a545e82e15f4f79762e75226b894c95bf2d8,ibuprofen_200mg_haleon_us_holdings_llc.pdf,13,1,0.6840490102767944,"Product Information
+Product Type HUMAN OTC DRUG Item Code (Source) NDC:0573-0154
+Route of Administration ORAL
+Active Ingredient/Active Moiety
+Ingredient Name Basis of Strength Strength
+IBUPROFEN (UNII: WK2XYI10QM) (IBUPROFEN - UNII:WK2XYI10QM) IBUPROFEN 200 mg
+Inactive Ingredients
+Ingredient Name Strength
+MICROCRYSTALLINE CELLULOSE (UNII: OP1R32D61U)
+CROSCARMELLOSE SODIUM (UNII: M28OL1HH48)
+FERRIC OXIDE RED (UNII: 1K09F3G675)
+METHYLPARABEN (UNII: A2I8C7HI9T)
+POVIDONE, UNSPECIFIED (UNII: FZ989GH94E)
+PROPYLPARABEN (UNII: Z8IX2SC1OH)
+SHELLAC (UNII: 46N107B71O)
+SILICON DIOXIDE (UNII: ETJ7Z6XBU4)
+SODIUM BENZOATE (UNII: OJ245FE5EU)
+SODIUM LAURYL SULFATE (UNII: 368GB5141J)
+STARCH, CORN (UNII: O8232NY3SJ)
+STEARIC ACID (UNII: 4ELV7Z65AP)
+SUCROSE (UNII: C151H8M554)
+TITANIUM DIOXIDE (UNII: 15FIX9V2JP)
+WHITE WAX (UNII: 7G1J5DA97F)
+DIACETYLATED MONOGLYCERIDES (UNII: 5Z17386USF)
+Product Characteristics
+Color brown (pinkish brown) Score no score
+Shape ROUND Size 11mm
+Flavor Imprint Code Advil
+",
+ace_01,What warnings are listed for acetaminophen?,global,1,23643591e34cc2fa8b8fa58320d1ae27ef71f93f11461f290cb234cbace09ffd,diclofenac_sodium_100mg_nucare_pharmaceuticals_llc.pdf,17,4,0.7531259059906006,"ents (see WARNINGS)
+• GI Bleeding, Ulceration and Perforation (see WARNINGS)
+• Hepatotoxicity (see WARNINGS)
+• Hypertension (see WARNINGS)
+• Heart Failure and Edema (see WARNINGS)
+• Renal Toxicity and Hyperkalemia (see WARNINGS)
+• Anaphylactic Reactions (see WARNINGS)
+• Serious Skin Reactions (see WARNINGS)
+• Hematologic Toxicity (see WARNINGS)",
+ace_01,What warnings are listed for acetaminophen?,global,2,fdf04fe9d8db025478088eba87e57bc983b20550986e18737b083292c76b6f5f,acetaminophen_325mg_health_pharma.pdf,1,2,0.7466439604759216,"s has 3 or more alcoholic drinks every day while using this product
+Allergy alert:Acetaminophen may cause severe skin reactions. Symptoms may include:
+skin reddening
+blisters
+rash
+If a skin reaction occurs, stop use and seek medical help right away.
+Do not use
+With any other drug containing acetaminophen (prescription or nonprescription). If
+you are not sure whether a drug contains acetaminophen, ask a doctor or
+pharmacist.
+If you are allergic to acetaminophen or any of the inactive ingredients in this product.",
+ace_01,What warnings are listed for acetaminophen?,global,3,fc55c2d5c81376bcbb3cc5e0f3f13d5b6a44aff3d8f1bd94a81f6af3366af37b,indomethacin_50mg_northstar_rxllc.pdf,27,1,0.7442344427108765,"Hepatotoxicity
+Inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea,
+fatigue, lethargy, pruritus, diarrhea, jaundice, right upper quadrant tenderness, and “flu-
+like” symptoms). If these occur, instruct patients to stop indomethacin suppositories
+and seek immediate medical therapy [ see Warnings and Precautions ( 5.3) ].
+Heart Failure and Edema
+Advise patients to be alert for the symptoms of congestive heart failure including
+shortness of breath, unexplained weight gain, or edema and to contact their healthcare
+provider if such symptoms occur [ see Warnings and Precautions ( 5.5) ].
+Anaphylactic Reactions
+Inform patients of the signs of an anaphylactic reaction (e.g., difficulty breathing,
+swelling of the face or throat). Instruct patients to seek immediate emergency help if
+these occur [ see Contraindications ( 4) and Warnings and Precautions ( 5.7) ].
+Serious Skin Reactions, including DRESS
+",
+ace_01,What warnings are listed for acetaminophen?,global,4,8cb45b4389903b3116499039481a247be34a4347fc189567ad3b55ea050de674,diclofenac_sodium_100mg_nucare_pharmaceuticals_llc.pdf,10,4,0.7411088943481445,"stric
+pain, dyspepsia, melena, and hematemesis to their health care provider. In the setting of
+concomitant use of low-dose aspirin for cardiac prophylaxis, inform patients of the
+increased risk for the signs and symptoms of GI bleeding ( see WARNINGS;
+Gastrointestinal Bleeding, Ulceration, and Perforation).
+Hepatotoxicity
+Inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea,
+fatigue, lethargy, pruritus, jaundice, right upper quadrant tenderness, and “flu-like”
+symptoms). If these occur, instruct patients to stop Diclofenac sodium extended-
+release tablets and seek immediate medical therapy ( see WARNINGS; Hepatotoxicity).
+Heart Failure and Edema:
+Advise patients to be alert for the symptoms of congestive heart failure, including
+shortness of breath, unexplained weight gain, or edema and to contact their healthcare",
+ace_01,What warnings are listed for acetaminophen?,global,5,9c1cb27e48ec73d729e767f07a529c64c01ba63f6ada07f4b86da9d85c22c731,naproxen_500mg_remedyrepack_inc.pdf,1,5,0.7385910749435425," patients of warning signs and symptoms of hepatotoxicity. Discontinue if abnormal
+liver tests persist or worsen or if clinical signs and symptoms of liver disease develop. ( 5.3)
+Hypertension:Patients taking some antihypertensive medications may have impaired response to these
+therapies when taking NSAIDs. Monitor blood pressure. ( 5.4, 7)
+Heart Failure and Edema:Avoid use of naproxen tablets in patients with severe heart failure unless benefits
+are expected to outweigh risk of worsening heart failure. ( 5.5)
+Renal Toxicity:Monitor renal function in patients with renal or hepatic impairment, heart failure,
+dehydration, or hypovolemia. Avoid use of naproxen tablets in patients with advanced renal disease unless
+benefits are expected to outweigh risk of worsening renal function. ( 5.6)
+Anaphylactic Reactions:Seek emergency help if an anaphylactic reaction occurs. ( 5.7)
+Exacerbation of Asthma Related to Aspirin Sensitivity: Naproxen tablets are contraindicated in patients
+",
+ace_01,What warnings are listed for acetaminophen?,global,6,dae77189374b92f1541307db767b31957c90b7c1f1b18a1f88d3ea64ba04fc4c,naproxen_500mg_remedyrepack_inc.pdf,16,5,0.738371729850769,"stric
+pain, dyspepsia, melena, and hematemesis to their health care provider. In the setting of
+concomitant use of low-dose aspirin for cardiac prophylaxis, inform patients of the
+increased risk for and the signs and symptoms of GI bleeding [see Warnings and
+Precautions (5.2)].
+Hepatotoxicity
+Inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea,
+fatigue, lethargy, pruritus, diarrhea, jaundice, right upper quadrant tenderness, and “flu-
+like” symptoms). If these occur, instruct patients to stop naproxen tablets and seek
+immediate medical therapy [ see Warnings and Precautions (5.3)].
+Heart Failure and Edema
+Advise patients to be alert for the symptoms of congestive heart failure including
+shortness of breath, unexplained weight gain, or edema and to contact their healthcare
+provider if such symptoms occur [see Warnings and Precautions (5.5)] .
+Anaphylactic Reactions
+Inform patients of the signs of an anaphylactic reaction (e.g., difficulty breathing,
+",
+ace_01,What warnings are listed for acetaminophen?,global,7,7d9bb17f25250a80bd8f5bfeced2fcbd04066ad5eb7947e6a51cbd43d4a391ed,naproxen_500mg_remedyrepack_inc.pdf,2,4,0.7344148755073547,"BING INFORMATION: CONTENTS*
+WARNING: RISK OF SERIOUS CARDIOVASCULAR AND GASTROINTESTINAL
+EVENTS
+1 INDICATIONS AND USAGE
+2 DOSAGE AND ADMINISTRATION
+2.1 General Dosing Instructions
+2.2 Rheumatoid Arthritis, Osteoarthritis and Ankylosing Spondylitis
+2.3 Polyarticular Juvenile Idiopathic Arthritis
+2.4 Management of Pain, Primary Dysmenorrhea, and Acute Tendonitis
+and Bursitis
+2.5 Acute Gout
+2.6 Non-Interchangeability with Other Formulations of Naproxen
+3 DOSAGE FORMS AND STRENGTHS
+4 CONTRAINDICATIONS
+5 WARNINGS AND PRECAUTIONS
+5.1 Cardiovascular Thrombotic Events
+5.2 Gastrointestinal Bleeding, Ulceration, and Perforation
+5.3 Hepatotoxicity
+5.4 Hypertension
+5.5 Heart Failure and Edema
+5.6 Renal Toxicity and Hyperkalemia
+5.7 Anaphylactic Reactions
+5.8 Exacerbation of Asthma Related to Aspirin Sensitivity
+5.9 Serious Skin Reactions
+5.10 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
+5.11 Fetal Toxicity
+5.12 Hematologic Toxicity
+5.13 Masking of Inflammation and Fever
+",
+ace_01,What warnings are listed for acetaminophen?,global,8,6ecf9521a3fe07a3485339209ad43357a95afb309f46d49c60e5ec13be5a6855,indomethacin_50mg_northstar_rxllc.pdf,2,1,0.7324435114860535,"p y p g g y p p y
+abnormal liver tests persist or worsen or if clinical signs and symptoms of liver disease develop ( 5.3)
+• Hypertension:Patients taking some antihypertensive medications may have impaired response to these
+therapies when taking NSAIDs. Monitor blood pressure ( 5.4, 7)
+• Heart Failure and Edema:Avoid use of indomethacin in patients with severe heart failure unless benefits
+are expected to outweigh risk of worsening heart failure ( 5.5)
+• Renal Toxicity:Monitor renal function in patients with renal or hepatic impairment, heart failure,
+dehydration, or hypovolemia. Avoid use of indomethacin in patients with advanced renal disease unless
+benefits are expected to outweigh risk of worsening renal function ( 5.6)
+• Anaphylactic Reactions:Seek emergency help if an anaphylactic reaction occurs ( 5.7)
+• Exacerbation of Asthma Related to Aspirin Sensitivity:Indomethacin is contraindicated in patients with
+",
+ace_01,What warnings are listed for acetaminophen?,global,9,5b35fd0d59ed788f57301864dc053a9f0ea7ca1ba084f685b99939bce3ada014,meloxicam_15mg_bryant_ranch_prepack.pdf,31,1,0.7277206182479858,"(5.2)] .
+Hepatotoxicity
+Inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea,
+fatigue, lethargy, diarrhea, pruritus, jaundice, right upper quadrant tenderness, and ""flu-
+like"" symptoms). If these occur, instruct patients to stop meloxicam tablets and seek
+immediate medical therapy [see Warnings and Precautions (5.3)] .
+Heart Failure and Edema
+Advise patients to be alert for the symptoms of congestive heart failure including
+shortness of breath, unexplained weight gain, or edema and to contact their healthcare
+provider if such symptoms occur [see Warnings and Precautions (5.5)] .
+Anaphylactic Reactions
+Inform patients of the signs of an anaphylactic reaction (e.g., difficulty breathing,
+swelling of the face or throat). Instruct patients to seek immediate emergency help if
+these occur [see Contraindications (4)and Warnings and Precautions (5.7)] .
+Serious Skin Reactions, including DRESS
+",
+ace_01,What warnings are listed for acetaminophen?,global,10,f678a0344e2b7fa2b0b9222e7b8ae5d93c9d57c74a10d0c1d97040be0c75c7b9,metoclopramide_hydrochloride_10mg_remedyrepack_inc.pdf,11,1,0.7215278148651123,"6 ADVERSE REACTIONS
+The following adverse reactions are described, or described in greater detail, in other
+sections of the labeling:
+Tardive dyskinesia [see Boxed Warning and Warnings and Precautions ( 5.1)]
+Other extrapyramidal symptoms [see Warnings and Precautions ( 5.2)]
+Neuroleptic malignant syndrome [see Warnings and Precautions ( 5.3)]
+Depression [see Warnings and Precautions ( 5.4)]
+Hypertension [see Warnings and Precautions ( 5.5)]
+Fluid retention [see Warnings and Precautions ( 5.6)]
+Hyperprolactinemia [see Warnings and Precautions ( 5.7)]
+Effects on the ability to drive and operate machinery [see Warnings and Precautions (
+5.8)]
+The following adverse reactions have been identified from clinical studies or
+postmarketing reports of metoclopramide. Because these reactions are reported
+voluntarily from a population of uncertain size, it is not always possible to reliably
+estimate their frequency or establish a causal relationship to drug exposure.
+",
+ace_01,What warnings are listed for acetaminophen?,drug_aware,1,fdf04fe9d8db025478088eba87e57bc983b20550986e18737b083292c76b6f5f,acetaminophen_325mg_health_pharma.pdf,1,2,0.7466439604759216,"s has 3 or more alcoholic drinks every day while using this product
+Allergy alert:Acetaminophen may cause severe skin reactions. Symptoms may include:
+skin reddening
+blisters
+rash
+If a skin reaction occurs, stop use and seek medical help right away.
+Do not use
+With any other drug containing acetaminophen (prescription or nonprescription). If
+you are not sure whether a drug contains acetaminophen, ask a doctor or
+pharmacist.
+If you are allergic to acetaminophen or any of the inactive ingredients in this product.",
+ace_01,What warnings are listed for acetaminophen?,drug_aware,2,0286ca42fcacbbc6e5cbb7e9f93f930c14f775661b561bd4dc2d162dbecc637b,acetaminophen_325mg_health_pharma.pdf,1,1,0.7124060392379761,"ACETAMINOPHEN- acetaminophen tablet, film coated
+Health Pharma USA LLC
+----------
+Active ingredient (in each tablet)
+Acetaminophen 325 mg
+Purpose
+Pain reliever/Fever reducer
+Uses:
+temporarily relieves minor aches and pains due to:
+headache
+muscular aches
+backache
+minor pain from arthritis
+the common cold
+toothache
+premenstrual and menstrual cramps
+temporarily reduces fever
+Warnings
+Liver warning: This product contains acetaminophen. The maximum daily dose of this
+product is 10 tablets (3,250 mg) in 24 hours for adults or 5 tablets (1,625 mg) in 24
+hours for children. Severe liver damage may occur if:
+adult takes more than 4,000 mg of acetaminophen in 24 hours
+child takes more than 5 doses in 24 hours, which is the maximum daily amount
+taken with other drugs containing acetaminophen
+adults has 3 or more alcoholic drinks every day while using this product
+Allergy alert:Acetaminophen may cause severe skin reactions. Symptoms may include:
+skin reddening
+blisters
+rash
+",
+ace_01,What warnings are listed for acetaminophen?,drug_aware,3,3d8cd7cd8a22934028fc5172ad67465fe074e90b9073d2f990e8c80fd2cf7cb4,acetaminophen_325mg_health_pharma.pdf,3,1,0.6983850002288818,"Pregelatinized Starch, Polyvinyl Pyrrolidone, Microcrystalline Cellulose, Stearic acid
+powder, Magnesium Stearate, Hypromellose-5 & 15, Polyethylene Glycol-400, Talc,
+Titanium Dioxide.
+Questions or comments?
+Call toll free 1-844-832-1138 Monday through Friday 9 AM - 5 PM EST
+PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+ACETAMINOPHEN
+acetaminophen tablet, film coated
+Product Information
+Product Type HUMAN OTC DRUG Item Code (Source) NDC:71679-305
+Route of Administration ORAL
+Active Ingredient/Active Moiety
+Ingredient Name Basis of Strength Strength",
+ace_01,What warnings are listed for acetaminophen?,drug_aware,4,f9890d2c9c8e6cd5df7c1495be4d1cdbf921e79a7756b45da68af7f94d37b2ae,acetaminophen_325mg_health_pharma.pdf,4,1,0.6519925594329834,"ACETAMINOPHEN (UNII: 362O9ITL9D) (ACETAMINOPHEN - UNII:362O9ITL9D) ACETAMINOPHEN 325 mg
+Inactive Ingredients
+Ingredient Name Strength
+HYPROMELLOSE, UNSPECIFIED (UNII: 3NXW29V3WO)
+MAGNESIUM STEARATE (UNII: 70097M6I30)
+MICROCRYSTALLINE CELLULOSE (UNII: OP1R32D61U)
+POLYETHYLENE GLYCOL, UNSPECIFIED (UNII: 3WJQ0SDW1A)
+POVIDONE (UNII: FZ989GH94E)
+STARCH, CORN (UNII: O8232NY3SJ)
+STEARIC ACID (UNII: 4ELV7Z65AP)
+TALC (UNII: 7SEV7J4R1U)
+TITANIUM DIOXIDE (UNII: 15FIX9V2JP)
+Product Characteristics
+Color white (White to off white) Score no score
+Shape ROUND Size 10mm
+Flavor Imprint Code S99
+Contains
+Packaging
+Marketing Start Marketing End # Item Code Package Description
+Date Date
+NDC:71679-305- 47000 in 1 DRUM; Type 0: Not a Combination 1 09/23/2025
+00 Product
+Marketing Information
+Marketing Application Number or Monograph Marketing Start Marketing End
+Category Citation Date Date
+OTC Monograph Drug M013 09/23/2025
+Labeler - Health Pharma USA LLC (080804485)
+",
+ace_01,What warnings are listed for acetaminophen?,drug_aware,5,1757c328bc7e21549c9c570a4b7ba35f1309370baba51342d42a9ab8b711fc74,acetaminophen_325mg_health_pharma.pdf,2,1,0.6314322352409363,"Ask a doctor before use if the user has
+liver disease
+Ask a doctor or pharmacist before use if the user is
+taking the blood thinning drug warfarin
+Stop use and ask a doctor if:
+pain gets worse or lasts more than 10 days in adults
+pain gets worse or lasts more than 5 days in children under 12 years
+fever gets worse or lasts more than 3 days
+new symptoms occur
+redness or swelling is present
+These could be signs of a serious condition.
+If pregnant or breast-feeding,
+ask a health professional before use.
+Keep out of reach of children.
+Overdose warning: In case of overdose, get medical help or contact a Poison Control
+Center right away. (1-800-222-1222) Quick medical attention is critical for adults as well
+as for children even if you do not notice any signs or symptoms.
+Directions
+adults and children 12 years and over:
+take 2 tablets every 4 to 6 hours while symptoms last
+do not take mote than 10 tablets in 24 hours, unless directed by doctor
+",
+ace_01,What warnings are listed for acetaminophen?,drug_aware,6,64b6521f8f2b1f6917c0043df0d54e360d2915951eaa4390437cd1855a5fa684,acetaminophen_325mg_health_pharma.pdf,4,2,0.6019088625907898,"
+Marketing Application Number or Monograph Marketing Start Marketing End
+Category Citation Date Date
+OTC Monograph Drug M013 09/23/2025
+Labeler - Health Pharma USA LLC (080804485)
+Registrant - Health Pharma USA LLC (080804485)
+Revised: 7/2026 Health Pharma USA LLC",
+ace_01,What warnings are listed for acetaminophen?,drug_aware,7,62dfd0a287fb9a8bcf3a3a858cbd99d3c9d5696a8cc98a737f7336a1488fa6b9,acetaminophen_325mg_health_pharma.pdf,2,2,0.5358461141586304,"ms.
+Directions
+adults and children 12 years and over:
+take 2 tablets every 4 to 6 hours while symptoms last
+do not take mote than 10 tablets in 24 hours, unless directed by doctor
+do not use for more than 10 days unless directed by a doctor
+children 6 years to under 12 years:
+take 1 tablet every 4 to 6 hours while symptoms last
+do not take more than 5 tablets in 24 hours
+do not use for more than 5 days unless directed by doctor
+Other information
+store between 20°-25°C (68°-77°F)
+read all product information before using
+TEMPER EVIDENT: DO NOT USE IF IMPRINTED SAFETY SEAL UNDER CAP IS
+BROKEN OR MISSING
+Inactive ingredients",
+ace_02,What is the acetaminophen liver warning?,global,1,95897f2bb04eb55c93e6e793c25eefb9d836a4482ac33cb3dc6865f5f179cd58,indomethacin_50mg_northstar_rxllc.pdf,8,1,0.7390213012695312,"• In the setting of concomitant use of low-dose aspirin for cardiac prophylaxis, monitor
+patients more closely for evidence of GI bleeding [ see Drug Interactions ( 7) ].
+5.3 Hepatotoxicity
+Elevations of ALT or AST (three or more times the upper limit of normal [ULN]) have
+been reported in approximately 1% of NSAID-treated patients in clinical trials. In addition,
+rare, sometimes fatal, cases of severe hepatic injury, including fulminant hepatitis, liver
+necrosis, and hepatic failure have been reported.
+Elevations of ALT or AST (less than three times ULN) may occur in up to 15% of patients
+treated with NSAIDs including indomethacin.
+Inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea,
+fatigue, lethargy, diarrhea, pruritus, jaundice, right upper quadrant tenderness, and ""flu-
+like"" symptoms). If clinical signs and symptoms consistent with liver disease develop, or
+if systemic manifestations occur (e.g., eosinophilia, rash, etc.), discontinue indomethacin
+",
+ace_02,What is the acetaminophen liver warning?,global,2,fc55c2d5c81376bcbb3cc5e0f3f13d5b6a44aff3d8f1bd94a81f6af3366af37b,indomethacin_50mg_northstar_rxllc.pdf,27,1,0.7383498549461365,"Hepatotoxicity
+Inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea,
+fatigue, lethargy, pruritus, diarrhea, jaundice, right upper quadrant tenderness, and “flu-
+like” symptoms). If these occur, instruct patients to stop indomethacin suppositories
+and seek immediate medical therapy [ see Warnings and Precautions ( 5.3) ].
+Heart Failure and Edema
+Advise patients to be alert for the symptoms of congestive heart failure including
+shortness of breath, unexplained weight gain, or edema and to contact their healthcare
+provider if such symptoms occur [ see Warnings and Precautions ( 5.5) ].
+Anaphylactic Reactions
+Inform patients of the signs of an anaphylactic reaction (e.g., difficulty breathing,
+swelling of the face or throat). Instruct patients to seek immediate emergency help if
+these occur [ see Contraindications ( 4) and Warnings and Precautions ( 5.7) ].
+Serious Skin Reactions, including DRESS
+",
+ace_02,What is the acetaminophen liver warning?,global,3,6ecf9521a3fe07a3485339209ad43357a95afb309f46d49c60e5ec13be5a6855,indomethacin_50mg_northstar_rxllc.pdf,2,1,0.7356365919113159,"p y p g g y p p y
+abnormal liver tests persist or worsen or if clinical signs and symptoms of liver disease develop ( 5.3)
+• Hypertension:Patients taking some antihypertensive medications may have impaired response to these
+therapies when taking NSAIDs. Monitor blood pressure ( 5.4, 7)
+• Heart Failure and Edema:Avoid use of indomethacin in patients with severe heart failure unless benefits
+are expected to outweigh risk of worsening heart failure ( 5.5)
+• Renal Toxicity:Monitor renal function in patients with renal or hepatic impairment, heart failure,
+dehydration, or hypovolemia. Avoid use of indomethacin in patients with advanced renal disease unless
+benefits are expected to outweigh risk of worsening renal function ( 5.6)
+• Anaphylactic Reactions:Seek emergency help if an anaphylactic reaction occurs ( 5.7)
+• Exacerbation of Asthma Related to Aspirin Sensitivity:Indomethacin is contraindicated in patients with
+",
+ace_02,What is the acetaminophen liver warning?,global,4,b5f6a747e91cc389d99ff6e9ffe0891ccf0d074f891744f18d6258eb81c41dfc,naproxen_500mg_remedyrepack_inc.pdf,5,5,0.731882631778717,"ty
+Elevations of ALT or AST (three or more times the upper limit of normal [ULN]) have
+been reported in approximately 1% of NSAID-treated patients in clinical trials. In addition,
+rare, sometimes fatal, cases of severe hepatic injury, including fulminant hepatitis, liver
+necrosis, and hepatic failure have been reported.
+Elevations of ALT or AST (less than three times ULN) may occur in up to 15% of patients
+treated with NSAIDs including naproxen.
+Inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea,
+fatigue, lethargy, diarrhea, pruritus, jaundice, right upper quadrant tenderness, and ""flu-
+like"" symptoms). If clinical signs and symptoms consistent with liver disease develop, or
+if systemic manifestations occur (e.g., eosinophilia, rash, etc.), discontinue naproxen
+tablets immediately, and perform a clinical evaluation of the patient.
+5.4 Hypertension
+NSAIDs, including naproxen tablets can lead to new onset of hypertension or worsening
+",
+ace_02,What is the acetaminophen liver warning?,global,5,9c1cb27e48ec73d729e767f07a529c64c01ba63f6ada07f4b86da9d85c22c731,naproxen_500mg_remedyrepack_inc.pdf,1,5,0.7241474390029907," patients of warning signs and symptoms of hepatotoxicity. Discontinue if abnormal
+liver tests persist or worsen or if clinical signs and symptoms of liver disease develop. ( 5.3)
+Hypertension:Patients taking some antihypertensive medications may have impaired response to these
+therapies when taking NSAIDs. Monitor blood pressure. ( 5.4, 7)
+Heart Failure and Edema:Avoid use of naproxen tablets in patients with severe heart failure unless benefits
+are expected to outweigh risk of worsening heart failure. ( 5.5)
+Renal Toxicity:Monitor renal function in patients with renal or hepatic impairment, heart failure,
+dehydration, or hypovolemia. Avoid use of naproxen tablets in patients with advanced renal disease unless
+benefits are expected to outweigh risk of worsening renal function. ( 5.6)
+Anaphylactic Reactions:Seek emergency help if an anaphylactic reaction occurs. ( 5.7)
+Exacerbation of Asthma Related to Aspirin Sensitivity: Naproxen tablets are contraindicated in patients
+",
+ace_02,What is the acetaminophen liver warning?,global,6,fdf04fe9d8db025478088eba87e57bc983b20550986e18737b083292c76b6f5f,acetaminophen_325mg_health_pharma.pdf,1,2,0.7202875018119812,"s has 3 or more alcoholic drinks every day while using this product
+Allergy alert:Acetaminophen may cause severe skin reactions. Symptoms may include:
+skin reddening
+blisters
+rash
+If a skin reaction occurs, stop use and seek medical help right away.
+Do not use
+With any other drug containing acetaminophen (prescription or nonprescription). If
+you are not sure whether a drug contains acetaminophen, ask a doctor or
+pharmacist.
+If you are allergic to acetaminophen or any of the inactive ingredients in this product.",
+ace_02,What is the acetaminophen liver warning?,global,7,5b35fd0d59ed788f57301864dc053a9f0ea7ca1ba084f685b99939bce3ada014,meloxicam_15mg_bryant_ranch_prepack.pdf,31,1,0.7169424295425415,"(5.2)] .
+Hepatotoxicity
+Inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea,
+fatigue, lethargy, diarrhea, pruritus, jaundice, right upper quadrant tenderness, and ""flu-
+like"" symptoms). If these occur, instruct patients to stop meloxicam tablets and seek
+immediate medical therapy [see Warnings and Precautions (5.3)] .
+Heart Failure and Edema
+Advise patients to be alert for the symptoms of congestive heart failure including
+shortness of breath, unexplained weight gain, or edema and to contact their healthcare
+provider if such symptoms occur [see Warnings and Precautions (5.5)] .
+Anaphylactic Reactions
+Inform patients of the signs of an anaphylactic reaction (e.g., difficulty breathing,
+swelling of the face or throat). Instruct patients to seek immediate emergency help if
+these occur [see Contraindications (4)and Warnings and Precautions (5.7)] .
+Serious Skin Reactions, including DRESS
+",
+ace_02,What is the acetaminophen liver warning?,global,8,0286ca42fcacbbc6e5cbb7e9f93f930c14f775661b561bd4dc2d162dbecc637b,acetaminophen_325mg_health_pharma.pdf,1,1,0.7159761190414429,"ACETAMINOPHEN- acetaminophen tablet, film coated
+Health Pharma USA LLC
+----------
+Active ingredient (in each tablet)
+Acetaminophen 325 mg
+Purpose
+Pain reliever/Fever reducer
+Uses:
+temporarily relieves minor aches and pains due to:
+headache
+muscular aches
+backache
+minor pain from arthritis
+the common cold
+toothache
+premenstrual and menstrual cramps
+temporarily reduces fever
+Warnings
+Liver warning: This product contains acetaminophen. The maximum daily dose of this
+product is 10 tablets (3,250 mg) in 24 hours for adults or 5 tablets (1,625 mg) in 24
+hours for children. Severe liver damage may occur if:
+adult takes more than 4,000 mg of acetaminophen in 24 hours
+child takes more than 5 doses in 24 hours, which is the maximum daily amount
+taken with other drugs containing acetaminophen
+adults has 3 or more alcoholic drinks every day while using this product
+Allergy alert:Acetaminophen may cause severe skin reactions. Symptoms may include:
+skin reddening
+blisters
+rash
+",
+ace_02,What is the acetaminophen liver warning?,global,9,d7d2daeeb3b02cf24465dfc9293f18793e7733fd669fd0ea18fc3315cd6a6e3d,allopurinol_100mg_300mg_accord_healthcare_inc.pdf,19,1,0.7127195596694946,"(5.3)].
+Hepatotoxicity
+Inform patients of the risk of hepatotoxicity and to report to their healthcare provider
+any signs and symptoms of liver failure, including jaundice, pruritus, bleeding, bruising,
+or anorexia [ see Warnings and Precautions (5.4)].
+Myelosuppression
+Advise patients of the risk of myelosuppression and to report any signs and symptoms
+of infection, fever, bleeding, shortness of breath, or significant fatigue to their
+healthcare provider [ see Warnings and Precautions (5.5)].
+Potential Effect on Driving and Use of Machinery
+Inform patients that drowsiness, somnolence and dizziness have been reported in
+patients taking allopurinol tablets. Inform also that the central nervous system
+depressant effects of allopurinol tablets may be additive to those of alcohol and other
+CNS depressants. Advise patients to avoid operation of automobiles or other dangerous
+machinery and activities made hazardous by decreased alertness when starting
+",
+ace_02,What is the acetaminophen liver warning?,global,10,8cb45b4389903b3116499039481a247be34a4347fc189567ad3b55ea050de674,diclofenac_sodium_100mg_nucare_pharmaceuticals_llc.pdf,10,4,0.7105222940444946,"stric
+pain, dyspepsia, melena, and hematemesis to their health care provider. In the setting of
+concomitant use of low-dose aspirin for cardiac prophylaxis, inform patients of the
+increased risk for the signs and symptoms of GI bleeding ( see WARNINGS;
+Gastrointestinal Bleeding, Ulceration, and Perforation).
+Hepatotoxicity
+Inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea,
+fatigue, lethargy, pruritus, jaundice, right upper quadrant tenderness, and “flu-like”
+symptoms). If these occur, instruct patients to stop Diclofenac sodium extended-
+release tablets and seek immediate medical therapy ( see WARNINGS; Hepatotoxicity).
+Heart Failure and Edema:
+Advise patients to be alert for the symptoms of congestive heart failure, including
+shortness of breath, unexplained weight gain, or edema and to contact their healthcare",
+ace_02,What is the acetaminophen liver warning?,drug_aware,1,fdf04fe9d8db025478088eba87e57bc983b20550986e18737b083292c76b6f5f,acetaminophen_325mg_health_pharma.pdf,1,2,0.7202875018119812,"s has 3 or more alcoholic drinks every day while using this product
+Allergy alert:Acetaminophen may cause severe skin reactions. Symptoms may include:
+skin reddening
+blisters
+rash
+If a skin reaction occurs, stop use and seek medical help right away.
+Do not use
+With any other drug containing acetaminophen (prescription or nonprescription). If
+you are not sure whether a drug contains acetaminophen, ask a doctor or
+pharmacist.
+If you are allergic to acetaminophen or any of the inactive ingredients in this product.",
+ace_02,What is the acetaminophen liver warning?,drug_aware,2,0286ca42fcacbbc6e5cbb7e9f93f930c14f775661b561bd4dc2d162dbecc637b,acetaminophen_325mg_health_pharma.pdf,1,1,0.7159761190414429,"ACETAMINOPHEN- acetaminophen tablet, film coated
+Health Pharma USA LLC
+----------
+Active ingredient (in each tablet)
+Acetaminophen 325 mg
+Purpose
+Pain reliever/Fever reducer
+Uses:
+temporarily relieves minor aches and pains due to:
+headache
+muscular aches
+backache
+minor pain from arthritis
+the common cold
+toothache
+premenstrual and menstrual cramps
+temporarily reduces fever
+Warnings
+Liver warning: This product contains acetaminophen. The maximum daily dose of this
+product is 10 tablets (3,250 mg) in 24 hours for adults or 5 tablets (1,625 mg) in 24
+hours for children. Severe liver damage may occur if:
+adult takes more than 4,000 mg of acetaminophen in 24 hours
+child takes more than 5 doses in 24 hours, which is the maximum daily amount
+taken with other drugs containing acetaminophen
+adults has 3 or more alcoholic drinks every day while using this product
+Allergy alert:Acetaminophen may cause severe skin reactions. Symptoms may include:
+skin reddening
+blisters
+rash
+",
+ace_02,What is the acetaminophen liver warning?,drug_aware,3,3d8cd7cd8a22934028fc5172ad67465fe074e90b9073d2f990e8c80fd2cf7cb4,acetaminophen_325mg_health_pharma.pdf,3,1,0.6793975830078125,"Pregelatinized Starch, Polyvinyl Pyrrolidone, Microcrystalline Cellulose, Stearic acid
+powder, Magnesium Stearate, Hypromellose-5 & 15, Polyethylene Glycol-400, Talc,
+Titanium Dioxide.
+Questions or comments?
+Call toll free 1-844-832-1138 Monday through Friday 9 AM - 5 PM EST
+PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+ACETAMINOPHEN
+acetaminophen tablet, film coated
+Product Information
+Product Type HUMAN OTC DRUG Item Code (Source) NDC:71679-305
+Route of Administration ORAL
+Active Ingredient/Active Moiety
+Ingredient Name Basis of Strength Strength",
+ace_02,What is the acetaminophen liver warning?,drug_aware,4,f9890d2c9c8e6cd5df7c1495be4d1cdbf921e79a7756b45da68af7f94d37b2ae,acetaminophen_325mg_health_pharma.pdf,4,1,0.6433515548706055,"ACETAMINOPHEN (UNII: 362O9ITL9D) (ACETAMINOPHEN - UNII:362O9ITL9D) ACETAMINOPHEN 325 mg
+Inactive Ingredients
+Ingredient Name Strength
+HYPROMELLOSE, UNSPECIFIED (UNII: 3NXW29V3WO)
+MAGNESIUM STEARATE (UNII: 70097M6I30)
+MICROCRYSTALLINE CELLULOSE (UNII: OP1R32D61U)
+POLYETHYLENE GLYCOL, UNSPECIFIED (UNII: 3WJQ0SDW1A)
+POVIDONE (UNII: FZ989GH94E)
+STARCH, CORN (UNII: O8232NY3SJ)
+STEARIC ACID (UNII: 4ELV7Z65AP)
+TALC (UNII: 7SEV7J4R1U)
+TITANIUM DIOXIDE (UNII: 15FIX9V2JP)
+Product Characteristics
+Color white (White to off white) Score no score
+Shape ROUND Size 10mm
+Flavor Imprint Code S99
+Contains
+Packaging
+Marketing Start Marketing End # Item Code Package Description
+Date Date
+NDC:71679-305- 47000 in 1 DRUM; Type 0: Not a Combination 1 09/23/2025
+00 Product
+Marketing Information
+Marketing Application Number or Monograph Marketing Start Marketing End
+Category Citation Date Date
+OTC Monograph Drug M013 09/23/2025
+Labeler - Health Pharma USA LLC (080804485)
+",
+ace_02,What is the acetaminophen liver warning?,drug_aware,5,1757c328bc7e21549c9c570a4b7ba35f1309370baba51342d42a9ab8b711fc74,acetaminophen_325mg_health_pharma.pdf,2,1,0.6291323304176331,"Ask a doctor before use if the user has
+liver disease
+Ask a doctor or pharmacist before use if the user is
+taking the blood thinning drug warfarin
+Stop use and ask a doctor if:
+pain gets worse or lasts more than 10 days in adults
+pain gets worse or lasts more than 5 days in children under 12 years
+fever gets worse or lasts more than 3 days
+new symptoms occur
+redness or swelling is present
+These could be signs of a serious condition.
+If pregnant or breast-feeding,
+ask a health professional before use.
+Keep out of reach of children.
+Overdose warning: In case of overdose, get medical help or contact a Poison Control
+Center right away. (1-800-222-1222) Quick medical attention is critical for adults as well
+as for children even if you do not notice any signs or symptoms.
+Directions
+adults and children 12 years and over:
+take 2 tablets every 4 to 6 hours while symptoms last
+do not take mote than 10 tablets in 24 hours, unless directed by doctor
+",
+ace_02,What is the acetaminophen liver warning?,drug_aware,6,64b6521f8f2b1f6917c0043df0d54e360d2915951eaa4390437cd1855a5fa684,acetaminophen_325mg_health_pharma.pdf,4,2,0.5607713460922241,"
+Marketing Application Number or Monograph Marketing Start Marketing End
+Category Citation Date Date
+OTC Monograph Drug M013 09/23/2025
+Labeler - Health Pharma USA LLC (080804485)
+Registrant - Health Pharma USA LLC (080804485)
+Revised: 7/2026 Health Pharma USA LLC",
+ace_02,What is the acetaminophen liver warning?,drug_aware,7,62dfd0a287fb9a8bcf3a3a858cbd99d3c9d5696a8cc98a737f7336a1488fa6b9,acetaminophen_325mg_health_pharma.pdf,2,2,0.5029228329658508,"ms.
+Directions
+adults and children 12 years and over:
+take 2 tablets every 4 to 6 hours while symptoms last
+do not take mote than 10 tablets in 24 hours, unless directed by doctor
+do not use for more than 10 days unless directed by a doctor
+children 6 years to under 12 years:
+take 1 tablet every 4 to 6 hours while symptoms last
+do not take more than 5 tablets in 24 hours
+do not use for more than 5 days unless directed by doctor
+Other information
+store between 20°-25°C (68°-77°F)
+read all product information before using
+TEMPER EVIDENT: DO NOT USE IF IMPRINTED SAFETY SEAL UNDER CAP IS
+BROKEN OR MISSING
+Inactive ingredients",
+ace_03,When should a person stop using acetaminophen according to the label?,global,1,fdf04fe9d8db025478088eba87e57bc983b20550986e18737b083292c76b6f5f,acetaminophen_325mg_health_pharma.pdf,1,2,0.7492231130599976,"s has 3 or more alcoholic drinks every day while using this product
+Allergy alert:Acetaminophen may cause severe skin reactions. Symptoms may include:
+skin reddening
+blisters
+rash
+If a skin reaction occurs, stop use and seek medical help right away.
+Do not use
+With any other drug containing acetaminophen (prescription or nonprescription). If
+you are not sure whether a drug contains acetaminophen, ask a doctor or
+pharmacist.
+If you are allergic to acetaminophen or any of the inactive ingredients in this product.",
+ace_03,When should a person stop using acetaminophen according to the label?,global,2,0286ca42fcacbbc6e5cbb7e9f93f930c14f775661b561bd4dc2d162dbecc637b,acetaminophen_325mg_health_pharma.pdf,1,1,0.7409468293190002,"ACETAMINOPHEN- acetaminophen tablet, film coated
+Health Pharma USA LLC
+----------
+Active ingredient (in each tablet)
+Acetaminophen 325 mg
+Purpose
+Pain reliever/Fever reducer
+Uses:
+temporarily relieves minor aches and pains due to:
+headache
+muscular aches
+backache
+minor pain from arthritis
+the common cold
+toothache
+premenstrual and menstrual cramps
+temporarily reduces fever
+Warnings
+Liver warning: This product contains acetaminophen. The maximum daily dose of this
+product is 10 tablets (3,250 mg) in 24 hours for adults or 5 tablets (1,625 mg) in 24
+hours for children. Severe liver damage may occur if:
+adult takes more than 4,000 mg of acetaminophen in 24 hours
+child takes more than 5 doses in 24 hours, which is the maximum daily amount
+taken with other drugs containing acetaminophen
+adults has 3 or more alcoholic drinks every day while using this product
+Allergy alert:Acetaminophen may cause severe skin reactions. Symptoms may include:
+skin reddening
+blisters
+rash
+",
+ace_03,When should a person stop using acetaminophen according to the label?,global,3,5b511aa87ab65a4c39cfb5895928f8ee85344b736ba3d21cfd936a9254ce587c,esomeprazole_magnesium_20mg_harris_teeter.pdf,2,1,0.7176643013954163,"Stop use and ask a doctor if:
+your heartburn continues or worsens
+you need to take this product for more than 14 days
+you need to take more than 1 course of treatment every 4 months
+you get diarrhea
+you develop a rash or joint pain
+If pregnant or breast-feeding,
+ask a health professional before use.
+Keep out of reach of children.
+In case of overdose, get medical help or contact a Poison Control Center right away (1-
+800-222-1222).
+Directions
+adults 18 years of age and older
+this product is to be used once a day (every 24 hours), every day for 14 days
+may take 1 to 4 days for full effect
+14-Day Course of Treatment
+swallow 1 capsule with a glass of water before eating in the morning
+take every day for 14 days
+do not take more than 1 capsule a day
+swallow whole. Do not crush or chew capsules.
+do not use for more than 14 days unless directed by your doctor
+Repeated 14-Day Courses (if needed)
+you may repeat a 14-day course every 4 months
+",
+ace_03,When should a person stop using acetaminophen according to the label?,global,4,9c1cb27e48ec73d729e767f07a529c64c01ba63f6ada07f4b86da9d85c22c731,naproxen_500mg_remedyrepack_inc.pdf,1,5,0.7123380899429321," patients of warning signs and symptoms of hepatotoxicity. Discontinue if abnormal
+liver tests persist or worsen or if clinical signs and symptoms of liver disease develop. ( 5.3)
+Hypertension:Patients taking some antihypertensive medications may have impaired response to these
+therapies when taking NSAIDs. Monitor blood pressure. ( 5.4, 7)
+Heart Failure and Edema:Avoid use of naproxen tablets in patients with severe heart failure unless benefits
+are expected to outweigh risk of worsening heart failure. ( 5.5)
+Renal Toxicity:Monitor renal function in patients with renal or hepatic impairment, heart failure,
+dehydration, or hypovolemia. Avoid use of naproxen tablets in patients with advanced renal disease unless
+benefits are expected to outweigh risk of worsening renal function. ( 5.6)
+Anaphylactic Reactions:Seek emergency help if an anaphylactic reaction occurs. ( 5.7)
+Exacerbation of Asthma Related to Aspirin Sensitivity: Naproxen tablets are contraindicated in patients
+",
+ace_03,When should a person stop using acetaminophen according to the label?,global,5,cfff2c0f363e89872f07e9268f5a0a0b82c2dec60602b8d9345d7a63b25eb313,cefuroxime_axetil_500mg_pd_rx_pharmaceuticals_inc.pdf,8,4,0.7087807655334473," daily). It is
+noted that 125 mg twice daily is not an approved dosage. Twenty (2.2%) subjects
+discontinued medication due to adverse reactions. Seventeen (85%) of the 20 subjects
+who discontinued therapy did so because of gastrointestinal disturbances, including
+diarrhea, nausea, vomiting, and abdominal pain. The percentage of subjects treated with
+cefuroxime axetil who discontinued study drug because of adverse reactions was similar",
+ace_03,When should a person stop using acetaminophen according to the label?,global,6,badfaf881c9d968a96079e0b4e38afe0a3ba10472ba4f92d9c1cd0ad7c8b772b,levetiracetam_500mg_remedyrepack_inc.pdf,37,3,0.7050454616546631,"mmediately. Levetiracetam
+should be discontinued immediately if a serious hypersensitivity reaction is suspected
+[see Warnings and Precautions ( 5.6)].
+Withdrawal of levetiracetam
+Advise patients and caregivers not to discontinue use of levetiracetam without
+consulting with their healthcare provider. Levetiracetam should normally be gradually
+withdrawn to reduce the potential of increased seizure frequency and status epilepticus
+[see Warnings and Precautions (5.8)].
+Pregnancy
+Advise patients to notify their healthcare provider if they become pregnant or intend to
+become pregnant during levetiracetam therapy. Encourage patients to enroll in the
+North American Antiepileptic Drug (NAAED) pregnancy registry if they become pregnant
+[ see Use in Specific Populations ( 8.1)].
+Dispense with Medication Guide available at:
+https://www.aurobindousa.com/aurobindo-usa-bluepoint-products/
+Dispense with Medication Guide available at: https://www.aurobindousa.com/aurobindo-
+usa-bluepoint-products/
+",
+ace_03,When should a person stop using acetaminophen according to the label?,global,7,1757c328bc7e21549c9c570a4b7ba35f1309370baba51342d42a9ab8b711fc74,acetaminophen_325mg_health_pharma.pdf,2,1,0.7050427198410034,"Ask a doctor before use if the user has
+liver disease
+Ask a doctor or pharmacist before use if the user is
+taking the blood thinning drug warfarin
+Stop use and ask a doctor if:
+pain gets worse or lasts more than 10 days in adults
+pain gets worse or lasts more than 5 days in children under 12 years
+fever gets worse or lasts more than 3 days
+new symptoms occur
+redness or swelling is present
+These could be signs of a serious condition.
+If pregnant or breast-feeding,
+ask a health professional before use.
+Keep out of reach of children.
+Overdose warning: In case of overdose, get medical help or contact a Poison Control
+Center right away. (1-800-222-1222) Quick medical attention is critical for adults as well
+as for children even if you do not notice any signs or symptoms.
+Directions
+adults and children 12 years and over:
+take 2 tablets every 4 to 6 hours while symptoms last
+do not take mote than 10 tablets in 24 hours, unless directed by doctor
+",
+ace_03,When should a person stop using acetaminophen according to the label?,global,8,6ecf9521a3fe07a3485339209ad43357a95afb309f46d49c60e5ec13be5a6855,indomethacin_50mg_northstar_rxllc.pdf,2,1,0.7032366394996643,"p y p g g y p p y
+abnormal liver tests persist or worsen or if clinical signs and symptoms of liver disease develop ( 5.3)
+• Hypertension:Patients taking some antihypertensive medications may have impaired response to these
+therapies when taking NSAIDs. Monitor blood pressure ( 5.4, 7)
+• Heart Failure and Edema:Avoid use of indomethacin in patients with severe heart failure unless benefits
+are expected to outweigh risk of worsening heart failure ( 5.5)
+• Renal Toxicity:Monitor renal function in patients with renal or hepatic impairment, heart failure,
+dehydration, or hypovolemia. Avoid use of indomethacin in patients with advanced renal disease unless
+benefits are expected to outweigh risk of worsening renal function ( 5.6)
+• Anaphylactic Reactions:Seek emergency help if an anaphylactic reaction occurs ( 5.7)
+• Exacerbation of Asthma Related to Aspirin Sensitivity:Indomethacin is contraindicated in patients with
+",
+ace_03,When should a person stop using acetaminophen according to the label?,global,9,3d8cd7cd8a22934028fc5172ad67465fe074e90b9073d2f990e8c80fd2cf7cb4,acetaminophen_325mg_health_pharma.pdf,3,1,0.7010836601257324,"Pregelatinized Starch, Polyvinyl Pyrrolidone, Microcrystalline Cellulose, Stearic acid
+powder, Magnesium Stearate, Hypromellose-5 & 15, Polyethylene Glycol-400, Talc,
+Titanium Dioxide.
+Questions or comments?
+Call toll free 1-844-832-1138 Monday through Friday 9 AM - 5 PM EST
+PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+ACETAMINOPHEN
+acetaminophen tablet, film coated
+Product Information
+Product Type HUMAN OTC DRUG Item Code (Source) NDC:71679-305
+Route of Administration ORAL
+Active Ingredient/Active Moiety
+Ingredient Name Basis of Strength Strength",
+ace_03,When should a person stop using acetaminophen according to the label?,global,10,ef2a18a87a26e684416f7dab91ea805390cb6c60b3eaf3df9a8d18f1884b4d2b,cefdinir_300mg_pd_rx_pharmaceuticals_inc.pdf,11,1,0.6977649927139282,"of adverse events, including diarrhea, than younger adults. Dose adjustment in elderly
+patients is not necessary unless renal function is markedly compromised (see DOSAGE
+AND ADMINISTRATION).
+ADVERSE EVENTS
+Clinical Trials - Cefdinir Capsules (Adult and Adolescent Patients)
+In clinical trials, 5093 adult and adolescent patients (3841 U.S. and 1252 non-U.S.) were
+treated with the recommended dose of cefdinir capsules (600 mg/day). Most adverse
+events were mild and self-limiting. No deaths or permanent disabilities were attributed to
+cefdinir. One hundred forty-seven of 5093 (3%) patients discontinued medication due to
+adverse events thought by the investigators to be possibly, probably, or definitely
+associated with cefdinir therapy. The discontinuations were primarily for gastrointestinal
+disturbances, usually diarrhea or nausea. Nineteen of 5093 (0.4%) patients were
+discontinued due to rash thought related to cefdinir administration.
+",
+ace_03,When should a person stop using acetaminophen according to the label?,drug_aware,1,fdf04fe9d8db025478088eba87e57bc983b20550986e18737b083292c76b6f5f,acetaminophen_325mg_health_pharma.pdf,1,2,0.7492231130599976,"s has 3 or more alcoholic drinks every day while using this product
+Allergy alert:Acetaminophen may cause severe skin reactions. Symptoms may include:
+skin reddening
+blisters
+rash
+If a skin reaction occurs, stop use and seek medical help right away.
+Do not use
+With any other drug containing acetaminophen (prescription or nonprescription). If
+you are not sure whether a drug contains acetaminophen, ask a doctor or
+pharmacist.
+If you are allergic to acetaminophen or any of the inactive ingredients in this product.",
+ace_03,When should a person stop using acetaminophen according to the label?,drug_aware,2,0286ca42fcacbbc6e5cbb7e9f93f930c14f775661b561bd4dc2d162dbecc637b,acetaminophen_325mg_health_pharma.pdf,1,1,0.7409468293190002,"ACETAMINOPHEN- acetaminophen tablet, film coated
+Health Pharma USA LLC
+----------
+Active ingredient (in each tablet)
+Acetaminophen 325 mg
+Purpose
+Pain reliever/Fever reducer
+Uses:
+temporarily relieves minor aches and pains due to:
+headache
+muscular aches
+backache
+minor pain from arthritis
+the common cold
+toothache
+premenstrual and menstrual cramps
+temporarily reduces fever
+Warnings
+Liver warning: This product contains acetaminophen. The maximum daily dose of this
+product is 10 tablets (3,250 mg) in 24 hours for adults or 5 tablets (1,625 mg) in 24
+hours for children. Severe liver damage may occur if:
+adult takes more than 4,000 mg of acetaminophen in 24 hours
+child takes more than 5 doses in 24 hours, which is the maximum daily amount
+taken with other drugs containing acetaminophen
+adults has 3 or more alcoholic drinks every day while using this product
+Allergy alert:Acetaminophen may cause severe skin reactions. Symptoms may include:
+skin reddening
+blisters
+rash
+",
+ace_03,When should a person stop using acetaminophen according to the label?,drug_aware,3,1757c328bc7e21549c9c570a4b7ba35f1309370baba51342d42a9ab8b711fc74,acetaminophen_325mg_health_pharma.pdf,2,1,0.7050427198410034,"Ask a doctor before use if the user has
+liver disease
+Ask a doctor or pharmacist before use if the user is
+taking the blood thinning drug warfarin
+Stop use and ask a doctor if:
+pain gets worse or lasts more than 10 days in adults
+pain gets worse or lasts more than 5 days in children under 12 years
+fever gets worse or lasts more than 3 days
+new symptoms occur
+redness or swelling is present
+These could be signs of a serious condition.
+If pregnant or breast-feeding,
+ask a health professional before use.
+Keep out of reach of children.
+Overdose warning: In case of overdose, get medical help or contact a Poison Control
+Center right away. (1-800-222-1222) Quick medical attention is critical for adults as well
+as for children even if you do not notice any signs or symptoms.
+Directions
+adults and children 12 years and over:
+take 2 tablets every 4 to 6 hours while symptoms last
+do not take mote than 10 tablets in 24 hours, unless directed by doctor
+",
+ace_03,When should a person stop using acetaminophen according to the label?,drug_aware,4,3d8cd7cd8a22934028fc5172ad67465fe074e90b9073d2f990e8c80fd2cf7cb4,acetaminophen_325mg_health_pharma.pdf,3,1,0.7010836601257324,"Pregelatinized Starch, Polyvinyl Pyrrolidone, Microcrystalline Cellulose, Stearic acid
+powder, Magnesium Stearate, Hypromellose-5 & 15, Polyethylene Glycol-400, Talc,
+Titanium Dioxide.
+Questions or comments?
+Call toll free 1-844-832-1138 Monday through Friday 9 AM - 5 PM EST
+PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+ACETAMINOPHEN
+acetaminophen tablet, film coated
+Product Information
+Product Type HUMAN OTC DRUG Item Code (Source) NDC:71679-305
+Route of Administration ORAL
+Active Ingredient/Active Moiety
+Ingredient Name Basis of Strength Strength",
+ace_03,When should a person stop using acetaminophen according to the label?,drug_aware,5,64b6521f8f2b1f6917c0043df0d54e360d2915951eaa4390437cd1855a5fa684,acetaminophen_325mg_health_pharma.pdf,4,2,0.6770104169845581,"
+Marketing Application Number or Monograph Marketing Start Marketing End
+Category Citation Date Date
+OTC Monograph Drug M013 09/23/2025
+Labeler - Health Pharma USA LLC (080804485)
+Registrant - Health Pharma USA LLC (080804485)
+Revised: 7/2026 Health Pharma USA LLC",
+ace_03,When should a person stop using acetaminophen according to the label?,drug_aware,6,f9890d2c9c8e6cd5df7c1495be4d1cdbf921e79a7756b45da68af7f94d37b2ae,acetaminophen_325mg_health_pharma.pdf,4,1,0.6667739748954773,"ACETAMINOPHEN (UNII: 362O9ITL9D) (ACETAMINOPHEN - UNII:362O9ITL9D) ACETAMINOPHEN 325 mg
+Inactive Ingredients
+Ingredient Name Strength
+HYPROMELLOSE, UNSPECIFIED (UNII: 3NXW29V3WO)
+MAGNESIUM STEARATE (UNII: 70097M6I30)
+MICROCRYSTALLINE CELLULOSE (UNII: OP1R32D61U)
+POLYETHYLENE GLYCOL, UNSPECIFIED (UNII: 3WJQ0SDW1A)
+POVIDONE (UNII: FZ989GH94E)
+STARCH, CORN (UNII: O8232NY3SJ)
+STEARIC ACID (UNII: 4ELV7Z65AP)
+TALC (UNII: 7SEV7J4R1U)
+TITANIUM DIOXIDE (UNII: 15FIX9V2JP)
+Product Characteristics
+Color white (White to off white) Score no score
+Shape ROUND Size 10mm
+Flavor Imprint Code S99
+Contains
+Packaging
+Marketing Start Marketing End # Item Code Package Description
+Date Date
+NDC:71679-305- 47000 in 1 DRUM; Type 0: Not a Combination 1 09/23/2025
+00 Product
+Marketing Information
+Marketing Application Number or Monograph Marketing Start Marketing End
+Category Citation Date Date
+OTC Monograph Drug M013 09/23/2025
+Labeler - Health Pharma USA LLC (080804485)
+",
+ace_03,When should a person stop using acetaminophen according to the label?,drug_aware,7,62dfd0a287fb9a8bcf3a3a858cbd99d3c9d5696a8cc98a737f7336a1488fa6b9,acetaminophen_325mg_health_pharma.pdf,2,2,0.638373613357544,"ms.
+Directions
+adults and children 12 years and over:
+take 2 tablets every 4 to 6 hours while symptoms last
+do not take mote than 10 tablets in 24 hours, unless directed by doctor
+do not use for more than 10 days unless directed by a doctor
+children 6 years to under 12 years:
+take 1 tablet every 4 to 6 hours while symptoms last
+do not take more than 5 tablets in 24 hours
+do not use for more than 5 days unless directed by doctor
+Other information
+store between 20°-25°C (68°-77°F)
+read all product information before using
+TEMPER EVIDENT: DO NOT USE IF IMPRINTED SAFETY SEAL UNDER CAP IS
+BROKEN OR MISSING
+Inactive ingredients",
+flu_01,What uses are listed for fluoxetine?,global,1,e518ed4f4da796b320e445fdd6a0d37eb8bb3527ccceea4995d8ee49621bd161,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf,36,2,0.8196148872375488,"your healthcare provider about your medical condition or
+treatment. Talk with your healthcare provider if there is something you do not
+understand or you want to learn more about.
+Fluoxetine tablet is in a class of drugs called selective serotonin reuptake inhibitors
+(SSRIs), which are often used for the treatment of depression and anxiety disorders.
+Although fluoxetine tablets are not a treatment for depression, it contains fluoxetine
+hydrochloride, the same active ingredient in some antidepressants.
+What is the most important information I should know about fluoxetine
+tablets?
+Fluoxetine tablets and other antidepressant medicines may cause serious side effects
+including:
+1. Suicidal thoughts or actions:
+Fluoxetine tablets and other antidepressant medicines may increase
+suicidal thoughts or actions in some children, teenagers, or young adults within
+the first few months of treatment or when the dose is changed.
+",
+flu_01,What uses are listed for fluoxetine?,global,2,96d1731907e4837ec2ee52e32169aed1cae85104ba35126fe69cedac0fb1bd47,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf,1,1,0.8009610772132874,"FLUOXETINE- fluoxetine tablet
+Torrent Pharmaceuticals Limited
+----------
+HIGHLIGHTS OF PRESCRIBING INFORMATION
+These highlights do not include all the information needed to use FLUOXETINE TABLETS
+safely and effectively. See full prescribing information for FLUOXETINE TABLETS.
+FLUOXETINE tablets, for oral use
+Initial U.S. Approval:1987
+WARNING: SUICIDALITY AND ANTIDEPRESSANT DRUGS
+See full prescribing information for complete boxed warning.
+Increased risk of suicidal thinking and behavior in children, adolescents, and young
+adults taking antidepressants for Major Depressive Disorder (MDD) and other
+psychiatric disorders. Fluoxetine tablet is not approved for use in pediatric patients
+(5.1).
+RECENT MAJOR CHANGES
+Warnings and Precautions, Serotonin Syndrome (5.2) 06/2023
+Warnings and Precautions (5.7) 06/2023
+Warnings and Precautions, Sexual Dysfunction (5.15) 09/2021
+INDICATIONS AND USAGE
+",
+flu_01,What uses are listed for fluoxetine?,global,3,5c128950adf604349d7a2870b942e923b5cd09a5743702239ef5322f51a4cc17,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf,1,2,0.791064441204071,"Warnings and Precautions, Serotonin Syndrome (5.2) 06/2023
+Warnings and Precautions (5.7) 06/2023
+Warnings and Precautions, Sexual Dysfunction (5.15) 09/2021
+INDICATIONS AND USAGE
+Fluoxetine tablets, USP are selective serotonin reuptake inhibitor (SSRI) indicated for the treatment of
+Premenstrual Dysphoric Disorder (PMDD) (1.1)
+DOSAGE AND ADMINISTRATION
+20 mg/day continuously or intermittently (2.1)
+DOSAGE FORMS AND STRENGTHS
+Tablets: 10 mg, 20 mg (3)
+CONTRAINDICATIONS
+Serotonin Syndrome and MAOIs: Do not use with MAOIs intended to treat psychiatric disorders with
+fluoxetine tablet or within 5 weeks of stopping treatment with fluoxetine tablets. Do not use fluoxetine
+tablet within 14 days of stopping an MAIO intended to treat psychiatric disorders. In addition, do not
+start fluoxetine tablet in a patient who is being treated with linezolid or intravenous methylene
+blue (4.1)
+Do not use with pimozide due to risk of drug interaction or QTc prolongation (4.2, 7.9)
+",
+flu_01,What uses are listed for fluoxetine?,global,4,acd8b4d7f52dfb4ce376df586a217fd870ceb1ffedcdc1f1db66c519ad3021e1,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf,38,3,0.7829090356826782,"high or low mood, feeling restless or changes in sleep habits
+headache, sweating, nausea, dizziness
+electric shock-like sensations, shaking, confusion
+What are fluoxetine tablets?
+Fluoxetine tablets are a prescription medicine used to treat premenstrual dysphoric
+disorder (PMDD).
+It is not known if fluoxetine tablets are safe and effective in children.
+Talk with your healthcare provider if you do not think that your condition is getting
+better with fluoxetine tablets treatment.
+Who should not take fluoxetine tablets?
+Do not take fluoxetine tablets if you:
+take a Monoamine Oxidase Inhibitor (MAOI). Ask your healthcare provider or",
+flu_01,What uses are listed for fluoxetine?,global,5,8e7a35c295c7261a7e75a23a761c2a27be129dd2592a1ecc26dc11acbb0bf15a,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf,10,1,0.7827149033546448,"treatment with an MAOI such as linezolid or intravenous methylene blue in a patient
+taking fluoxetine tablet. Fluoxetine tablet should be discontinued before initiating
+treatment with the MAOI [see Contraindications (4.1) and Dosage and Administration
+(2.5)].
+If concomitant use of fluoxetine hydrochloride with other serotonergic drugs, that is,
+triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, amphetamines,
+tryptophan and St. John's Wort is clinically warranted, patients should be made aware of
+a potential increased risk for serotonin syndrome, particularly during treatment initiation
+and dose increases.
+Treatment with fluoxetine hydrochloride and any concomitant serotonergic agents,
+should be discontinued immediately if the above events occur and supportive
+symptomatic treatment should be initiated.
+5.3 Allergic Reactions and Rash
+In 4 clinical trials for PMDD, 4% of 415 patients treated with fluoxetine tablet reported
+",
+flu_01,What uses are listed for fluoxetine?,global,6,1fbd545a83d4e4d4b889d25f7dccfb1be4be015432579b036978fa9b5ff89560,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf,41,2,0.7787894606590271,"ts
+Medicines are sometimes prescribed for purposes other than those listed in a Medication
+Guide. Do not use fluoxetine tablets for a condition for which it was not prescribed. Do
+not give fluoxetine tablets to other people, even if they have the same condition. It may
+harm them.
+This Medication Guide summarizes the most important information about fluoxetine
+tablets. If you would like more information, talk with your healthcare provider. You may
+ask your healthcare provider or pharmacist for information about fluoxetine tablets that
+is written for healthcare professionals. For more information about fluoxetine tablets call
+1-800-912-9561.
+What are the ingredients in fluoxetine tablets?
+Active ingredient: fluoxetine hydrochloride, USP
+Inactive ingredients: colloidal silicon dioxide, croscarmellose sodium, D&C Yellow No. 10
+lake, FD&C Yellow no. 6 lake, magnesium stearate, microcrystalline cellulose, and
+povidone.
+Trade marks are property of their respective owners.
+",
+flu_01,What uses are listed for fluoxetine?,global,7,8555f24a336eead54954fd2dac22aaa397d84b59943c79f7bb6e241f0510b593,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf,21,2,0.768843412399292,"), Warnings and Precautions (5.2), and Clinical
+Pharmacology (12.3)].
+7.2 CNS Acting Drugs
+Caution is advised if the concomitant administration of fluoxetine, including fluoxetine
+tablet, and other CNS acting drugs is required. In evaluating individual cases,
+consideration should be given to using lower initial doses of the concomitantly
+administered drugs, using conservative titration schedules, and monitoring of clinical
+status [see Clinical Pharmacology (12.3)].
+7.3 Serotonergic Drugs
+Based on the mechanism of action of SNRIs and SSRIs, including fluoxetine
+hydrochloride, and the potential for serotonin syndrome, caution is advised when
+fluoxetine hydrochloride is coadministered with other drugs that may affect the
+serotonergic neurotransmitter systems, such as triptans, linezolid (an antibiotic which is
+a reversible non-selective MAOI), lithium, tramadol, amphetamines, or St. John's Wort
+[see Warnings and Precautions (5.2)]. The concomitant use of fluoxetine hydrochloride
+",
+flu_01,What uses are listed for fluoxetine?,global,8,b81b0d44c95a8ab764c1d34c770b3c270b8ea4eb56b6ceb63d6e33cc7a859720,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf,5,2,0.764754593372345," the risk of suicide. Patients of
+all ages who are started on antidepressant therapy should be monitored
+appropriately and observed closely for clinical worsening, suicidality, or
+unusual changes in behavior. Families and caregivers should be advised
+of the need for close observation and communication with the
+prescriber. Fluoxetine tablet is not approved for use in pediatric patients
+[see Warnings and Precautions (5.1) and Use in Specific Populations
+(8.4)].
+1 INDICATIONS AND USAGE
+1.1 Premenstrual Dysphoric Disorder (PMDD)
+Fluoxetine tablets, USP are indicated for the treatment of premenstrual dysphoric
+disorder (PMDD) [see Clinical Studies (14.1)].
+The effectiveness of fluoxetine tablets, USP in long-term use (that is, for more than 6
+months) has not been systematically evaluated in placebo-controlled trials. The use of
+fluoxetine tablets, USP for extended periods should be periodically re-evaluated for the
+individual patient [see Dosage and Administration (2.1)].
+",
+flu_01,What uses are listed for fluoxetine?,global,9,752e3c32fa370e030c5e1d13659a71639f82ae7d9cc198883dde048dd112e8eb,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf,35,3,0.7630679607391357,"o take,
+any prescription medication, including Symbyax, Prozac, Prozac Weekly, or over-the-
+counter drugs, including herbal supplements or alcohol. Patients should also be advised
+to inform their physicians if they plan to discontinue any medications they are taking
+while on fluoxetine tablet.
+17.10 Discontinuation of Treatment
+Patients should be advised to take fluoxetine tablet exactly as prescribed, and to
+continue taking fluoxetine tablet as prescribed even after their symptoms improve.
+Patients should be advised that they should not alter their dosing regimen, or stop
+taking fluoxetine tablet without consulting their physician [see Warnings and Precautions
+(5.14)]. Patients should be advised to consult with their healthcare provider if their
+symptoms do not improve with fluoxetine tablet.
+17.11 Use in Specific Populations
+Pregnancy — Patients should be advised to notify their physician if they become
+pregnant or intend to become pregnant during therapy. Fluoxetine should be used
+",
+flu_01,What uses are listed for fluoxetine?,global,10,dc984aa6aec3ef180cbf2bbbf3bacda2e0bcc72d7bd26aae2c8ac9ef3c0b37a2,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf,3,1,0.7611037492752075,"1.1 Premenstrual Dysphoric Disorder (PMDD)
+2 DOSAGE AND ADMINISTRATION
+2.1 Treatment
+2.2 Dosing in Specific Populations
+2.3 Discontinuation of Treatment
+2.4 Switching a Patient To or From a Monoamine Oxidase Inhibitor (MAOI) Intended
+to Treat Psychiatric Disorders
+2.5 Use of Fluoxetine Tablets with Other MAOIs such as Linezolid or Methylene Blue
+3 DOSAGE FORMS AND STRENGTHS
+4 CONTRAINDICATIONS
+4.1 Monoamine Oxidase Inhibitors
+4.2 Other Contraindications
+5 WARNINGS AND PRECAUTIONS
+5.1 Clinical Worsening and Suicide Risk
+5.2 Serotonin Syndrome
+5.3 Allergic Reactions and Rash
+5.4 Screening Patients for Bipolar Disorder and Monitoring for Mania/Hypomania
+5.5 Seizures
+5.6 Altered Appetite and Weight
+5.7 Abnormal Bleeding
+5.8 Angle-Closure Glaucoma
+5.9 Hyponatremia
+5.10 Anxiety and Insomnia
+5.11 Use in Patients with Concomitant Illness
+5.12 Potential for Cognitive and Motor Impairment
+5.13 Long Elimination Half-Life
+5.14 Discontinuation of Treatment
+5.15 Sexual Dysfunction
+",
+flu_01,What uses are listed for fluoxetine?,drug_aware,1,e518ed4f4da796b320e445fdd6a0d37eb8bb3527ccceea4995d8ee49621bd161,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf,36,2,0.8196148872375488,"your healthcare provider about your medical condition or
+treatment. Talk with your healthcare provider if there is something you do not
+understand or you want to learn more about.
+Fluoxetine tablet is in a class of drugs called selective serotonin reuptake inhibitors
+(SSRIs), which are often used for the treatment of depression and anxiety disorders.
+Although fluoxetine tablets are not a treatment for depression, it contains fluoxetine
+hydrochloride, the same active ingredient in some antidepressants.
+What is the most important information I should know about fluoxetine
+tablets?
+Fluoxetine tablets and other antidepressant medicines may cause serious side effects
+including:
+1. Suicidal thoughts or actions:
+Fluoxetine tablets and other antidepressant medicines may increase
+suicidal thoughts or actions in some children, teenagers, or young adults within
+the first few months of treatment or when the dose is changed.
+",
+flu_01,What uses are listed for fluoxetine?,drug_aware,2,96d1731907e4837ec2ee52e32169aed1cae85104ba35126fe69cedac0fb1bd47,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf,1,1,0.8009610772132874,"FLUOXETINE- fluoxetine tablet
+Torrent Pharmaceuticals Limited
+----------
+HIGHLIGHTS OF PRESCRIBING INFORMATION
+These highlights do not include all the information needed to use FLUOXETINE TABLETS
+safely and effectively. See full prescribing information for FLUOXETINE TABLETS.
+FLUOXETINE tablets, for oral use
+Initial U.S. Approval:1987
+WARNING: SUICIDALITY AND ANTIDEPRESSANT DRUGS
+See full prescribing information for complete boxed warning.
+Increased risk of suicidal thinking and behavior in children, adolescents, and young
+adults taking antidepressants for Major Depressive Disorder (MDD) and other
+psychiatric disorders. Fluoxetine tablet is not approved for use in pediatric patients
+(5.1).
+RECENT MAJOR CHANGES
+Warnings and Precautions, Serotonin Syndrome (5.2) 06/2023
+Warnings and Precautions (5.7) 06/2023
+Warnings and Precautions, Sexual Dysfunction (5.15) 09/2021
+INDICATIONS AND USAGE
+",
+flu_01,What uses are listed for fluoxetine?,drug_aware,3,5c128950adf604349d7a2870b942e923b5cd09a5743702239ef5322f51a4cc17,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf,1,2,0.791064441204071,"Warnings and Precautions, Serotonin Syndrome (5.2) 06/2023
+Warnings and Precautions (5.7) 06/2023
+Warnings and Precautions, Sexual Dysfunction (5.15) 09/2021
+INDICATIONS AND USAGE
+Fluoxetine tablets, USP are selective serotonin reuptake inhibitor (SSRI) indicated for the treatment of
+Premenstrual Dysphoric Disorder (PMDD) (1.1)
+DOSAGE AND ADMINISTRATION
+20 mg/day continuously or intermittently (2.1)
+DOSAGE FORMS AND STRENGTHS
+Tablets: 10 mg, 20 mg (3)
+CONTRAINDICATIONS
+Serotonin Syndrome and MAOIs: Do not use with MAOIs intended to treat psychiatric disorders with
+fluoxetine tablet or within 5 weeks of stopping treatment with fluoxetine tablets. Do not use fluoxetine
+tablet within 14 days of stopping an MAIO intended to treat psychiatric disorders. In addition, do not
+start fluoxetine tablet in a patient who is being treated with linezolid or intravenous methylene
+blue (4.1)
+Do not use with pimozide due to risk of drug interaction or QTc prolongation (4.2, 7.9)
+",
+flu_01,What uses are listed for fluoxetine?,drug_aware,4,acd8b4d7f52dfb4ce376df586a217fd870ceb1ffedcdc1f1db66c519ad3021e1,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf,38,3,0.7829090356826782,"high or low mood, feeling restless or changes in sleep habits
+headache, sweating, nausea, dizziness
+electric shock-like sensations, shaking, confusion
+What are fluoxetine tablets?
+Fluoxetine tablets are a prescription medicine used to treat premenstrual dysphoric
+disorder (PMDD).
+It is not known if fluoxetine tablets are safe and effective in children.
+Talk with your healthcare provider if you do not think that your condition is getting
+better with fluoxetine tablets treatment.
+Who should not take fluoxetine tablets?
+Do not take fluoxetine tablets if you:
+take a Monoamine Oxidase Inhibitor (MAOI). Ask your healthcare provider or",
+flu_01,What uses are listed for fluoxetine?,drug_aware,5,8e7a35c295c7261a7e75a23a761c2a27be129dd2592a1ecc26dc11acbb0bf15a,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf,10,1,0.7827149033546448,"treatment with an MAOI such as linezolid or intravenous methylene blue in a patient
+taking fluoxetine tablet. Fluoxetine tablet should be discontinued before initiating
+treatment with the MAOI [see Contraindications (4.1) and Dosage and Administration
+(2.5)].
+If concomitant use of fluoxetine hydrochloride with other serotonergic drugs, that is,
+triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, amphetamines,
+tryptophan and St. John's Wort is clinically warranted, patients should be made aware of
+a potential increased risk for serotonin syndrome, particularly during treatment initiation
+and dose increases.
+Treatment with fluoxetine hydrochloride and any concomitant serotonergic agents,
+should be discontinued immediately if the above events occur and supportive
+symptomatic treatment should be initiated.
+5.3 Allergic Reactions and Rash
+In 4 clinical trials for PMDD, 4% of 415 patients treated with fluoxetine tablet reported
+",
+flu_01,What uses are listed for fluoxetine?,drug_aware,6,1fbd545a83d4e4d4b889d25f7dccfb1be4be015432579b036978fa9b5ff89560,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf,41,2,0.7787894606590271,"ts
+Medicines are sometimes prescribed for purposes other than those listed in a Medication
+Guide. Do not use fluoxetine tablets for a condition for which it was not prescribed. Do
+not give fluoxetine tablets to other people, even if they have the same condition. It may
+harm them.
+This Medication Guide summarizes the most important information about fluoxetine
+tablets. If you would like more information, talk with your healthcare provider. You may
+ask your healthcare provider or pharmacist for information about fluoxetine tablets that
+is written for healthcare professionals. For more information about fluoxetine tablets call
+1-800-912-9561.
+What are the ingredients in fluoxetine tablets?
+Active ingredient: fluoxetine hydrochloride, USP
+Inactive ingredients: colloidal silicon dioxide, croscarmellose sodium, D&C Yellow No. 10
+lake, FD&C Yellow no. 6 lake, magnesium stearate, microcrystalline cellulose, and
+povidone.
+Trade marks are property of their respective owners.
+",
+flu_01,What uses are listed for fluoxetine?,drug_aware,7,8555f24a336eead54954fd2dac22aaa397d84b59943c79f7bb6e241f0510b593,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf,21,2,0.768843412399292,"), Warnings and Precautions (5.2), and Clinical
+Pharmacology (12.3)].
+7.2 CNS Acting Drugs
+Caution is advised if the concomitant administration of fluoxetine, including fluoxetine
+tablet, and other CNS acting drugs is required. In evaluating individual cases,
+consideration should be given to using lower initial doses of the concomitantly
+administered drugs, using conservative titration schedules, and monitoring of clinical
+status [see Clinical Pharmacology (12.3)].
+7.3 Serotonergic Drugs
+Based on the mechanism of action of SNRIs and SSRIs, including fluoxetine
+hydrochloride, and the potential for serotonin syndrome, caution is advised when
+fluoxetine hydrochloride is coadministered with other drugs that may affect the
+serotonergic neurotransmitter systems, such as triptans, linezolid (an antibiotic which is
+a reversible non-selective MAOI), lithium, tramadol, amphetamines, or St. John's Wort
+[see Warnings and Precautions (5.2)]. The concomitant use of fluoxetine hydrochloride
+",
+flu_01,What uses are listed for fluoxetine?,drug_aware,8,b81b0d44c95a8ab764c1d34c770b3c270b8ea4eb56b6ceb63d6e33cc7a859720,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf,5,2,0.764754593372345," the risk of suicide. Patients of
+all ages who are started on antidepressant therapy should be monitored
+appropriately and observed closely for clinical worsening, suicidality, or
+unusual changes in behavior. Families and caregivers should be advised
+of the need for close observation and communication with the
+prescriber. Fluoxetine tablet is not approved for use in pediatric patients
+[see Warnings and Precautions (5.1) and Use in Specific Populations
+(8.4)].
+1 INDICATIONS AND USAGE
+1.1 Premenstrual Dysphoric Disorder (PMDD)
+Fluoxetine tablets, USP are indicated for the treatment of premenstrual dysphoric
+disorder (PMDD) [see Clinical Studies (14.1)].
+The effectiveness of fluoxetine tablets, USP in long-term use (that is, for more than 6
+months) has not been systematically evaluated in placebo-controlled trials. The use of
+fluoxetine tablets, USP for extended periods should be periodically re-evaluated for the
+individual patient [see Dosage and Administration (2.1)].
+",
+flu_01,What uses are listed for fluoxetine?,drug_aware,9,752e3c32fa370e030c5e1d13659a71639f82ae7d9cc198883dde048dd112e8eb,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf,35,3,0.7630679607391357,"o take,
+any prescription medication, including Symbyax, Prozac, Prozac Weekly, or over-the-
+counter drugs, including herbal supplements or alcohol. Patients should also be advised
+to inform their physicians if they plan to discontinue any medications they are taking
+while on fluoxetine tablet.
+17.10 Discontinuation of Treatment
+Patients should be advised to take fluoxetine tablet exactly as prescribed, and to
+continue taking fluoxetine tablet as prescribed even after their symptoms improve.
+Patients should be advised that they should not alter their dosing regimen, or stop
+taking fluoxetine tablet without consulting their physician [see Warnings and Precautions
+(5.14)]. Patients should be advised to consult with their healthcare provider if their
+symptoms do not improve with fluoxetine tablet.
+17.11 Use in Specific Populations
+Pregnancy — Patients should be advised to notify their physician if they become
+pregnant or intend to become pregnant during therapy. Fluoxetine should be used
+",
+flu_01,What uses are listed for fluoxetine?,drug_aware,10,dc984aa6aec3ef180cbf2bbbf3bacda2e0bcc72d7bd26aae2c8ac9ef3c0b37a2,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf,3,1,0.7611037492752075,"1.1 Premenstrual Dysphoric Disorder (PMDD)
+2 DOSAGE AND ADMINISTRATION
+2.1 Treatment
+2.2 Dosing in Specific Populations
+2.3 Discontinuation of Treatment
+2.4 Switching a Patient To or From a Monoamine Oxidase Inhibitor (MAOI) Intended
+to Treat Psychiatric Disorders
+2.5 Use of Fluoxetine Tablets with Other MAOIs such as Linezolid or Methylene Blue
+3 DOSAGE FORMS AND STRENGTHS
+4 CONTRAINDICATIONS
+4.1 Monoamine Oxidase Inhibitors
+4.2 Other Contraindications
+5 WARNINGS AND PRECAUTIONS
+5.1 Clinical Worsening and Suicide Risk
+5.2 Serotonin Syndrome
+5.3 Allergic Reactions and Rash
+5.4 Screening Patients for Bipolar Disorder and Monitoring for Mania/Hypomania
+5.5 Seizures
+5.6 Altered Appetite and Weight
+5.7 Abnormal Bleeding
+5.8 Angle-Closure Glaucoma
+5.9 Hyponatremia
+5.10 Anxiety and Insomnia
+5.11 Use in Patients with Concomitant Illness
+5.12 Potential for Cognitive and Motor Impairment
+5.13 Long Elimination Half-Life
+5.14 Discontinuation of Treatment
+5.15 Sexual Dysfunction
+",
+flu_02,What side effects are listed for fluoxetine?,global,1,df753181837d139a0c84396b0917a9ddec0d30600bcc91272c3f83210d858053,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf,2,1,0.8365506529808044,"g g g p
+anatomically narrow angles and who are treated with antidepressants (5.8)
+Hyponatremia: Has been reported with fluoxetine in association with syndrome of inappropriate
+antidiuretic hormone (SIADH) (5.9)
+Anxiety and Insomnia: May occur (5.10)
+Potential for Cognitive and Motor Impairment: Has potential to impair judgment, thinking, and motor
+skills. Use caution when operating machinery (5.12)
+Long Half-Life: Changes in dose will not be fully reflected in plasma for several weeks (5.13)
+Sexual dysfunction: Fluoxetine tablets use may cause symptoms of sexual dysfunction (5.15)
+ADVERSE REACTIONS
+Most common adverse reactions (incidence rate greater than or equal to 5% and greater than placebo)
+associated with fluoxetine tablet 20 mg (either continuous or intermittent) for PMDD:
+Headache, asthenia, pain, accidental injury, infection, flu syndrome, nausea, diarrhea, insomnia, dizziness,
+nervousness, thinking abnormal, libido decreased, rhinitis, and pharyngitis (6.1).
+",
+flu_02,What side effects are listed for fluoxetine?,global,2,18286ac86ca62dde1c6d5dc81a6b652bf5d55bfb0a10363b3b08f1aac9e2688b,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf,40,3,0.8273704051971436,"s side effects, including:
+See ""What is the most important information I should know about fluoxetine tablets?""
+Problems with blood sugar control. Women who have diabetes and take
+fluoxetine tablets may have problems with low blood sugar while taking fluoxetine
+tablets. High blood sugar can happen when fluoxetine tablets is stopped. Your
+healthcare provider may need to change the dose of your diabetes medicines when
+you start or stop taking fluoxetine tablets.
+Feeling anxious or trouble sleeping
+The most common side effects of fluoxetine tablets include:
+headache
+weakness (asthenia)
+pain
+accidental injury
+infection
+flu symptoms
+nausea
+diarrhea",
+flu_02,What side effects are listed for fluoxetine?,global,3,071c506d8a70a963a5a6cf7b79d976b2deec18130cb25c3c6ce93d20f386f854,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf,16,1,0.819901704788208,"Headache 13 15 11
+Asthenia 12 8 4
+Pain 9 3 7
+Accidental injury 8 1 5
+Infection 7 0 3
+Flu syndrome 12 3 7
+Digestive System
+Nausea 13 9 6
+Diarrhea 6 2 6
+Nervous System
+Insomnia 9 10 7
+Dizziness 7 2 3
+Nervousness 7 3 3
+Thinking abnormal2 6 5 0
+Libido decreased 3 9 1
+Respiratory
+System
+Rhinitis 23 16 15
+Pharyngitis 10 6 5
+1Included in the table are adverse reactions reported by at least 5% of patients
+taking fluoxetine tablet 20 mg either continuously or intermittently. For additional
+adverse reaction terms referenced in Warnings and Precautions, reporting rates
+for fluoxetine tablet 20 mg continuous and intermittent were, respectively:
+anxiety 4.8%, 1.2% and anorexia 3.8%, 3.5%.
+2Thinking abnormal is the COSTART term that captures concentration difficulties.
+Incidence in US depression, OCD, and bulimia placebo-controlled clinical trials (excluding
+data from extensions of trials) — Table 6 enumerates the most common treatment-
+",
+flu_02,What side effects are listed for fluoxetine?,global,4,0a20deb1a735dc85d0eecc447fec8d4f46b69a661a2daf6cb6e910eab5d5aaee,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf,41,1,0.8177263736724854,"trouble sleeping (insomnia)
+dizziness
+feeling anxious or nervous
+thinking differently
+sexual problems
+runny or stuffy nose (rhinitis)
+sore throat (pharyngitis)
+Tell your healthcare provider if you have any side effect that bothers you or that does
+not go away. These are not all the possible side effects of fluoxetine tablets. For more
+information, ask your healthcare provider or pharmacist.
+Call your doctor for medical advice about side effects. You may report side effects to
+FDA at 1-800-FDA-1088.
+How should I store fluoxetine tablets?
+Store fluoxetine tablets at 20° to 25°C (68° to 77°F); excursions permitted to 15° to
+30°C (59° to 86°F) [see USP Controlled Room Temperature].
+Keep fluoxetine tablets and all medicines out of the reach of children.
+General information about fluoxetine tablets
+Medicines are sometimes prescribed for purposes other than those listed in a Medication
+Guide. Do not use fluoxetine tablets for a condition for which it was not prescribed. Do
+",
+flu_02,What side effects are listed for fluoxetine?,global,5,efa5e3040f15903ddad09642e6036c8fc30e4ba6e1a30d209362e9ab42a99988,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf,37,1,0.8152027130126953,"when the dose is changed.
+Keep all follow-up visits with your healthcare provider and call between visits if you are
+worried about symptoms.
+Call your healthcare provider right away if you have any of the following
+symptoms, or call 911 if an emergency, especially if they are new, worse, or
+worry you:
+attempts to commit suicide
+acting on dangerous impulses
+acting aggressive or violent
+thoughts about suicide or dying
+new or worse depression
+new or worse anxiety or panic attacks
+feeling agitated, restless, angry or irritable
+trouble sleeping
+an increase in activity or talking more than what is normal for you
+other unusual changes in behavior or mood
+Call your healthcare provider right away if you have any of the following
+symptoms, or call 911 if an emergency. Fluoxetine tablets may be associated
+with these serious side effects:
+2. Serotonin Syndrome. This condition can be life-threatening and may
+include:
+agitation, hallucinations, coma or other changes in mental status
+",
+flu_02,What side effects are listed for fluoxetine?,global,6,13144b8b7d30f64d88ec04354b5b93dccf1687978a3db2d149f9504026775326,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf,17,1,0.8144141435623169,"Fever 3 2
+Cardiovascular System
+Palpitation 3 2
+Vasodilatation 3 1
+Digestive System
+Nausea 27 11
+Anorexia 11 4
+Dry mouth 11 8
+Diarrhea 10 7
+Dyspepsia 7 5
+Constipation 5 3
+Vomiting 3 2
+Metabolic and Nutritional
+Disorders
+Weight loss 3 1
+Nervous System
+Insomnia 24 11
+Nervousness 14 10
+Anxiety 13 9
+Somnolence 13 6
+Tremor 12 1
+Dizziness 11 5
+Libido decreased 4 1
+Abnormal dreams 3 2
+Thinking abnormal2 3 2
+Respiratory System
+Pharyngitis 6 5
+Yawn 5 -
+Skin and Appendages Skin
+and Subcutaneous Tissue
+Disorders
+Sweating 8 3
+Rash 5 3
+Special Senses
+Abnormal vision 3 1
+Urogenital System
+Urinary frequency 2 1
+1Included are reactions reported by at least 2% of patients taking fluoxetine,
+except the following adverse reactions, which had an incidence on placebo
+greater than fluoxetine (depression, OCD, and bulimia combined): back pain,
+cough increased, depression (includes suicidal thoughts), dysmenorrhea,
+flatulence, infection, myalgia, pain, pruritus, rhinitis, sinusitis.
+",
+flu_02,What side effects are listed for fluoxetine?,global,7,1f5e0e7a75d388c67cc5ddbdac83b806270b2bf94944a7498421ccdb104a3967,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf,34,1,0.812724232673645,"have.
+Patients should be advised of the following issues and asked to alert their healthcare
+provider if these occur while taking fluoxetine tablet.
+17.2 Clinical Worsening and Suicide Risk
+Patients, their families, and their caregivers should be encouraged to be alert to the
+emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility,
+aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania,
+other unusual changes in behavior, worsening of depression, and suicidal ideation,
+especially early during antidepressant treatment and when the dose is adjusted up or
+down. Families and caregivers of patients should be advised to look for the emergence
+of such symptoms on a day-to-day basis, since changes may be abrupt. Such
+symptoms should be reported to the patient's prescriber or health professional,
+especially if they are severe, abrupt in onset, or were not part of the patient's presenting
+",
+flu_02,What side effects are listed for fluoxetine?,global,8,e518ed4f4da796b320e445fdd6a0d37eb8bb3527ccceea4995d8ee49621bd161,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf,36,2,0.8088852763175964,"your healthcare provider about your medical condition or
+treatment. Talk with your healthcare provider if there is something you do not
+understand or you want to learn more about.
+Fluoxetine tablet is in a class of drugs called selective serotonin reuptake inhibitors
+(SSRIs), which are often used for the treatment of depression and anxiety disorders.
+Although fluoxetine tablets are not a treatment for depression, it contains fluoxetine
+hydrochloride, the same active ingredient in some antidepressants.
+What is the most important information I should know about fluoxetine
+tablets?
+Fluoxetine tablets and other antidepressant medicines may cause serious side effects
+including:
+1. Suicidal thoughts or actions:
+Fluoxetine tablets and other antidepressant medicines may increase
+suicidal thoughts or actions in some children, teenagers, or young adults within
+the first few months of treatment or when the dose is changed.
+",
+flu_02,What side effects are listed for fluoxetine?,global,9,d433fb08cf643029f1f2f5ec4952909695c314d8a00c5f0b07d781514bb9a7c8,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf,40,2,0.8032332062721252,"Your healthcare provider may need to
+change the dose of fluoxetine tablets until it is the right dose for you.
+Talk to your healthcare provider if your symptoms do not get better.
+Fluoxetine tablets may be taken with or without food.
+If you take too much fluoxetine tablets, call your healthcare provider or go to the
+nearest hospital emergency room right away.
+What should I avoid while taking fluoxetine tablets?
+Fluoxetine tablets can cause sleepiness or may affect your ability to make decisions,
+think clearly, or react quickly. You should not drive, operate heavy machinery, or do
+other dangerous activities until you know how fluoxetine tablets affects you. Do not
+drink alcohol while using fluoxetine tablets.
+What are the possible side effects of fluoxetine tablets?
+Fluoxetine tablets may cause serious side effects, including:
+See ""What is the most important information I should know about fluoxetine tablets?""
+Problems with blood sugar control. Women who have diabetes and take
+",
+flu_02,What side effects are listed for fluoxetine?,global,10,1de4b2a122ee61f556e83195c2a230900ea97c81f3642ba1cf0c8040f3db1bc3,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf,38,2,0.8002121448516846,"ache
+weakness or feeling unsteady
+confusion, problems concentrating or thinking or memory problems
+10. Sexual problems (dysfunction).Taking selective serotonin reuptake inhibitors
+(SSRIs), including fluoxetine tablets, may cause symptoms of sexual problems
+Symptoms in females may include:
+ο Decreased sex drive
+ο Delayed or inability to have an orgasm
+Talk to your healthcare provider if you develop any changes in your sexual function or if
+you have any questions or concerns about sexual problems during treatment with
+fluoxetine tablets. There may be treatments your healthcare provider can suggest.
+Do not stop fluoxetine tablets without first talking to your healthcare
+provider. Stopping fluoxetine tablets too quickly may cause serious symptoms
+including:
+anxiety, irritability, high or low mood, feeling restless or changes in sleep habits
+headache, sweating, nausea, dizziness
+electric shock-like sensations, shaking, confusion
+What are fluoxetine tablets?
+",
+flu_02,What side effects are listed for fluoxetine?,drug_aware,1,df753181837d139a0c84396b0917a9ddec0d30600bcc91272c3f83210d858053,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf,2,1,0.8365506529808044,"g g g p
+anatomically narrow angles and who are treated with antidepressants (5.8)
+Hyponatremia: Has been reported with fluoxetine in association with syndrome of inappropriate
+antidiuretic hormone (SIADH) (5.9)
+Anxiety and Insomnia: May occur (5.10)
+Potential for Cognitive and Motor Impairment: Has potential to impair judgment, thinking, and motor
+skills. Use caution when operating machinery (5.12)
+Long Half-Life: Changes in dose will not be fully reflected in plasma for several weeks (5.13)
+Sexual dysfunction: Fluoxetine tablets use may cause symptoms of sexual dysfunction (5.15)
+ADVERSE REACTIONS
+Most common adverse reactions (incidence rate greater than or equal to 5% and greater than placebo)
+associated with fluoxetine tablet 20 mg (either continuous or intermittent) for PMDD:
+Headache, asthenia, pain, accidental injury, infection, flu syndrome, nausea, diarrhea, insomnia, dizziness,
+nervousness, thinking abnormal, libido decreased, rhinitis, and pharyngitis (6.1).
+",
+flu_02,What side effects are listed for fluoxetine?,drug_aware,2,18286ac86ca62dde1c6d5dc81a6b652bf5d55bfb0a10363b3b08f1aac9e2688b,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf,40,3,0.8273704051971436,"s side effects, including:
+See ""What is the most important information I should know about fluoxetine tablets?""
+Problems with blood sugar control. Women who have diabetes and take
+fluoxetine tablets may have problems with low blood sugar while taking fluoxetine
+tablets. High blood sugar can happen when fluoxetine tablets is stopped. Your
+healthcare provider may need to change the dose of your diabetes medicines when
+you start or stop taking fluoxetine tablets.
+Feeling anxious or trouble sleeping
+The most common side effects of fluoxetine tablets include:
+headache
+weakness (asthenia)
+pain
+accidental injury
+infection
+flu symptoms
+nausea
+diarrhea",
+flu_02,What side effects are listed for fluoxetine?,drug_aware,3,071c506d8a70a963a5a6cf7b79d976b2deec18130cb25c3c6ce93d20f386f854,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf,16,1,0.819901704788208,"Headache 13 15 11
+Asthenia 12 8 4
+Pain 9 3 7
+Accidental injury 8 1 5
+Infection 7 0 3
+Flu syndrome 12 3 7
+Digestive System
+Nausea 13 9 6
+Diarrhea 6 2 6
+Nervous System
+Insomnia 9 10 7
+Dizziness 7 2 3
+Nervousness 7 3 3
+Thinking abnormal2 6 5 0
+Libido decreased 3 9 1
+Respiratory
+System
+Rhinitis 23 16 15
+Pharyngitis 10 6 5
+1Included in the table are adverse reactions reported by at least 5% of patients
+taking fluoxetine tablet 20 mg either continuously or intermittently. For additional
+adverse reaction terms referenced in Warnings and Precautions, reporting rates
+for fluoxetine tablet 20 mg continuous and intermittent were, respectively:
+anxiety 4.8%, 1.2% and anorexia 3.8%, 3.5%.
+2Thinking abnormal is the COSTART term that captures concentration difficulties.
+Incidence in US depression, OCD, and bulimia placebo-controlled clinical trials (excluding
+data from extensions of trials) — Table 6 enumerates the most common treatment-
+",
+flu_02,What side effects are listed for fluoxetine?,drug_aware,4,0a20deb1a735dc85d0eecc447fec8d4f46b69a661a2daf6cb6e910eab5d5aaee,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf,41,1,0.8177263736724854,"trouble sleeping (insomnia)
+dizziness
+feeling anxious or nervous
+thinking differently
+sexual problems
+runny or stuffy nose (rhinitis)
+sore throat (pharyngitis)
+Tell your healthcare provider if you have any side effect that bothers you or that does
+not go away. These are not all the possible side effects of fluoxetine tablets. For more
+information, ask your healthcare provider or pharmacist.
+Call your doctor for medical advice about side effects. You may report side effects to
+FDA at 1-800-FDA-1088.
+How should I store fluoxetine tablets?
+Store fluoxetine tablets at 20° to 25°C (68° to 77°F); excursions permitted to 15° to
+30°C (59° to 86°F) [see USP Controlled Room Temperature].
+Keep fluoxetine tablets and all medicines out of the reach of children.
+General information about fluoxetine tablets
+Medicines are sometimes prescribed for purposes other than those listed in a Medication
+Guide. Do not use fluoxetine tablets for a condition for which it was not prescribed. Do
+",
+flu_02,What side effects are listed for fluoxetine?,drug_aware,5,efa5e3040f15903ddad09642e6036c8fc30e4ba6e1a30d209362e9ab42a99988,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf,37,1,0.8152027130126953,"when the dose is changed.
+Keep all follow-up visits with your healthcare provider and call between visits if you are
+worried about symptoms.
+Call your healthcare provider right away if you have any of the following
+symptoms, or call 911 if an emergency, especially if they are new, worse, or
+worry you:
+attempts to commit suicide
+acting on dangerous impulses
+acting aggressive or violent
+thoughts about suicide or dying
+new or worse depression
+new or worse anxiety or panic attacks
+feeling agitated, restless, angry or irritable
+trouble sleeping
+an increase in activity or talking more than what is normal for you
+other unusual changes in behavior or mood
+Call your healthcare provider right away if you have any of the following
+symptoms, or call 911 if an emergency. Fluoxetine tablets may be associated
+with these serious side effects:
+2. Serotonin Syndrome. This condition can be life-threatening and may
+include:
+agitation, hallucinations, coma or other changes in mental status
+",
+flu_02,What side effects are listed for fluoxetine?,drug_aware,6,13144b8b7d30f64d88ec04354b5b93dccf1687978a3db2d149f9504026775326,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf,17,1,0.8144141435623169,"Fever 3 2
+Cardiovascular System
+Palpitation 3 2
+Vasodilatation 3 1
+Digestive System
+Nausea 27 11
+Anorexia 11 4
+Dry mouth 11 8
+Diarrhea 10 7
+Dyspepsia 7 5
+Constipation 5 3
+Vomiting 3 2
+Metabolic and Nutritional
+Disorders
+Weight loss 3 1
+Nervous System
+Insomnia 24 11
+Nervousness 14 10
+Anxiety 13 9
+Somnolence 13 6
+Tremor 12 1
+Dizziness 11 5
+Libido decreased 4 1
+Abnormal dreams 3 2
+Thinking abnormal2 3 2
+Respiratory System
+Pharyngitis 6 5
+Yawn 5 -
+Skin and Appendages Skin
+and Subcutaneous Tissue
+Disorders
+Sweating 8 3
+Rash 5 3
+Special Senses
+Abnormal vision 3 1
+Urogenital System
+Urinary frequency 2 1
+1Included are reactions reported by at least 2% of patients taking fluoxetine,
+except the following adverse reactions, which had an incidence on placebo
+greater than fluoxetine (depression, OCD, and bulimia combined): back pain,
+cough increased, depression (includes suicidal thoughts), dysmenorrhea,
+flatulence, infection, myalgia, pain, pruritus, rhinitis, sinusitis.
+",
+flu_02,What side effects are listed for fluoxetine?,drug_aware,7,1f5e0e7a75d388c67cc5ddbdac83b806270b2bf94944a7498421ccdb104a3967,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf,34,1,0.812724232673645,"have.
+Patients should be advised of the following issues and asked to alert their healthcare
+provider if these occur while taking fluoxetine tablet.
+17.2 Clinical Worsening and Suicide Risk
+Patients, their families, and their caregivers should be encouraged to be alert to the
+emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility,
+aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania,
+other unusual changes in behavior, worsening of depression, and suicidal ideation,
+especially early during antidepressant treatment and when the dose is adjusted up or
+down. Families and caregivers of patients should be advised to look for the emergence
+of such symptoms on a day-to-day basis, since changes may be abrupt. Such
+symptoms should be reported to the patient's prescriber or health professional,
+especially if they are severe, abrupt in onset, or were not part of the patient's presenting
+",
+flu_02,What side effects are listed for fluoxetine?,drug_aware,8,e518ed4f4da796b320e445fdd6a0d37eb8bb3527ccceea4995d8ee49621bd161,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf,36,2,0.8088852763175964,"your healthcare provider about your medical condition or
+treatment. Talk with your healthcare provider if there is something you do not
+understand or you want to learn more about.
+Fluoxetine tablet is in a class of drugs called selective serotonin reuptake inhibitors
+(SSRIs), which are often used for the treatment of depression and anxiety disorders.
+Although fluoxetine tablets are not a treatment for depression, it contains fluoxetine
+hydrochloride, the same active ingredient in some antidepressants.
+What is the most important information I should know about fluoxetine
+tablets?
+Fluoxetine tablets and other antidepressant medicines may cause serious side effects
+including:
+1. Suicidal thoughts or actions:
+Fluoxetine tablets and other antidepressant medicines may increase
+suicidal thoughts or actions in some children, teenagers, or young adults within
+the first few months of treatment or when the dose is changed.
+",
+flu_02,What side effects are listed for fluoxetine?,drug_aware,9,d433fb08cf643029f1f2f5ec4952909695c314d8a00c5f0b07d781514bb9a7c8,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf,40,2,0.8032332062721252,"Your healthcare provider may need to
+change the dose of fluoxetine tablets until it is the right dose for you.
+Talk to your healthcare provider if your symptoms do not get better.
+Fluoxetine tablets may be taken with or without food.
+If you take too much fluoxetine tablets, call your healthcare provider or go to the
+nearest hospital emergency room right away.
+What should I avoid while taking fluoxetine tablets?
+Fluoxetine tablets can cause sleepiness or may affect your ability to make decisions,
+think clearly, or react quickly. You should not drive, operate heavy machinery, or do
+other dangerous activities until you know how fluoxetine tablets affects you. Do not
+drink alcohol while using fluoxetine tablets.
+What are the possible side effects of fluoxetine tablets?
+Fluoxetine tablets may cause serious side effects, including:
+See ""What is the most important information I should know about fluoxetine tablets?""
+Problems with blood sugar control. Women who have diabetes and take
+",
+flu_02,What side effects are listed for fluoxetine?,drug_aware,10,1de4b2a122ee61f556e83195c2a230900ea97c81f3642ba1cf0c8040f3db1bc3,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf,38,2,0.8002121448516846,"ache
+weakness or feeling unsteady
+confusion, problems concentrating or thinking or memory problems
+10. Sexual problems (dysfunction).Taking selective serotonin reuptake inhibitors
+(SSRIs), including fluoxetine tablets, may cause symptoms of sexual problems
+Symptoms in females may include:
+ο Decreased sex drive
+ο Delayed or inability to have an orgasm
+Talk to your healthcare provider if you develop any changes in your sexual function or if
+you have any questions or concerns about sexual problems during treatment with
+fluoxetine tablets. There may be treatments your healthcare provider can suggest.
+Do not stop fluoxetine tablets without first talking to your healthcare
+provider. Stopping fluoxetine tablets too quickly may cause serious symptoms
+including:
+anxiety, irritability, high or low mood, feeling restless or changes in sleep habits
+headache, sweating, nausea, dizziness
+electric shock-like sensations, shaking, confusion
+What are fluoxetine tablets?
+",
+flu_03,What warnings does the fluoxetine label give about suicidal thoughts?,global,1,1f5e0e7a75d388c67cc5ddbdac83b806270b2bf94944a7498421ccdb104a3967,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf,34,1,0.8098682165145874,"have.
+Patients should be advised of the following issues and asked to alert their healthcare
+provider if these occur while taking fluoxetine tablet.
+17.2 Clinical Worsening and Suicide Risk
+Patients, their families, and their caregivers should be encouraged to be alert to the
+emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility,
+aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania,
+other unusual changes in behavior, worsening of depression, and suicidal ideation,
+especially early during antidepressant treatment and when the dose is adjusted up or
+down. Families and caregivers of patients should be advised to look for the emergence
+of such symptoms on a day-to-day basis, since changes may be abrupt. Such
+symptoms should be reported to the patient's prescriber or health professional,
+especially if they are severe, abrupt in onset, or were not part of the patient's presenting
+",
+flu_03,What warnings does the fluoxetine label give about suicidal thoughts?,global,2,6bd4964caa160de93893af4be909e6c224e4369955f5d970c97a88f566fc8014,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf,34,2,0.8091044425964355,". Such
+symptoms should be reported to the patient's prescriber or health professional,
+especially if they are severe, abrupt in onset, or were not part of the patient's presenting
+symptoms. Symptoms such as these may be associated with an increased risk for
+suicidal thinking and behavior and indicate a need for very close monitoring and possibly
+changes in the medication [see Boxed Warning and Warnings and Precautions (5.1)].
+17.3 Serotonin Syndrome
+Patients should be cautioned about the risk of serotonin syndrome with the concomitant
+use of fluoxetine tablets and other serotonergic agents including triptans, tricyclic
+antidepressants, opioids, lithium, tryptophan, buspirone, amphetamines, and St. John's
+Wort [see Contraindications (4.1), Warnings and Precautions (5.2), and Drug
+Interactions (7.3)].
+Patients should be advised of the signs and symptoms associated with serotonin
+syndrome that may include mental status changes (for example, agitation,
+",
+flu_03,What warnings does the fluoxetine label give about suicidal thoughts?,global,3,56f2d1c15fec6c20ef89c3052bc079f90df68ca486a52a0e74e46566605cd673,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf,9,2,0.8090530037879944,"e Warnings and Precautions (5.14)].
+Families and caregivers of patients being treated with antidepressants for
+Major Depressive Disorder or other indications, both psychiatric and
+nonpsychiatric, should be alerted about the need to monitor patients for the
+emergence of agitation, irritability, unusual changes in behavior, and the
+other symptoms described above, as well as the emergence of suicidality,
+and to report such symptoms immediately to health care providers. Such
+monitoring should include daily observation by families and caregivers.
+Prescriptions for fluoxetine tablet should be written for the smallest quantity
+of tablets consistent with good patient management, in order to reduce the
+risk of overdose.
+It should be noted that fluoxetine tablet is not approved for treating any indication in the
+pediatric population.
+5.2 Serotonin Syndrome
+The development of a potentially life-threatening serotonin syndrome has been reported
+",
+flu_03,What warnings does the fluoxetine label give about suicidal thoughts?,global,4,96d1731907e4837ec2ee52e32169aed1cae85104ba35126fe69cedac0fb1bd47,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf,1,1,0.7913283109664917,"FLUOXETINE- fluoxetine tablet
+Torrent Pharmaceuticals Limited
+----------
+HIGHLIGHTS OF PRESCRIBING INFORMATION
+These highlights do not include all the information needed to use FLUOXETINE TABLETS
+safely and effectively. See full prescribing information for FLUOXETINE TABLETS.
+FLUOXETINE tablets, for oral use
+Initial U.S. Approval:1987
+WARNING: SUICIDALITY AND ANTIDEPRESSANT DRUGS
+See full prescribing information for complete boxed warning.
+Increased risk of suicidal thinking and behavior in children, adolescents, and young
+adults taking antidepressants for Major Depressive Disorder (MDD) and other
+psychiatric disorders. Fluoxetine tablet is not approved for use in pediatric patients
+(5.1).
+RECENT MAJOR CHANGES
+Warnings and Precautions, Serotonin Syndrome (5.2) 06/2023
+Warnings and Precautions (5.7) 06/2023
+Warnings and Precautions, Sexual Dysfunction (5.15) 09/2021
+INDICATIONS AND USAGE
+",
+flu_03,What warnings does the fluoxetine label give about suicidal thoughts?,global,5,25edc30d258bf915a91196d0ea4b5419a59b724f1e20af4595afba3339ffeb6a,duloxetine_hydrochloride_60mg_st_mary_s_medical_park_pharmacy.pdf,4,1,0.7849140167236328,"WARNING: SUICIDAL THOUGHTS AND BEHAVIORS
+Antidepressants increased the risk of suicidal thoughts and behavior in
+children, adolescents, and young adults in short-term studies. These
+studies did not show an increase in the risk of suicidal thoughts and
+behavior with antidepressant use in patients over age 24; there was a
+reduction in risk with antidepressant use in patients aged 65 and older
+[see Warnings and Precautions (5.1)].
+In patients of all ages who are started on antidepressant therapy,
+monitor closely for worsening, and for emergence of suicidal thoughts
+and behaviors. Advise families and caregivers of the need for close
+observation and communication with the prescriber [see Warnings and
+Precautions (5.1)].
+1 INDICATIONS AND USAGE
+Duloxetine delayed-release capsules are indicated for the treatment of:
+Major depressive disorder in adults
+Generalized anxiety disorder in adults and pediatric patients 7 years of age and older
+Diabetic peripheral neuropathic pain in adults
+",
+flu_03,What warnings does the fluoxetine label give about suicidal thoughts?,global,6,57ed8aaca80ac313deacad0cf0c4c4c65700c27c3b80a89729211072986a4d53,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf,36,3,0.775058388710022,"tidepressant medicines may increase
+suicidal thoughts or actions in some children, teenagers, or young adults within
+the first few months of treatment or when the dose is changed.
+Depression or other serious mental illnesses are the most important causes of
+suicidal thoughts or actions.
+Watch for these changes and call your healthcare provider right away if you notice:
+º New or sudden changes in mood, behavior, actions, thoughts, or feelings,
+especially if severe.
+º Pay particular attention to such changes when fluoxetine tablets are started or",
+flu_03,What warnings does the fluoxetine label give about suicidal thoughts?,global,7,e518ed4f4da796b320e445fdd6a0d37eb8bb3527ccceea4995d8ee49621bd161,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf,36,2,0.7741169333457947,"your healthcare provider about your medical condition or
+treatment. Talk with your healthcare provider if there is something you do not
+understand or you want to learn more about.
+Fluoxetine tablet is in a class of drugs called selective serotonin reuptake inhibitors
+(SSRIs), which are often used for the treatment of depression and anxiety disorders.
+Although fluoxetine tablets are not a treatment for depression, it contains fluoxetine
+hydrochloride, the same active ingredient in some antidepressants.
+What is the most important information I should know about fluoxetine
+tablets?
+Fluoxetine tablets and other antidepressant medicines may cause serious side effects
+including:
+1. Suicidal thoughts or actions:
+Fluoxetine tablets and other antidepressant medicines may increase
+suicidal thoughts or actions in some children, teenagers, or young adults within
+the first few months of treatment or when the dose is changed.
+",
+flu_03,What warnings does the fluoxetine label give about suicidal thoughts?,global,8,f0a1c2b11c05c8261b57a809b4b45696ecbc3f8b364a909bd3b5e738a1d3aca1,bupropion_hydrochloride_75mg_100mg_ncs_healthcare_of_ky_llc_dba_vangard_labs.pdf,30,2,0.7740148305892944,"ad the FDA-approved patient labeling (Medication Guide).
+Suicidal Thoughts and Behaviors
+Instruct patients, their families, and/or their caregivers to be alert to the emergence of
+anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness,
+impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual
+changes in behavior, worsening of depression, and suicidal ideation, especially early
+during antidepressant treatment and when the dose is adjusted up or down. Advise
+families and caregivers of patients to observe for the emergence of such symptoms on
+a day-to-day basis, since changes may be abrupt. Such symptoms should be reported
+to the patient’s prescriber or healthcare professional, especially if they are severe,
+abrupt in onset, or were not part of the patient’s presenting symptoms. Symptoms
+such as these may be associated with an increased risk for suicidal thinking and
+",
+flu_03,What warnings does the fluoxetine label give about suicidal thoughts?,global,9,efa5e3040f15903ddad09642e6036c8fc30e4ba6e1a30d209362e9ab42a99988,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf,37,1,0.7691714763641357,"when the dose is changed.
+Keep all follow-up visits with your healthcare provider and call between visits if you are
+worried about symptoms.
+Call your healthcare provider right away if you have any of the following
+symptoms, or call 911 if an emergency, especially if they are new, worse, or
+worry you:
+attempts to commit suicide
+acting on dangerous impulses
+acting aggressive or violent
+thoughts about suicide or dying
+new or worse depression
+new or worse anxiety or panic attacks
+feeling agitated, restless, angry or irritable
+trouble sleeping
+an increase in activity or talking more than what is normal for you
+other unusual changes in behavior or mood
+Call your healthcare provider right away if you have any of the following
+symptoms, or call 911 if an emergency. Fluoxetine tablets may be associated
+with these serious side effects:
+2. Serotonin Syndrome. This condition can be life-threatening and may
+include:
+agitation, hallucinations, coma or other changes in mental status
+",
+flu_03,What warnings does the fluoxetine label give about suicidal thoughts?,global,10,eb340e7566c1ff159e42c7695b2175185237c2087ca2eefc79c98bfd68ec7db1,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf,5,1,0.7670347690582275,"WARNING: SUICIDALITY AND ANTIDEPRESSANT DRUGS
+Antidepressants increased the risk compared to placebo of suicidal
+thinking and behavior (suicidality) in children, adolescents, and young
+adults in short-term studies of Major Depressive Disorder (MDD) and
+other psychiatric disorders. Anyone considering the use of fluoxetine
+tablet or any other antidepressant in a child, adolescent, or young adult
+must balance this risk with the clinical need. Short-term studies did not
+show an increase in the risk of suicidality with antidepressants
+compared to placebo in adults beyond age 24; there was a reduction in
+risk with antidepressants compared to placebo in adults aged 65 and
+older. Depression and certain other psychiatric disorders are
+themselves associated with increases in the risk of suicide. Patients of
+all ages who are started on antidepressant therapy should be monitored
+appropriately and observed closely for clinical worsening, suicidality, or
+",
+flu_03,What warnings does the fluoxetine label give about suicidal thoughts?,drug_aware,1,1f5e0e7a75d388c67cc5ddbdac83b806270b2bf94944a7498421ccdb104a3967,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf,34,1,0.8098682165145874,"have.
+Patients should be advised of the following issues and asked to alert their healthcare
+provider if these occur while taking fluoxetine tablet.
+17.2 Clinical Worsening and Suicide Risk
+Patients, their families, and their caregivers should be encouraged to be alert to the
+emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility,
+aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania,
+other unusual changes in behavior, worsening of depression, and suicidal ideation,
+especially early during antidepressant treatment and when the dose is adjusted up or
+down. Families and caregivers of patients should be advised to look for the emergence
+of such symptoms on a day-to-day basis, since changes may be abrupt. Such
+symptoms should be reported to the patient's prescriber or health professional,
+especially if they are severe, abrupt in onset, or were not part of the patient's presenting
+",
+flu_03,What warnings does the fluoxetine label give about suicidal thoughts?,drug_aware,2,6bd4964caa160de93893af4be909e6c224e4369955f5d970c97a88f566fc8014,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf,34,2,0.8091044425964355,". Such
+symptoms should be reported to the patient's prescriber or health professional,
+especially if they are severe, abrupt in onset, or were not part of the patient's presenting
+symptoms. Symptoms such as these may be associated with an increased risk for
+suicidal thinking and behavior and indicate a need for very close monitoring and possibly
+changes in the medication [see Boxed Warning and Warnings and Precautions (5.1)].
+17.3 Serotonin Syndrome
+Patients should be cautioned about the risk of serotonin syndrome with the concomitant
+use of fluoxetine tablets and other serotonergic agents including triptans, tricyclic
+antidepressants, opioids, lithium, tryptophan, buspirone, amphetamines, and St. John's
+Wort [see Contraindications (4.1), Warnings and Precautions (5.2), and Drug
+Interactions (7.3)].
+Patients should be advised of the signs and symptoms associated with serotonin
+syndrome that may include mental status changes (for example, agitation,
+",
+flu_03,What warnings does the fluoxetine label give about suicidal thoughts?,drug_aware,3,56f2d1c15fec6c20ef89c3052bc079f90df68ca486a52a0e74e46566605cd673,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf,9,2,0.8090530037879944,"e Warnings and Precautions (5.14)].
+Families and caregivers of patients being treated with antidepressants for
+Major Depressive Disorder or other indications, both psychiatric and
+nonpsychiatric, should be alerted about the need to monitor patients for the
+emergence of agitation, irritability, unusual changes in behavior, and the
+other symptoms described above, as well as the emergence of suicidality,
+and to report such symptoms immediately to health care providers. Such
+monitoring should include daily observation by families and caregivers.
+Prescriptions for fluoxetine tablet should be written for the smallest quantity
+of tablets consistent with good patient management, in order to reduce the
+risk of overdose.
+It should be noted that fluoxetine tablet is not approved for treating any indication in the
+pediatric population.
+5.2 Serotonin Syndrome
+The development of a potentially life-threatening serotonin syndrome has been reported
+",
+flu_03,What warnings does the fluoxetine label give about suicidal thoughts?,drug_aware,4,96d1731907e4837ec2ee52e32169aed1cae85104ba35126fe69cedac0fb1bd47,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf,1,1,0.7913283109664917,"FLUOXETINE- fluoxetine tablet
+Torrent Pharmaceuticals Limited
+----------
+HIGHLIGHTS OF PRESCRIBING INFORMATION
+These highlights do not include all the information needed to use FLUOXETINE TABLETS
+safely and effectively. See full prescribing information for FLUOXETINE TABLETS.
+FLUOXETINE tablets, for oral use
+Initial U.S. Approval:1987
+WARNING: SUICIDALITY AND ANTIDEPRESSANT DRUGS
+See full prescribing information for complete boxed warning.
+Increased risk of suicidal thinking and behavior in children, adolescents, and young
+adults taking antidepressants for Major Depressive Disorder (MDD) and other
+psychiatric disorders. Fluoxetine tablet is not approved for use in pediatric patients
+(5.1).
+RECENT MAJOR CHANGES
+Warnings and Precautions, Serotonin Syndrome (5.2) 06/2023
+Warnings and Precautions (5.7) 06/2023
+Warnings and Precautions, Sexual Dysfunction (5.15) 09/2021
+INDICATIONS AND USAGE
+",
+flu_03,What warnings does the fluoxetine label give about suicidal thoughts?,drug_aware,5,57ed8aaca80ac313deacad0cf0c4c4c65700c27c3b80a89729211072986a4d53,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf,36,3,0.775058388710022,"tidepressant medicines may increase
+suicidal thoughts or actions in some children, teenagers, or young adults within
+the first few months of treatment or when the dose is changed.
+Depression or other serious mental illnesses are the most important causes of
+suicidal thoughts or actions.
+Watch for these changes and call your healthcare provider right away if you notice:
+º New or sudden changes in mood, behavior, actions, thoughts, or feelings,
+especially if severe.
+º Pay particular attention to such changes when fluoxetine tablets are started or",
+flu_03,What warnings does the fluoxetine label give about suicidal thoughts?,drug_aware,6,e518ed4f4da796b320e445fdd6a0d37eb8bb3527ccceea4995d8ee49621bd161,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf,36,2,0.7741169333457947,"your healthcare provider about your medical condition or
+treatment. Talk with your healthcare provider if there is something you do not
+understand or you want to learn more about.
+Fluoxetine tablet is in a class of drugs called selective serotonin reuptake inhibitors
+(SSRIs), which are often used for the treatment of depression and anxiety disorders.
+Although fluoxetine tablets are not a treatment for depression, it contains fluoxetine
+hydrochloride, the same active ingredient in some antidepressants.
+What is the most important information I should know about fluoxetine
+tablets?
+Fluoxetine tablets and other antidepressant medicines may cause serious side effects
+including:
+1. Suicidal thoughts or actions:
+Fluoxetine tablets and other antidepressant medicines may increase
+suicidal thoughts or actions in some children, teenagers, or young adults within
+the first few months of treatment or when the dose is changed.
+",
+flu_03,What warnings does the fluoxetine label give about suicidal thoughts?,drug_aware,7,efa5e3040f15903ddad09642e6036c8fc30e4ba6e1a30d209362e9ab42a99988,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf,37,1,0.7691714763641357,"when the dose is changed.
+Keep all follow-up visits with your healthcare provider and call between visits if you are
+worried about symptoms.
+Call your healthcare provider right away if you have any of the following
+symptoms, or call 911 if an emergency, especially if they are new, worse, or
+worry you:
+attempts to commit suicide
+acting on dangerous impulses
+acting aggressive or violent
+thoughts about suicide or dying
+new or worse depression
+new or worse anxiety or panic attacks
+feeling agitated, restless, angry or irritable
+trouble sleeping
+an increase in activity or talking more than what is normal for you
+other unusual changes in behavior or mood
+Call your healthcare provider right away if you have any of the following
+symptoms, or call 911 if an emergency. Fluoxetine tablets may be associated
+with these serious side effects:
+2. Serotonin Syndrome. This condition can be life-threatening and may
+include:
+agitation, hallucinations, coma or other changes in mental status
+",
+flu_03,What warnings does the fluoxetine label give about suicidal thoughts?,drug_aware,8,eb340e7566c1ff159e42c7695b2175185237c2087ca2eefc79c98bfd68ec7db1,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf,5,1,0.7670347690582275,"WARNING: SUICIDALITY AND ANTIDEPRESSANT DRUGS
+Antidepressants increased the risk compared to placebo of suicidal
+thinking and behavior (suicidality) in children, adolescents, and young
+adults in short-term studies of Major Depressive Disorder (MDD) and
+other psychiatric disorders. Anyone considering the use of fluoxetine
+tablet or any other antidepressant in a child, adolescent, or young adult
+must balance this risk with the clinical need. Short-term studies did not
+show an increase in the risk of suicidality with antidepressants
+compared to placebo in adults beyond age 24; there was a reduction in
+risk with antidepressants compared to placebo in adults aged 65 and
+older. Depression and certain other psychiatric disorders are
+themselves associated with increases in the risk of suicide. Patients of
+all ages who are started on antidepressant therapy should be monitored
+appropriately and observed closely for clinical worsening, suicidality, or
+",
+flu_03,What warnings does the fluoxetine label give about suicidal thoughts?,drug_aware,9,df753181837d139a0c84396b0917a9ddec0d30600bcc91272c3f83210d858053,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf,2,1,0.75538170337677,"g g g p
+anatomically narrow angles and who are treated with antidepressants (5.8)
+Hyponatremia: Has been reported with fluoxetine in association with syndrome of inappropriate
+antidiuretic hormone (SIADH) (5.9)
+Anxiety and Insomnia: May occur (5.10)
+Potential for Cognitive and Motor Impairment: Has potential to impair judgment, thinking, and motor
+skills. Use caution when operating machinery (5.12)
+Long Half-Life: Changes in dose will not be fully reflected in plasma for several weeks (5.13)
+Sexual dysfunction: Fluoxetine tablets use may cause symptoms of sexual dysfunction (5.15)
+ADVERSE REACTIONS
+Most common adverse reactions (incidence rate greater than or equal to 5% and greater than placebo)
+associated with fluoxetine tablet 20 mg (either continuous or intermittent) for PMDD:
+Headache, asthenia, pain, accidental injury, infection, flu syndrome, nausea, diarrhea, insomnia, dizziness,
+nervousness, thinking abnormal, libido decreased, rhinitis, and pharyngitis (6.1).
+",
+flu_03,What warnings does the fluoxetine label give about suicidal thoughts?,drug_aware,10,acd8b4d7f52dfb4ce376df586a217fd870ceb1ffedcdc1f1db66c519ad3021e1,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf,38,3,0.7540493607521057,"high or low mood, feeling restless or changes in sleep habits
+headache, sweating, nausea, dizziness
+electric shock-like sensations, shaking, confusion
+What are fluoxetine tablets?
+Fluoxetine tablets are a prescription medicine used to treat premenstrual dysphoric
+disorder (PMDD).
+It is not known if fluoxetine tablets are safe and effective in children.
+Talk with your healthcare provider if you do not think that your condition is getting
+better with fluoxetine tablets treatment.
+Who should not take fluoxetine tablets?
+Do not take fluoxetine tablets if you:
+take a Monoamine Oxidase Inhibitor (MAOI). Ask your healthcare provider or",
