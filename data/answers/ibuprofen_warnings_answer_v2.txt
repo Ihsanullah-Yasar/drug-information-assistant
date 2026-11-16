@@ -1,0 +1,12 @@
+The provided label passages warn that:
+- An allergic reaction to ibuprofen or other pain relievers/fever reducers can occur, and if it happens, stop use and seek medical help right away [S1].
+- Stomach bleeding can occur, especially in certain conditions [S1].
+- Heart attack and stroke risk is increased with NSAID use, including ibuprofen [S1].
+- Use should be avoided if you have had an allergic reaction to any other pain reliever/fever reducer [S2].
+- Stomach bleeding symptoms should be reported to a doctor [S2].
+
+Sources:
+[S1] ibuprofen_200mg_haleon_us_holdings_llc.pdf, page 2, https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1a665e64-9f30-be37-4a83-38789f1f1e89
+[S2] ibuprofen_200mg_haleon_us_holdings_llc.pdf, page 2, https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1a665e64-9f30-be37-4a83-38789f1f1e89
+
+Citations checked for valid IDs only. Medical factual support was not automatically verified.
