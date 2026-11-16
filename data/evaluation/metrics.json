@@ -1,0 +1,201 @@
+{
+  "k": 5,
+  "question_count": 9,
+  "modes": {
+    "global": {
+      "hit_rate_at_k": 0.8888888888888888,
+      "mrr_at_k": 0.5648148148148148,
+      "evaluated_queries": 9,
+      "rows": [
+        {
+          "question_id": "ibu_01",
+          "question": "What safety warnings are listed for ibuprofen?",
+          "expected_filename": "ibuprofen_200mg_haleon_us_holdings_llc.pdf",
+          "hit": 1,
+          "reciprocal_rank": 0.5,
+          "first_relevant_rank": 2,
+          "retrieved_count": 5,
+          "gold_count": 5
+        },
+        {
+          "question_id": "ibu_02",
+          "question": "What are the allergy warnings for ibuprofen?",
+          "expected_filename": "ibuprofen_200mg_haleon_us_holdings_llc.pdf",
+          "hit": 1,
+          "reciprocal_rank": 0.5,
+          "first_relevant_rank": 2,
+          "retrieved_count": 5,
+          "gold_count": 3
+        },
+        {
+          "question_id": "ibu_03",
+          "question": "What does the ibuprofen label say about stomach bleeding?",
+          "expected_filename": "ibuprofen_200mg_haleon_us_holdings_llc.pdf",
+          "hit": 1,
+          "reciprocal_rank": 0.25,
+          "first_relevant_rank": 4,
+          "retrieved_count": 5,
+          "gold_count": 3
+        },
+        {
+          "question_id": "ace_01",
+          "question": "What warnings are listed for acetaminophen?",
+          "expected_filename": "acetaminophen_325mg_health_pharma.pdf",
+          "hit": 1,
+          "reciprocal_rank": 0.5,
+          "first_relevant_rank": 2,
+          "retrieved_count": 5,
+          "gold_count": 4
+        },
+        {
+          "question_id": "ace_02",
+          "question": "What is the acetaminophen liver warning?",
+          "expected_filename": "acetaminophen_325mg_health_pharma.pdf",
+          "hit": 0,
+          "reciprocal_rank": 0.0,
+          "first_relevant_rank": null,
+          "retrieved_count": 5,
+          "gold_count": 2
+        },
+        {
+          "question_id": "ace_03",
+          "question": "When should a person stop using acetaminophen according to the label?",
+          "expected_filename": "acetaminophen_325mg_health_pharma.pdf",
+          "hit": 1,
+          "reciprocal_rank": 1.0,
+          "first_relevant_rank": 1,
+          "retrieved_count": 5,
+          "gold_count": 3
+        },
+        {
+          "question_id": "flu_01",
+          "question": "What uses are listed for fluoxetine?",
+          "expected_filename": "fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf",
+          "hit": 1,
+          "reciprocal_rank": 0.3333333333333333,
+          "first_relevant_rank": 3,
+          "retrieved_count": 5,
+          "gold_count": 3
+        },
+        {
+          "question_id": "flu_02",
+          "question": "What side effects are listed for fluoxetine?",
+          "expected_filename": "fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf",
+          "hit": 1,
+          "reciprocal_rank": 1.0,
+          "first_relevant_rank": 1,
+          "retrieved_count": 5,
+          "gold_count": 10
+        },
+        {
+          "question_id": "flu_03",
+          "question": "What warnings does the fluoxetine label give about suicidal thoughts?",
+          "expected_filename": "fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf",
+          "hit": 1,
+          "reciprocal_rank": 1.0,
+          "first_relevant_rank": 1,
+          "retrieved_count": 5,
+          "gold_count": 8
+        }
+      ]
+    },
+    "drug_aware": {
+      "hit_rate_at_k": 1.0,
+      "mrr_at_k": 0.8703703703703703,
+      "evaluated_queries": 9,
+      "rows": [
+        {
+          "question_id": "ibu_01",
+          "question": "What safety warnings are listed for ibuprofen?",
+          "expected_filename": "ibuprofen_200mg_haleon_us_holdings_llc.pdf",
+          "hit": 1,
+          "reciprocal_rank": 1.0,
+          "first_relevant_rank": 1,
+          "retrieved_count": 5,
+          "gold_count": 5
+        },
+        {
+          "question_id": "ibu_02",
+          "question": "What are the allergy warnings for ibuprofen?",
+          "expected_filename": "ibuprofen_200mg_haleon_us_holdings_llc.pdf",
+          "hit": 1,
+          "reciprocal_rank": 1.0,
+          "first_relevant_rank": 1,
+          "retrieved_count": 5,
+          "gold_count": 3
+        },
+        {
+          "question_id": "ibu_03",
+          "question": "What does the ibuprofen label say about stomach bleeding?",
+          "expected_filename": "ibuprofen_200mg_haleon_us_holdings_llc.pdf",
+          "hit": 1,
+          "reciprocal_rank": 1.0,
+          "first_relevant_rank": 1,
+          "retrieved_count": 5,
+          "gold_count": 3
+        },
+        {
+          "question_id": "ace_01",
+          "question": "What warnings are listed for acetaminophen?",
+          "expected_filename": "acetaminophen_325mg_health_pharma.pdf",
+          "hit": 1,
+          "reciprocal_rank": 1.0,
+          "first_relevant_rank": 1,
+          "retrieved_count": 5,
+          "gold_count": 4
+        },
+        {
+          "question_id": "ace_02",
+          "question": "What is the acetaminophen liver warning?",
+          "expected_filename": "acetaminophen_325mg_health_pharma.pdf",
+          "hit": 1,
+          "reciprocal_rank": 0.5,
+          "first_relevant_rank": 2,
+          "retrieved_count": 5,
+          "gold_count": 2
+        },
+        {
+          "question_id": "ace_03",
+          "question": "When should a person stop using acetaminophen according to the label?",
+          "expected_filename": "acetaminophen_325mg_health_pharma.pdf",
+          "hit": 1,
+          "reciprocal_rank": 1.0,
+          "first_relevant_rank": 1,
+          "retrieved_count": 5,
+          "gold_count": 3
+        },
+        {
+          "question_id": "flu_01",
+          "question": "What uses are listed for fluoxetine?",
+          "expected_filename": "fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf",
+          "hit": 1,
+          "reciprocal_rank": 0.3333333333333333,
+          "first_relevant_rank": 3,
+          "retrieved_count": 5,
+          "gold_count": 3
+        },
+        {
+          "question_id": "flu_02",
+          "question": "What side effects are listed for fluoxetine?",
+          "expected_filename": "fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf",
+          "hit": 1,
+          "reciprocal_rank": 1.0,
+          "first_relevant_rank": 1,
+          "retrieved_count": 5,
+          "gold_count": 10
+        },
+        {
+          "question_id": "flu_03",
+          "question": "What warnings does the fluoxetine label give about suicidal thoughts?",
+          "expected_filename": "fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf",
+          "hit": 1,
+          "reciprocal_rank": 1.0,
+          "first_relevant_rank": 1,
+          "retrieved_count": 5,
+          "gold_count": 8
+        }
+      ]
+    }
+  },
+  "notes": "Chunk-level metrics; manually judged relevance only. Unfiltered and drug-aware modes evaluated on identical questions and gold IDs. The latter is explicitly restricted to the named medicine, and is not comparable to unrestricted retrieval without describing this filter. This does not test answer factuality."
+}
