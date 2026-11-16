@@ -20,6 +20,7 @@ from src.ollama_generator import (
     generate_grounded_answer,
 )
 from src.prompt_builder import ABSTENTION, build_prompt_package
+from src.ollama_stream import stream_grounded_answer
 from src.retriever import retrieve_chunks
 from src.vectordb import connect_collection
 
@@ -100,7 +101,7 @@ class LocalDrugRAG:
                  embedder: Any = None, expected_count: int = DEFAULT_EXPECTED_COUNT,
                  model: str = DEFAULT_MODEL, num_ctx: int = DEFAULT_NUM_CTX,
                  max_output_tokens: int = DEFAULT_MAX_OUTPUT_TOKENS,
-                 device: str = "cpu", generator=None):
+                 device: str = "cpu", generator=None, stream_generator=None):
         self.project_root = Path(project_root)
         if type(expected_count) is not int or expected_count < 1:
             raise ValueError("expected_count must be a positive integer")
@@ -120,6 +121,7 @@ class LocalDrugRAG:
         self.max_output_tokens = max_output_tokens
         self.device = device
         self.generator = generator or generate_grounded_answer
+        self.stream_generator = stream_generator or stream_grounded_answer
         self.sources_csv = self.project_root / "data/sources.csv"
         self.targets_txt = self.project_root / "data/target_drugs.txt"
         self.db_dir = self.project_root / "data/chroma"
@@ -134,13 +136,9 @@ class LocalDrugRAG:
             self.embedder = BGEEmbedder(device=self.device)
         return self.embedder
 
-    def ask(self, question: str, *, filename: str | None = None,
-            max_sources: int = DEFAULT_SOURCE_LIMIT) -> dict:
-        """Answer one question grounded in one local drug-label PDF.
-
-        Must not silently mix labels. Larger retrieved chunks remain intact; if
-        needed, source count decreases until the conservative context check fits.
-        """
+    def _prepare_request(self, question: str, *, filename: str | None = None,
+                         max_sources: int = DEFAULT_SOURCE_LIMIT) -> dict:
+        """Resolve and retrieve one drug, then construct a bounded grounded prompt."""
         if not isinstance(question, str) or not question.strip():
             raise ValueError("Please enter a question")
         question = question.strip()
@@ -156,11 +154,11 @@ class LocalDrugRAG:
             filename=filename, all_drugs=False,
         )
         if selected is None:
-            return _simple_result(
+            return {"early": _simple_result(
                 question, "needs_drug_scope",
                 "Name a drug from your catalog in the question, or explicitly select a source PDF. "
                 "The interface does not combine different medicines' evidence.",
-            )
+            )}
 
         collection = self._get_collection()
         actual_count = collection.count()
@@ -205,20 +203,21 @@ class LocalDrugRAG:
                     "No text was truncated. Increase the context budget only if RAM allows."
                 )
                 status = "context_budget_exceeded"
-            return _simple_result(
+            return {"early": _simple_result(
                 question, status, reason, filename=selected, retrieved_count=len(matches)
-            )
+            )}
 
-        result = self.generator(
-            selected_package, model=self.model, num_ctx=self.num_ctx,
-            max_output_tokens=self.max_output_tokens,
-        )
+        return {"question": question, "selected": selected, "matches": matches, "package": selected_package}
+
+    def _finish_request(self, prepared: dict, result: dict) -> dict:
+        """Validate final generator metadata and attach its matching evidence."""
+        package = prepared["package"]
         if not isinstance(result, dict):
             raise RuntimeError("The Step 9 generator returned an invalid response")
         citations = result.get("citations")
         if not isinstance(citations, list) or any(not isinstance(c, str) for c in citations):
             raise RuntimeError("Invalid generated citation manifest")
-        source_ids = {s["source_id"] for s in selected_package["sources"]}
+        source_ids = {s["source_id"] for s in package["sources"]}
         if not set(citations).issubset(source_ids):
             raise RuntimeError("The generator included citation IDs outside the evidence set")
         status, answer = result.get("status"), result.get("answer")
@@ -228,15 +227,66 @@ class LocalDrugRAG:
         if not isinstance(usage, dict):
             raise RuntimeError("Missing generator usage")
         return {
-            "question": question,
+            "question": prepared["question"],
             "answer": answer,
             "status": status,
             "reason": str(result.get("reason", "")),
-            "filename": selected,
-            "retrieved_count": len(matches),
-            "included_count": selected_package["source_count"],
+            "filename": prepared["selected"],
+            "retrieved_count": len(prepared["matches"]),
+            "included_count": package["source_count"],
             "citations": citations,
-            "sources": _evidence_rows(selected_package, matches, citations),
+            "sources": _evidence_rows(package, prepared["matches"], citations),
             "usage": usage,
             "note": "Citation IDs checked only; factual medical support needs source review.",
         }
+
+    def ask(self, question: str, *, filename: str | None = None,
+            max_sources: int = DEFAULT_SOURCE_LIMIT) -> dict:
+        """Existing non-streaming answer API, preserved for CLI/tests."""
+        prepared = self._prepare_request(question, filename=filename, max_sources=max_sources)
+        if "early" in prepared:
+            return prepared["early"]
+        result = self.generator(prepared["package"], model=self.model, num_ctx=self.num_ctx,
+                                max_output_tokens=self.max_output_tokens)
+        return self._finish_request(prepared, result)
+
+    def ask_stream(self, question: str, *, filename: str | None = None,
+                   max_sources: int = DEFAULT_SOURCE_LIMIT):
+        """Yield safe status, provisional text, then a validated RAG result.
+
+        Clients must remove provisional text on error, cancellation, or failed
+        validation; the final event is the only trusted output.
+        """
+        yield {"type": "status", "message": "Searching the selected drug label…"}
+        prepared = self._prepare_request(question, filename=filename, max_sources=max_sources)
+        if "early" in prepared:
+            yield {"type": "final", "result": prepared["early"]}
+            return
+        yield {"type": "status", "message": "Generating with Qwen2.5 · draft unverified…"}
+        events = iter(self.stream_generator(
+            prepared["package"], model=self.model, num_ctx=self.num_ctx,
+            max_output_tokens=self.max_output_tokens,
+        ))
+        completed = False
+        try:
+            for event in events:
+                if not isinstance(event, dict):
+                    raise RuntimeError("Invalid streaming generator event")
+                if event.get("type") == "delta":
+                    if not isinstance(event.get("text"), str):
+                        raise RuntimeError("Invalid streamed text")
+                    yield event
+                elif event.get("type") == "final":
+                    if completed:
+                        raise RuntimeError("Duplicate streaming completion")
+                    completed = True
+                    yield {"type": "final", "result": self._finish_request(
+                        prepared, event.get("result"))}
+                else:
+                    raise RuntimeError("Unknown streaming generator event")
+            if not completed:
+                raise RuntimeError("Streaming generator ended without a validated final result")
+        finally:
+            close = getattr(events, "close", None)
+            if callable(close):
+                close()
