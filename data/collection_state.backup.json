@@ -1,0 +1,1125 @@
+{
+  "version": 1,
+  "targets": {
+    "acetaminophen": {
+      "set_id": "671adabe-5f82-4599-a133-3f67ccb34079",
+      "filename": "acetaminophen_325mg_health_pharma.pdf",
+      "label": {
+        "Ingredient": "ACETAMINOPHEN",
+        "Strength": "325 mg per 1 tablet",
+        "Strengths": [
+          {
+            "amount": "325",
+            "unit": "mg",
+            "basis_amount": "1",
+            "basis_unit": "1",
+            "form": "TABLET, FILM COATED"
+          }
+        ],
+        "Packager": "Health Pharma USA LLC",
+        "Set ID": "671adabe-5f82-4599-a133-3f67ccb34079",
+        "Source page URL": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=671adabe-5f82-4599-a133-3f67ccb34079",
+        "Exact product title (DailyMed API)": "ACETAMINOPHEN tablet, film coated",
+        "Verified target": "acetaminophen",
+        "Category": "HUMAN OTC DRUG LABEL",
+        "Evidence": [
+          {
+            "ingredient": "ACETAMINOPHEN",
+            "active_moieties": [
+              "ACETAMINOPHEN"
+            ],
+            "form": "TABLET, FILM COATED",
+            "routes": [
+              "ORAL"
+            ]
+          }
+        ],
+        "Oral tablet": true,
+        "Verification": "HUMAN OTC DRUG LABEL; single active ingredient matched to acetaminophen using SPL ingredient/active-moiety data",
+        "Strength per tablet": "325 mg per tablet",
+        "Label updated on": "July 7, 2026",
+        "Product name": "ACETAMINOPHEN tablet, film coated"
+      },
+      "source_row": {
+        "filename": "acetaminophen_325mg_health_pharma.pdf",
+        "product_name": "ACETAMINOPHEN tablet, film coated",
+        "packager": "Health Pharma USA LLC",
+        "label_updated_on": "July 7, 2026",
+        "source_url": "https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=671adabe-5f82-4599-a133-3f67ccb34079"
+      },
+      "status": "complete",
+      "page_count": 4
+    },
+    "ibuprofen": {
+      "set_id": "1a665e64-9f30-be37-4a83-38789f1f1e89",
+      "filename": "ibuprofen_200mg_haleon_us_holdings_llc.pdf",
+      "label": {
+        "Ingredient": "IBUPROFEN",
+        "Strength": "200 mg per 1 tablet",
+        "Strengths": [
+          {
+            "amount": "200",
+            "unit": "mg",
+            "basis_amount": "1",
+            "basis_unit": "1",
+            "form": "TABLET, COATED"
+          }
+        ],
+        "Packager": "Haleon US Holdings LLC",
+        "Set ID": "1a665e64-9f30-be37-4a83-38789f1f1e89",
+        "Source page URL": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1a665e64-9f30-be37-4a83-38789f1f1e89",
+        "Exact product title (DailyMed API)": "ADVIL- ibuprofen tablet, coated",
+        "Verified target": "ibuprofen",
+        "Category": "HUMAN OTC DRUG LABEL",
+        "Evidence": [
+          {
+            "ingredient": "IBUPROFEN",
+            "active_moieties": [
+              "IBUPROFEN"
+            ],
+            "form": "TABLET, COATED",
+            "routes": [
+              "ORAL"
+            ]
+          },
+          {
+            "ingredient": "IBUPROFEN",
+            "active_moieties": [
+              "IBUPROFEN"
+            ],
+            "form": "TABLET, COATED",
+            "routes": [
+              "ORAL"
+            ]
+          },
+          {
+            "ingredient": "IBUPROFEN",
+            "active_moieties": [
+              "IBUPROFEN"
+            ],
+            "form": "TABLET, COATED",
+            "routes": [
+              "ORAL"
+            ]
+          },
+          {
+            "ingredient": "IBUPROFEN",
+            "active_moieties": [
+              "IBUPROFEN"
+            ],
+            "form": "TABLET, COATED",
+            "routes": [
+              "ORAL"
+            ]
+          },
+          {
+            "ingredient": "IBUPROFEN",
+            "active_moieties": [
+              "IBUPROFEN"
+            ],
+            "form": "TABLET, COATED",
+            "routes": [
+              "ORAL"
+            ]
+          },
+          {
+            "ingredient": "IBUPROFEN",
+            "active_moieties": [
+              "IBUPROFEN"
+            ],
+            "form": "TABLET, COATED",
+            "routes": [
+              "ORAL"
+            ]
+          },
+          {
+            "ingredient": "IBUPROFEN",
+            "active_moieties": [
+              "IBUPROFEN"
+            ],
+            "form": "TABLET, COATED",
+            "routes": [
+              "ORAL"
+            ]
+          },
+          {
+            "ingredient": "IBUPROFEN",
+            "active_moieties": [
+              "IBUPROFEN"
+            ],
+            "form": "TABLET, COATED",
+            "routes": [
+              "ORAL"
+            ]
+          }
+        ],
+        "Oral tablet": true,
+        "Verification": "HUMAN OTC DRUG LABEL; single active ingredient matched to ibuprofen using SPL ingredient/active-moiety data",
+        "Strength per tablet": "200 mg per tablet",
+        "Label updated on": "November 3, 2026",
+        "Product name": "ADVIL- ibuprofen tablet, coated"
+      },
+      "source_row": {
+        "filename": "ibuprofen_200mg_haleon_us_holdings_llc.pdf",
+        "product_name": "ADVIL- ibuprofen tablet, coated",
+        "packager": "Haleon US Holdings LLC",
+        "label_updated_on": "November 3, 2026",
+        "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1a665e64-9f30-be37-4a83-38789f1f1e89"
+      },
+      "status": "complete",
+      "page_count": 23
+    },
+    "naproxen": {
+      "set_id": "12202ef3-c65e-45a6-88ed-5d945d8fd41c",
+      "filename": "naproxen_500mg_remedyrepack_inc.pdf",
+      "label": {
+        "Ingredient": "NAPROXEN",
+        "Strength": "500 mg per 1 tablet",
+        "Strengths": [
+          {
+            "amount": "500",
+            "unit": "mg",
+            "basis_amount": "1",
+            "basis_unit": "1",
+            "form": "TABLET"
+          }
+        ],
+        "Packager": "REMEDYREPACK INC.",
+        "Set ID": "12202ef3-c65e-45a6-88ed-5d945d8fd41c",
+        "Source page URL": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=12202ef3-c65e-45a6-88ed-5d945d8fd41c",
+        "Exact product title (DailyMed API)": "NAPROXEN tablet WARNING: RISK OF SERIOUS CARDIOVASCULAR AND GASTROINTESTINAL EVENTS See full prescribing information for complete boxed warning. • Nonsteroidal anti-inflammatory drugs (NSAIDs) cause an increased risk of serious cardiovascular thrombotic events, including myocardial infarction and stroke, which can be fatal. This risk may occur early in treatment and may increase with duration of use. ( 5.1 ) • Naproxen Tablets are contraindicated in the setting of coronary artery bypass graft (CABG) surgery. ( 4 , 5.1 ) • NSAIDs cause an increased risk of serious gastrointestinal (GI) adverse events including bleeding, ulceration, and perforation of the stomach or intestines, which can be fatal. These events can occur at any time during use and without warning symptoms. Elderly patients and patients with a prior history of peptic ulcer disease and/or GI bleeding are at greater risk for serious GI events. ( 5.2 ) RECENT MAJOR CHANGES INDICATIONS AND USAGE DOSAGE AND ADMINISTRATION DOSAGE FORMS AND STRENGTHS CONTRAINDICATIONS WARNINGS AND PRECAUTIONS ADVERSE REACTIONS DRUG INTERACTIONS USE IN SPECIFIC POPULATIONS FULL PRESCRIBING INFORMATION: CONTENTS * WARNING: RISK OF SERIOUS CARDIOVASCULAR AND GASTROINTESTINAL EVENTS 1 INDICATIONS AND USAGE 2 DOSAGE AND ADMINISTRATION 3 DOSAGE FORMS AND STRENGTHS 4 CONTRAINDICATIONS 5 WARNINGS AND PRECAUTIONS 6 ADVERSE REACTIONS 7 DRUG INTERACTIONS 8 USE IN SPECIFIC POPULATIONS 10 OVERDOSAGE 11 DESCRIPTION 12 CLINICAL PHARMACOLOGY 13 NONCLINICAL TOXICOLOGY 14 CLINICAL STUDIES 17 PATIENT COUNSELING INFORMATION WARNING: RISK OF SERIOUS CARDIOVASCULAR AND GASTROINTESTINAL EVENTS",
+        "Verified target": "naproxen",
+        "Category": "HUMAN PRESCRIPTION DRUG LABEL",
+        "Evidence": [
+          {
+            "ingredient": "NAPROXEN",
+            "active_moieties": [
+              "NAPROXEN"
+            ],
+            "form": "TABLET",
+            "routes": [
+              "ORAL"
+            ]
+          }
+        ],
+        "Oral tablet": true,
+        "Verification": "HUMAN PRESCRIPTION DRUG LABEL; single active ingredient matched to naproxen using SPL ingredient/active-moiety data",
+        "Strength per tablet": "500 mg per tablet",
+        "Label updated on": "October 28, 2026",
+        "Product name": "NAPROXEN tablet WARNING: RISK OF SERIOUS CARDIOVASCULAR AND GASTROINTESTINAL EVENTS See full prescribing information for complete boxed warning. • Nonsteroidal anti-inflammatory drugs (NSAIDs) cause an increased risk of serious cardiovascular thrombotic events, including myocardial infarction and stroke, which can be fatal. This risk may occur early in treatment and may increase with duration of use. ( 5.1 ) • Naproxen Tablets are contraindicated in the setting of coronary artery bypass graft (CABG) surgery. ( 4 , 5.1 ) • NSAIDs cause an increased risk of serious gastrointestinal (GI) adverse events including bleeding, ulceration, and perforation of the stomach or intestines, which can be fatal. These events can occur at any time during use and without warning symptoms. Elderly patients and patients with a prior history of peptic ulcer disease and/or GI bleeding are at greater risk for serious GI events. ( 5.2 ) RECENT MAJOR CHANGES INDICATIONS AND USAGE DOSAGE AND ADMINISTRATION DOSAGE FORMS AND STRENGTHS CONTRAINDICATIONS WARNINGS AND PRECAUTIONS ADVERSE REACTIONS DRUG INTERACTIONS USE IN SPECIFIC POPULATIONS FULL PRESCRIBING INFORMATION: CONTENTS * WARNING: RISK OF SERIOUS CARDIOVASCULAR AND GASTROINTESTINAL EVENTS 1 INDICATIONS AND USAGE 2 DOSAGE AND ADMINISTRATION 3 DOSAGE FORMS AND STRENGTHS 4 CONTRAINDICATIONS 5 WARNINGS AND PRECAUTIONS 6 ADVERSE REACTIONS 7 DRUG INTERACTIONS 8 USE IN SPECIFIC POPULATIONS 10 OVERDOSAGE 11 DESCRIPTION 12 CLINICAL PHARMACOLOGY 13 NONCLINICAL TOXICOLOGY 14 CLINICAL STUDIES 17 PATIENT COUNSELING INFORMATION WARNING: RISK OF SERIOUS CARDIOVASCULAR AND GASTROINTESTINAL EVENTS"
+      },
+      "source_row": {
+        "filename": "naproxen_500mg_remedyrepack_inc.pdf",
+        "product_name": "NAPROXEN tablet WARNING: RISK OF SERIOUS CARDIOVASCULAR AND GASTROINTESTINAL EVENTS See full prescribing information for complete boxed warning. • Nonsteroidal anti-inflammatory drugs (NSAIDs) cause an increased risk of serious cardiovascular thrombotic events, including myocardial infarction and stroke, which can be fatal. This risk may occur early in treatment and may increase with duration of use. ( 5.1 ) • Naproxen Tablets are contraindicated in the setting of coronary artery bypass graft (CABG) surgery. ( 4 , 5.1 ) • NSAIDs cause an increased risk of serious gastrointestinal (GI) adverse events including bleeding, ulceration, and perforation of the stomach or intestines, which can be fatal. These events can occur at any time during use and without warning symptoms. Elderly patients and patients with a prior history of peptic ulcer disease and/or GI bleeding are at greater risk for serious GI events. ( 5.2 ) RECENT MAJOR CHANGES INDICATIONS AND USAGE DOSAGE AND ADMINISTRATION DOSAGE FORMS AND STRENGTHS CONTRAINDICATIONS WARNINGS AND PRECAUTIONS ADVERSE REACTIONS DRUG INTERACTIONS USE IN SPECIFIC POPULATIONS FULL PRESCRIBING INFORMATION: CONTENTS * WARNING: RISK OF SERIOUS CARDIOVASCULAR AND GASTROINTESTINAL EVENTS 1 INDICATIONS AND USAGE 2 DOSAGE AND ADMINISTRATION 3 DOSAGE FORMS AND STRENGTHS 4 CONTRAINDICATIONS 5 WARNINGS AND PRECAUTIONS 6 ADVERSE REACTIONS 7 DRUG INTERACTIONS 8 USE IN SPECIFIC POPULATIONS 10 OVERDOSAGE 11 DESCRIPTION 12 CLINICAL PHARMACOLOGY 13 NONCLINICAL TOXICOLOGY 14 CLINICAL STUDIES 17 PATIENT COUNSELING INFORMATION WARNING: RISK OF SERIOUS CARDIOVASCULAR AND GASTROINTESTINAL EVENTS",
+        "packager": "REMEDYREPACK INC.",
+        "label_updated_on": "October 28, 2026",
+        "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=12202ef3-c65e-45a6-88ed-5d945d8fd41c"
+      },
+      "status": "complete",
+      "page_count": 21
+    },
+    "aspirin": {
+      "set_id": "39e142a7-8590-4e1e-8319-6904fb57cc8a",
+      "filename": "aspirin_81mg_l_n_k_international_inc.pdf",
+      "label": {
+        "Ingredient": "ASPIRIN",
+        "Strength": "81 mg per 1 tablet",
+        "Strengths": [
+          {
+            "amount": "81",
+            "unit": "mg",
+            "basis_amount": "1",
+            "basis_unit": "1",
+            "form": "TABLET, CHEWABLE"
+          }
+        ],
+        "Packager": "L.N.K. International, Inc.",
+        "Set ID": "39e142a7-8590-4e1e-8319-6904fb57cc8a",
+        "Source page URL": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=39e142a7-8590-4e1e-8319-6904fb57cc8a",
+        "Exact product title (DailyMed API)": "ASPIRIN LOW DOSE (ASPIRIN) TABLET, CHEWABLE [L.N.K. INTERNATIONAL, INC.]",
+        "Verified target": "aspirin",
+        "Category": "HUMAN OTC DRUG LABEL",
+        "Evidence": [
+          {
+            "ingredient": "ASPIRIN",
+            "active_moieties": [
+              "ASPIRIN"
+            ],
+            "form": "TABLET, CHEWABLE",
+            "routes": [
+              "ORAL"
+            ]
+          }
+        ],
+        "Oral tablet": true,
+        "Verification": "HUMAN OTC DRUG LABEL; single active ingredient matched to aspirin using SPL ingredient/active-moiety data",
+        "Strength per tablet": "81 mg per tablet",
+        "Label updated on": "November 5, 2026",
+        "Product name": "ASPIRIN LOW DOSE- aspirin tablet, chewable"
+      },
+      "source_row": {
+        "filename": "aspirin_81mg_l_n_k_international_inc.pdf",
+        "product_name": "ASPIRIN LOW DOSE- aspirin tablet, chewable",
+        "packager": "L.N.K. International, Inc.",
+        "label_updated_on": "November 5, 2026",
+        "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=39e142a7-8590-4e1e-8319-6904fb57cc8a"
+      },
+      "status": "complete",
+      "page_count": 6
+    },
+    "diclofenac": {
+      "set_id": "26e44aa5-cfcd-f10b-e063-6394a90a4dcf",
+      "filename": "diclofenac_sodium_100mg_nucare_pharmaceuticals_llc.pdf",
+      "label": {
+        "Ingredient": "DICLOFENAC SODIUM",
+        "Strength": "100 mg per 1 tablet",
+        "Strengths": [
+          {
+            "amount": "100",
+            "unit": "mg",
+            "basis_amount": "1",
+            "basis_unit": "1",
+            "form": "TABLET, EXTENDED RELEASE"
+          }
+        ],
+        "Packager": "NuCare Pharmaceuticals, LLC.",
+        "Set ID": "26e44aa5-cfcd-f10b-e063-6394a90a4dcf",
+        "Source page URL": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=26e44aa5-cfcd-f10b-e063-6394a90a4dcf",
+        "Exact product title (DailyMed API)": "DICLOFENAC SODIUM TABLET, EXTENDED RELEASE [NUCARE PHARMACEUTICALS, LLC.]",
+        "Verified target": "diclofenac",
+        "Category": "HUMAN PRESCRIPTION DRUG LABEL",
+        "Evidence": [
+          {
+            "ingredient": "DICLOFENAC SODIUM",
+            "active_moieties": [
+              "DICLOFENAC"
+            ],
+            "form": "TABLET, EXTENDED RELEASE",
+            "routes": [
+              "ORAL"
+            ]
+          }
+        ],
+        "Oral tablet": true,
+        "Verification": "HUMAN PRESCRIPTION DRUG LABEL; single active ingredient matched to diclofenac using SPL ingredient/active-moiety data",
+        "Strength per tablet": "100 mg per tablet",
+        "Label updated on": "November 5, 2026",
+        "Product name": "DICLOFENAC SODIUM tablet, extended release WARNING: RISK OF SERIOUS CARDIOVASCULAR AND GASTROINTESTINAL EVENTS"
+      },
+      "source_row": {
+        "filename": "diclofenac_sodium_100mg_nucare_pharmaceuticals_llc.pdf",
+        "product_name": "DICLOFENAC SODIUM tablet, extended release WARNING: RISK OF SERIOUS CARDIOVASCULAR AND GASTROINTESTINAL EVENTS",
+        "packager": "NuCare Pharmaceuticals, LLC.",
+        "label_updated_on": "November 5, 2026",
+        "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=26e44aa5-cfcd-f10b-e063-6394a90a4dcf"
+      },
+      "status": "complete",
+      "page_count": 23
+    },
+    "meloxicam": {
+      "set_id": "2322a070-25f0-4fc6-a98e-44ad1fb52dc5",
+      "filename": "meloxicam_15mg_bryant_ranch_prepack.pdf",
+      "label": {
+        "Ingredient": "MELOXICAM",
+        "Strength": "15 mg per 1 tablet",
+        "Strengths": [
+          {
+            "amount": "15",
+            "unit": "mg",
+            "basis_amount": "1",
+            "basis_unit": "1",
+            "form": "TABLET"
+          }
+        ],
+        "Packager": "Bryant Ranch Prepack",
+        "Set ID": "2322a070-25f0-4fc6-a98e-44ad1fb52dc5",
+        "Source page URL": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2322a070-25f0-4fc6-a98e-44ad1fb52dc5",
+        "Exact product title (DailyMed API)": "MELOXICAM TABLET [BRYANT RANCH PREPACK]",
+        "Verified target": "meloxicam",
+        "Category": "HUMAN PRESCRIPTION DRUG LABEL",
+        "Evidence": [
+          {
+            "ingredient": "MELOXICAM",
+            "active_moieties": [
+              "MELOXICAM"
+            ],
+            "form": "TABLET",
+            "routes": [
+              "ORAL"
+            ]
+          }
+        ],
+        "Oral tablet": true,
+        "Verification": "HUMAN PRESCRIPTION DRUG LABEL; single active ingredient matched to meloxicam using SPL ingredient/active-moiety data",
+        "Strength per tablet": "15 mg per tablet",
+        "Label updated on": "October 19, 2026",
+        "Product name": "MELOXICAM tablet WARNING: RISK OF SERIOUS CARDIOVASCULAR AND GASTROINTESTINAL EVENTS See full prescribing information for complete boxed warning . RECENT MAJOR CHANGES INDICATIONS AND USAGE DOSAGE AND ADMINISTRATION DOSAGE FORMS AND STRENGTHS CONTRAINDICATIONS WARNINGS AND PRECAUTIONS ADVERSE REACTIONS DRUG INTERACTIONS USE IN SPECIFIC POPULATIONS FULL PRESCRIBING INFORMATION: CONTENTS * WARNING: RISK OF SERIOUS CARDIOVASCULAR AND GASTROINTESTINAL EVENTS 1 INDICATIONS AND USAGE 2 DOSAGE AND ADMINISTRATION 3 DOSAGE FORMS AND STRENGTHS 4 CONTRAINDICATIONS 5 WARNINGS AND PRECAUTIONS 6 ADVERSE REACTIONS 7 DRUG INTERACTIONS 8 USE IN SPECIFIC POPULATIONS 10 OVERDOSAGE 11 DESCRIPTION 12 CLINICAL PHARMACOLOGY 13 NONCLINICAL TOXICOLOGY 14 CLINICAL STUDIES 16 HOW SUPPLIED/STORAGE AND HANDLING 17 PATIENT COUNSELING INFORMATION WARNING: RISK OF SERIOUS CARDIOVASCULAR AND GASTROINTESTINAL EVENTS"
+      },
+      "source_row": {
+        "filename": "meloxicam_15mg_bryant_ranch_prepack.pdf",
+        "product_name": "MELOXICAM tablet WARNING: RISK OF SERIOUS CARDIOVASCULAR AND GASTROINTESTINAL EVENTS See full prescribing information for complete boxed warning . RECENT MAJOR CHANGES INDICATIONS AND USAGE DOSAGE AND ADMINISTRATION DOSAGE FORMS AND STRENGTHS CONTRAINDICATIONS WARNINGS AND PRECAUTIONS ADVERSE REACTIONS DRUG INTERACTIONS USE IN SPECIFIC POPULATIONS FULL PRESCRIBING INFORMATION: CONTENTS * WARNING: RISK OF SERIOUS CARDIOVASCULAR AND GASTROINTESTINAL EVENTS 1 INDICATIONS AND USAGE 2 DOSAGE AND ADMINISTRATION 3 DOSAGE FORMS AND STRENGTHS 4 CONTRAINDICATIONS 5 WARNINGS AND PRECAUTIONS 6 ADVERSE REACTIONS 7 DRUG INTERACTIONS 8 USE IN SPECIFIC POPULATIONS 10 OVERDOSAGE 11 DESCRIPTION 12 CLINICAL PHARMACOLOGY 13 NONCLINICAL TOXICOLOGY 14 CLINICAL STUDIES 16 HOW SUPPLIED/STORAGE AND HANDLING 17 PATIENT COUNSELING INFORMATION WARNING: RISK OF SERIOUS CARDIOVASCULAR AND GASTROINTESTINAL EVENTS",
+        "packager": "Bryant Ranch Prepack",
+        "label_updated_on": "October 19, 2026",
+        "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2322a070-25f0-4fc6-a98e-44ad1fb52dc5"
+      },
+      "status": "complete",
+      "page_count": 36
+    },
+    "celecoxib": {
+      "set_id": "f955eac8-4d31-9fbb-e053-6294a90a10aa",
+      "filename": "celecoxib_200mg_truemed_group_llc.pdf",
+      "label": {
+        "Ingredient": "CELECOXIB",
+        "Strength": "200 mg per 1 tablet",
+        "Strengths": [
+          {
+            "amount": "200",
+            "unit": "mg",
+            "basis_amount": "1",
+            "basis_unit": "1",
+            "form": "TABLET"
+          }
+        ],
+        "Packager": "Truemed Group LLC",
+        "Set ID": "f955eac8-4d31-9fbb-e053-6294a90a10aa",
+        "Source page URL": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f955eac8-4d31-9fbb-e053-6294a90a10aa",
+        "Exact product title (DailyMed API)": "CELECOXIB TABLET [TRUEMED GROUP LLC]",
+        "Verified target": "celecoxib",
+        "Category": "HUMAN PRESCRIPTION DRUG LABEL",
+        "Evidence": [
+          {
+            "ingredient": "CELECOXIB",
+            "active_moieties": [
+              "CELECOXIB"
+            ],
+            "form": "TABLET",
+            "routes": [
+              "ORAL"
+            ]
+          }
+        ],
+        "Oral tablet": true,
+        "Verification": "HUMAN PRESCRIPTION DRUG LABEL; single active ingredient matched to celecoxib using SPL ingredient/active-moiety data",
+        "Strength per tablet": "200 mg per tablet",
+        "Label updated on": "April 14, 2023",
+        "Product name": "CELECOXIB tablet"
+      },
+      "source_row": {
+        "filename": "celecoxib_200mg_truemed_group_llc.pdf",
+        "product_name": "CELECOXIB tablet",
+        "packager": "Truemed Group LLC",
+        "label_updated_on": "April 14, 2023",
+        "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f955eac8-4d31-9fbb-e053-6294a90a10aa"
+      },
+      "status": "complete",
+      "page_count": 2
+    },
+    "indomethacin": {
+      "set_id": "6bb30cef-c460-4696-8acd-a453408640f4",
+      "filename": "indomethacin_50mg_northstar_rxllc.pdf",
+      "label": {
+        "Ingredient": "INDOMETHACIN",
+        "Strength": "50 mg per 1 suppository",
+        "Strengths": [
+          {
+            "amount": "50",
+            "unit": "mg",
+            "basis_amount": "1",
+            "basis_unit": "1",
+            "form": "SUPPOSITORY"
+          }
+        ],
+        "Packager": "NorthStar RxLLC",
+        "Set ID": "6bb30cef-c460-4696-8acd-a453408640f4",
+        "Source page URL": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6bb30cef-c460-4696-8acd-a453408640f4",
+        "Exact product title (DailyMed API)": "INDOMETHACIN (INDOMETHACIN) SUPPOSITORY [NORTHSTAR RXLLC]",
+        "Verified target": "indomethacin",
+        "Category": "HUMAN PRESCRIPTION DRUG LABEL",
+        "Evidence": [
+          {
+            "ingredient": "INDOMETHACIN",
+            "active_moieties": [
+              "INDOMETHACIN"
+            ],
+            "form": "SUPPOSITORY",
+            "routes": [
+              "RECTAL"
+            ]
+          }
+        ],
+        "Oral tablet": false,
+        "Verification": "HUMAN PRESCRIPTION DRUG LABEL; single active ingredient matched to indomethacin using SPL ingredient/active-moiety data",
+        "Label updated on": "October 23, 2026",
+        "Product name": "INDOMETHACIN- indomethacin suppository WARNING: RISK OF SERIOUS CARDIOVASCULAR AND GASTROINTESTINAL EVENTS See full prescribing information for complete boxed warning. RECENT MAJOR CHANGES INDICATIONS AND USAGE DOSAGE AND ADMINISTRATION DOSAGE FORMS AND STRENGTHS CONTRAINDICATIONS WARNINGS AND PRECAUTIONS ADVERSE REACTIONS DRUG INTERACTIONS USE IN SPECIFIC POPULATIONS FULL PRESCRIBING INFORMATION: CONTENTS * WARNING: RISK OF SERIOUS CARDIOVASCULAR AND GASTROINTESTINAL EVENTS 1 INDICATIONS AND USAGE 2 DOSAGE AND ADMINISTRATION 3 DOSAGE FORMS AND STRENGTHS 4 CONTRAINDICATIONS 5 WARNINGS AND PRECAUTIONS 6 ADVERSE REACTIONS 7 DRUG INTERACTIONS 8 USE IN SPECIFIC POPULATIONS 10 OVERDOSAGE 11 DESCRIPTION 12 CLINICAL PHARMACOLOGY 13 NONCLINICAL TOXICOLOGY 14 CLINICAL STUDIES 16 HOW SUPPLIED/STORAGE AND HANDLING 17 PATIENT COUNSELING INFORMATION WARNING: RISK OF SERIOUS CARDIOVASCULAR AND GASTROINTESTINAL EVENTS"
+      },
+      "source_row": {
+        "filename": "indomethacin_50mg_northstar_rxllc.pdf",
+        "product_name": "INDOMETHACIN- indomethacin suppository WARNING: RISK OF SERIOUS CARDIOVASCULAR AND GASTROINTESTINAL EVENTS See full prescribing information for complete boxed warning. RECENT MAJOR CHANGES INDICATIONS AND USAGE DOSAGE AND ADMINISTRATION DOSAGE FORMS AND STRENGTHS CONTRAINDICATIONS WARNINGS AND PRECAUTIONS ADVERSE REACTIONS DRUG INTERACTIONS USE IN SPECIFIC POPULATIONS FULL PRESCRIBING INFORMATION: CONTENTS * WARNING: RISK OF SERIOUS CARDIOVASCULAR AND GASTROINTESTINAL EVENTS 1 INDICATIONS AND USAGE 2 DOSAGE AND ADMINISTRATION 3 DOSAGE FORMS AND STRENGTHS 4 CONTRAINDICATIONS 5 WARNINGS AND PRECAUTIONS 6 ADVERSE REACTIONS 7 DRUG INTERACTIONS 8 USE IN SPECIFIC POPULATIONS 10 OVERDOSAGE 11 DESCRIPTION 12 CLINICAL PHARMACOLOGY 13 NONCLINICAL TOXICOLOGY 14 CLINICAL STUDIES 16 HOW SUPPLIED/STORAGE AND HANDLING 17 PATIENT COUNSELING INFORMATION WARNING: RISK OF SERIOUS CARDIOVASCULAR AND GASTROINTESTINAL EVENTS",
+        "packager": "NorthStar RxLLC",
+        "label_updated_on": "October 23, 2026",
+        "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6bb30cef-c460-4696-8acd-a453408640f4"
+      },
+      "status": "complete",
+      "page_count": 32
+    },
+    "ketorolac": {
+      "set_id": "862dd7b7-8ed5-42bf-870e-a45b86740226",
+      "filename": "ketorolac_tromethamine_10mg_pd_rx_pharmaceuticals_inc.pdf",
+      "label": {
+        "Ingredient": "KETOROLAC TROMETHAMINE",
+        "Strength": "10 mg per 1 tablet",
+        "Strengths": [
+          {
+            "amount": "10",
+            "unit": "mg",
+            "basis_amount": "1",
+            "basis_unit": "1",
+            "form": "TABLET, FILM COATED"
+          }
+        ],
+        "Packager": "PD-Rx Pharmaceuticals, Inc.",
+        "Set ID": "862dd7b7-8ed5-42bf-870e-a45b86740226",
+        "Source page URL": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=862dd7b7-8ed5-42bf-870e-a45b86740226",
+        "Exact product title (DailyMed API)": "KETOROLAC TROMETHAMINE TABLET, FILM COATED [PD-RX PHARMACEUTICALS, INC.]",
+        "Verified target": "ketorolac",
+        "Category": "HUMAN PRESCRIPTION DRUG LABEL",
+        "Evidence": [
+          {
+            "ingredient": "KETOROLAC TROMETHAMINE",
+            "active_moieties": [
+              "KETOROLAC"
+            ],
+            "form": "TABLET, FILM COATED",
+            "routes": [
+              "ORAL"
+            ]
+          }
+        ],
+        "Oral tablet": true,
+        "Verification": "HUMAN PRESCRIPTION DRUG LABEL; single active ingredient matched to ketorolac using SPL ingredient/active-moiety data",
+        "Strength per tablet": "10 mg per tablet",
+        "Label updated on": "November 3, 2026",
+        "Product name": "KETOROLAC TROMETHAMINE tablet, film coated WARNING"
+      },
+      "source_row": {
+        "filename": "ketorolac_tromethamine_10mg_pd_rx_pharmaceuticals_inc.pdf",
+        "product_name": "KETOROLAC TROMETHAMINE tablet, film coated WARNING",
+        "packager": "PD-Rx Pharmaceuticals, Inc.",
+        "label_updated_on": "November 3, 2026",
+        "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=862dd7b7-8ed5-42bf-870e-a45b86740226"
+      },
+      "status": "complete",
+      "page_count": 30
+    },
+    "allopurinol": {
+      "set_id": "682dd8b8-fc6e-47c5-95b7-82d7ad96b750",
+      "filename": "allopurinol_100mg_300mg_accord_healthcare_inc.pdf",
+      "label": {
+        "Ingredient": "ALLOPURINOL",
+        "Strength": "100 mg per 1 tablet; 300 mg per 1 tablet",
+        "Strengths": [
+          {
+            "amount": "100",
+            "unit": "mg",
+            "basis_amount": "1",
+            "basis_unit": "1",
+            "form": "TABLET"
+          },
+          {
+            "amount": "300",
+            "unit": "mg",
+            "basis_amount": "1",
+            "basis_unit": "1",
+            "form": "TABLET"
+          }
+        ],
+        "Packager": "Accord Healthcare Inc.",
+        "Set ID": "682dd8b8-fc6e-47c5-95b7-82d7ad96b750",
+        "Source page URL": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=682dd8b8-fc6e-47c5-95b7-82d7ad96b750",
+        "Exact product title (DailyMed API)": "ALLOPURINOL TABLET ALLOPURINOL TABLET [ACCORD HEALTHCARE INC.]",
+        "Verified target": "allopurinol",
+        "Category": "HUMAN PRESCRIPTION DRUG LABEL",
+        "Evidence": [
+          {
+            "ingredient": "ALLOPURINOL",
+            "active_moieties": [
+              "ALLOPURINOL"
+            ],
+            "form": "TABLET",
+            "routes": [
+              "ORAL"
+            ]
+          },
+          {
+            "ingredient": "ALLOPURINOL",
+            "active_moieties": [
+              "ALLOPURINOL"
+            ],
+            "form": "TABLET",
+            "routes": [
+              "ORAL"
+            ]
+          }
+        ],
+        "Oral tablet": true,
+        "Verification": "HUMAN PRESCRIPTION DRUG LABEL; single active ingredient matched to allopurinol using SPL ingredient/active-moiety data",
+        "Strength per tablet": "100 mg per tablet; 300 mg per tablet",
+        "Label updated on": "November 5, 2026",
+        "Product name": "ALLOPURINOL tablet ALLOPURINOL tablet INDICATIONS AND USAGE DOSAGE AND ADMINISTRATION DOSAGE FORMS AND STRENGTHS CONTRAINDICATIONS WARNINGS AND PRECAUTIONS ADVERSE REACTIONS DRUG INTERACTIONS USE IN SPECIFIC POPULATIONS FULL PRESCRIBING INFORMATION: CONTENTS * 1 INDICATIONS AND USAGE 2 DOSAGE AND ADMINISTRATION 3 DOSAGE FORMS AND STRENGTHS 4 CONTRAINDICATIONS 5 WARNINGS AND PRECAUTIONS 6 ADVERSE REACTIONS 7 DRUG INTERACTIONS 8 USE IN SPECIFIC POPULATIONS 10 OVERDOSAGE 11 DESCRIPTION 12 CLINICAL PHARMACOLOGY 13 NONCLINICAL TOXICOLOGY 16 HOW SUPPLIED/STORAGE AND HANDLING 17 PATIENT COUNSELING INFORMATION"
+      },
+      "source_row": {
+        "filename": "allopurinol_100mg_300mg_accord_healthcare_inc.pdf",
+        "product_name": "ALLOPURINOL tablet ALLOPURINOL tablet INDICATIONS AND USAGE DOSAGE AND ADMINISTRATION DOSAGE FORMS AND STRENGTHS CONTRAINDICATIONS WARNINGS AND PRECAUTIONS ADVERSE REACTIONS DRUG INTERACTIONS USE IN SPECIFIC POPULATIONS FULL PRESCRIBING INFORMATION: CONTENTS * 1 INDICATIONS AND USAGE 2 DOSAGE AND ADMINISTRATION 3 DOSAGE FORMS AND STRENGTHS 4 CONTRAINDICATIONS 5 WARNINGS AND PRECAUTIONS 6 ADVERSE REACTIONS 7 DRUG INTERACTIONS 8 USE IN SPECIFIC POPULATIONS 10 OVERDOSAGE 11 DESCRIPTION 12 CLINICAL PHARMACOLOGY 13 NONCLINICAL TOXICOLOGY 16 HOW SUPPLIED/STORAGE AND HANDLING 17 PATIENT COUNSELING INFORMATION",
+        "packager": "Accord Healthcare Inc.",
+        "label_updated_on": "November 5, 2026",
+        "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=682dd8b8-fc6e-47c5-95b7-82d7ad96b750"
+      },
+      "status": "complete",
+      "page_count": 23
+    },
+    "colchicine": {
+      "set_id": "ff06d68f-d65f-d097-e053-6294a90a7e5f",
+      "filename": "colchicine_0.5mg_agepha_pharma_usa_llc.pdf",
+      "label": {
+        "Ingredient": "COLCHICINE",
+        "Strength": "0.5 mg per 1 tablet",
+        "Strengths": [
+          {
+            "amount": "0.5",
+            "unit": "mg",
+            "basis_amount": "1",
+            "basis_unit": "1",
+            "form": "TABLET"
+          }
+        ],
+        "Packager": "AGEPHA Pharma USA, LLC",
+        "Set ID": "ff06d68f-d65f-d097-e053-6294a90a7e5f",
+        "Source page URL": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ff06d68f-d65f-d097-e053-6294a90a7e5f",
+        "Exact product title (DailyMed API)": "LODOCO (COLCHICINE TABLETS 0.5 MG) TABLET [AGEPHA PHARMA USA, LLC]",
+        "Verified target": "colchicine",
+        "Category": "HUMAN PRESCRIPTION DRUG LABEL",
+        "Evidence": [
+          {
+            "ingredient": "COLCHICINE",
+            "active_moieties": [
+              "COLCHICINE"
+            ],
+            "form": "TABLET",
+            "routes": [
+              "ORAL"
+            ]
+          }
+        ],
+        "Oral tablet": true,
+        "Verification": "HUMAN PRESCRIPTION DRUG LABEL; single active ingredient matched to colchicine using SPL ingredient/active-moiety data",
+        "Strength per tablet": "0.5 mg per tablet",
+        "Label updated on": "October 20, 2026",
+        "Product name": "LODOCO- colchicine tablets 0.5 mg tablet INDICATIONS AND USAGE DOSAGE AND ADMINISTRATION DOSAGE FORMS AND STRENGTHS CONTRAINDICATIONS WARNINGS AND PRECAUTIONS ADVERSE REACTIONS DRUG INTERACTIONS USE IN SPECIFIC POPULATIONS FULL PRESCRIBING INFORMATION: CONTENTS * 1. INDICATION AND USAGE 2. DOSAGE AND ADMINISTRATION 3. DOSAGE FORMS AND STRENGTHS 4. CONTRAINDICATIONS 5. WARNINGS AND PRECAUTIONS 6. ADVERSE REACTIONS 7. DRUG INTERACTIONS 8. USE IN SPECIFIC POPULATIONS 10. OVERDOSAGE 11. DESCRIPTION 12. CLINICAL PHARMACOLOGY 13. NONCLINICAL TOXICOLOGY 14. CLINICAL STUDIES 16. HOW SUPPLIED/STORAGE AND HANDLING"
+      },
+      "source_row": {
+        "filename": "colchicine_0.5mg_agepha_pharma_usa_llc.pdf",
+        "product_name": "LODOCO- colchicine tablets 0.5 mg tablet INDICATIONS AND USAGE DOSAGE AND ADMINISTRATION DOSAGE FORMS AND STRENGTHS CONTRAINDICATIONS WARNINGS AND PRECAUTIONS ADVERSE REACTIONS DRUG INTERACTIONS USE IN SPECIFIC POPULATIONS FULL PRESCRIBING INFORMATION: CONTENTS * 1. INDICATION AND USAGE 2. DOSAGE AND ADMINISTRATION 3. DOSAGE FORMS AND STRENGTHS 4. CONTRAINDICATIONS 5. WARNINGS AND PRECAUTIONS 6. ADVERSE REACTIONS 7. DRUG INTERACTIONS 8. USE IN SPECIFIC POPULATIONS 10. OVERDOSAGE 11. DESCRIPTION 12. CLINICAL PHARMACOLOGY 13. NONCLINICAL TOXICOLOGY 14. CLINICAL STUDIES 16. HOW SUPPLIED/STORAGE AND HANDLING",
+        "packager": "AGEPHA Pharma USA, LLC",
+        "label_updated_on": "October 20, 2026",
+        "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ff06d68f-d65f-d097-e053-6294a90a7e5f"
+      },
+      "status": "complete",
+      "page_count": 23
+    },
+    "amoxicillin": {
+      "set_id": "09660a95-a7b3-4d1f-832c-a4fa7a5b7ddd",
+      "filename": "amoxicillin_250mg_pd_rx_pharmaceuticals_inc.pdf",
+      "label": {
+        "Ingredient": "AMOXICILLIN",
+        "Strength": "250 mg per 1 tablet",
+        "Strengths": [
+          {
+            "amount": "250",
+            "unit": "mg",
+            "basis_amount": "1",
+            "basis_unit": "1",
+            "form": "TABLET, CHEWABLE"
+          }
+        ],
+        "Packager": "PD-Rx Pharmaceuticals, Inc.",
+        "Set ID": "09660a95-a7b3-4d1f-832c-a4fa7a5b7ddd",
+        "Source page URL": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=09660a95-a7b3-4d1f-832c-a4fa7a5b7ddd",
+        "Exact product title (DailyMed API)": "AMOXICILLIN TABLET, CHEWABLE [PD-RX PHARMACEUTICALS, INC.]",
+        "Verified target": "amoxicillin",
+        "Category": "HUMAN PRESCRIPTION DRUG LABEL",
+        "Evidence": [
+          {
+            "ingredient": "AMOXICILLIN",
+            "active_moieties": [
+              "AMOXICILLIN ANHYDROUS"
+            ],
+            "form": "TABLET, CHEWABLE",
+            "routes": [
+              "ORAL"
+            ]
+          }
+        ],
+        "Oral tablet": true,
+        "Verification": "HUMAN PRESCRIPTION DRUG LABEL; single active ingredient matched to amoxicillin using SPL ingredient/active-moiety data",
+        "Strength per tablet": "250 mg per tablet",
+        "Label updated on": "November 5, 2026",
+        "Product name": "AMOXICILLIN tablet, chewable RECENT MAJOR CHANGES INDICATIONS AND USAGE DOSAGE AND ADMINISTRATION DOSAGE FORMS AND STRENGTHS CONTRAINDICATIONS WARNINGS AND PRECAUTIONS ADVERSE REACTIONS DRUG INTERACTIONS FULL PRESCRIBING INFORMATION: CONTENTS * 1 INDICATIONS AND USAGE 2 DOSAGE AND ADMINISTRATION 3 DOSAGE FORMS AND STRENGTHS 4 CONTRAINDICATIONS 5 WARNINGS AND PRECAUTIONS 6 ADVERSE REACTIONS 7 DRUG INTERACTIONS 8 USE IN SPECIFIC POPULATIONS 10 OVERDOSAGE 11 DESCRIPTION 12 CLINICAL PHARMACOLOGY 13 NONCLINICAL TOXICOLOGY 14 CLINICAL STUDIES 15 REFERENCES 16 HOW SUPPLIED/STORAGE AND HANDLING 17 PATIENT COUNSELING INFORMATION"
+      },
+      "source_row": {
+        "filename": "amoxicillin_250mg_pd_rx_pharmaceuticals_inc.pdf",
+        "product_name": "AMOXICILLIN tablet, chewable RECENT MAJOR CHANGES INDICATIONS AND USAGE DOSAGE AND ADMINISTRATION DOSAGE FORMS AND STRENGTHS CONTRAINDICATIONS WARNINGS AND PRECAUTIONS ADVERSE REACTIONS DRUG INTERACTIONS FULL PRESCRIBING INFORMATION: CONTENTS * 1 INDICATIONS AND USAGE 2 DOSAGE AND ADMINISTRATION 3 DOSAGE FORMS AND STRENGTHS 4 CONTRAINDICATIONS 5 WARNINGS AND PRECAUTIONS 6 ADVERSE REACTIONS 7 DRUG INTERACTIONS 8 USE IN SPECIFIC POPULATIONS 10 OVERDOSAGE 11 DESCRIPTION 12 CLINICAL PHARMACOLOGY 13 NONCLINICAL TOXICOLOGY 14 CLINICAL STUDIES 15 REFERENCES 16 HOW SUPPLIED/STORAGE AND HANDLING 17 PATIENT COUNSELING INFORMATION",
+        "packager": "PD-Rx Pharmaceuticals, Inc.",
+        "label_updated_on": "November 5, 2026",
+        "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=09660a95-a7b3-4d1f-832c-a4fa7a5b7ddd"
+      },
+      "status": "complete",
+      "page_count": 18
+    },
+    "ampicillin": {
+      "set_id": "3b683547-48ac-48ca-8fd4-6866fd17be34",
+      "filename": "ampicillin_sodium_10g_per_100ml_northstar_rx_llc.pdf",
+      "label": {
+        "Ingredient": "AMPICILLIN SODIUM",
+        "Strength": "10 g per 100 mL",
+        "Strengths": [
+          {
+            "amount": "10",
+            "unit": "g",
+            "basis_amount": "100",
+            "basis_unit": "mL",
+            "form": "INJECTION, POWDER, FOR SOLUTION"
+          }
+        ],
+        "Packager": "NorthStar Rx, LLC",
+        "Set ID": "3b683547-48ac-48ca-8fd4-6866fd17be34",
+        "Source page URL": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3b683547-48ac-48ca-8fd4-6866fd17be34",
+        "Exact product title (DailyMed API)": "AMPICILLIN (AMPICILLIN SODIUM) INJECTION, POWDER, FOR SOLUTION [NORTHSTAR RX, LLC]",
+        "Verified target": "ampicillin",
+        "Category": "HUMAN PRESCRIPTION DRUG LABEL",
+        "Evidence": [
+          {
+            "ingredient": "AMPICILLIN SODIUM",
+            "active_moieties": [
+              "AMPICILLIN"
+            ],
+            "form": "INJECTION, POWDER, FOR SOLUTION",
+            "routes": [
+              "INTRAVENOUS"
+            ]
+          }
+        ],
+        "Oral tablet": false,
+        "Verification": "HUMAN PRESCRIPTION DRUG LABEL; single active ingredient matched to ampicillin using SPL ingredient/active-moiety data",
+        "Label updated on": "November 4, 2026",
+        "Product name": "AMPICILLIN- ampicillin sodium injection, powder, for solution"
+      },
+      "source_row": {
+        "filename": "ampicillin_sodium_10g_per_100ml_northstar_rx_llc.pdf",
+        "product_name": "AMPICILLIN- ampicillin sodium injection, powder, for solution",
+        "packager": "NorthStar Rx, LLC",
+        "label_updated_on": "November 4, 2026",
+        "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3b683547-48ac-48ca-8fd4-6866fd17be34"
+      },
+      "status": "complete",
+      "page_count": 12
+    },
+    "penicillin v": {
+      "set_id": "64ac283c-fe6a-49f0-ae85-90ab98e38272",
+      "filename": "penicillin_v_potassium_500mg_remedyrepack_inc.pdf",
+      "label": {
+        "Ingredient": "PENICILLIN V POTASSIUM",
+        "Strength": "500 mg per 1 tablet",
+        "Strengths": [
+          {
+            "amount": "500",
+            "unit": "mg",
+            "basis_amount": "1",
+            "basis_unit": "1",
+            "form": "TABLET, FILM COATED"
+          }
+        ],
+        "Packager": "REMEDYREPACK INC.",
+        "Set ID": "64ac283c-fe6a-49f0-ae85-90ab98e38272",
+        "Source page URL": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=64ac283c-fe6a-49f0-ae85-90ab98e38272",
+        "Exact product title (DailyMed API)": "PENICILLIN V POTASSIUM TABLET, FILM COATED [REMEDYREPACK INC.]",
+        "Verified target": "penicillin v",
+        "Category": "HUMAN PRESCRIPTION DRUG LABEL",
+        "Evidence": [
+          {
+            "ingredient": "PENICILLIN V POTASSIUM",
+            "active_moieties": [
+              "PENICILLIN V"
+            ],
+            "form": "TABLET, FILM COATED",
+            "routes": [
+              "ORAL"
+            ]
+          }
+        ],
+        "Oral tablet": true,
+        "Verification": "HUMAN PRESCRIPTION DRUG LABEL; single active ingredient matched to penicillin V using SPL ingredient/active-moiety data",
+        "Strength per tablet": "500 mg per tablet",
+        "Label updated on": "November 2, 2026",
+        "Product name": "PENICILLIN V POTASSIUM tablet, film coated"
+      },
+      "source_row": {
+        "filename": "penicillin_v_potassium_500mg_remedyrepack_inc.pdf",
+        "product_name": "PENICILLIN V POTASSIUM tablet, film coated",
+        "packager": "REMEDYREPACK INC.",
+        "label_updated_on": "November 2, 2026",
+        "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=64ac283c-fe6a-49f0-ae85-90ab98e38272"
+      },
+      "status": "complete",
+      "page_count": 11
+    },
+    "cephalexin": {
+      "set_id": "445b2a87-2e4f-483a-abe8-26fefd67514a",
+      "filename": "cephalexin_250mg_500mg_teva_pharmaceuticals_usa_inc.pdf",
+      "label": {
+        "Ingredient": "CEPHALEXIN",
+        "Strength": "250 mg per 1 tablet; 500 mg per 1 tablet",
+        "Strengths": [
+          {
+            "amount": "250",
+            "unit": "mg",
+            "basis_amount": "1",
+            "basis_unit": "1",
+            "form": "TABLET"
+          },
+          {
+            "amount": "500",
+            "unit": "mg",
+            "basis_amount": "1",
+            "basis_unit": "1",
+            "form": "TABLET"
+          }
+        ],
+        "Packager": "Teva Pharmaceuticals USA, Inc.",
+        "Set ID": "445b2a87-2e4f-483a-abe8-26fefd67514a",
+        "Source page URL": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=445b2a87-2e4f-483a-abe8-26fefd67514a",
+        "Exact product title (DailyMed API)": "CEPHALEXIN TABLET [TEVA PHARMACEUTICALS USA, INC.]",
+        "Verified target": "cephalexin",
+        "Category": "HUMAN PRESCRIPTION DRUG LABEL",
+        "Evidence": [
+          {
+            "ingredient": "CEPHALEXIN",
+            "active_moieties": [
+              "CEPHALEXIN ANHYDROUS"
+            ],
+            "form": "TABLET",
+            "routes": [
+              "ORAL"
+            ]
+          },
+          {
+            "ingredient": "CEPHALEXIN",
+            "active_moieties": [
+              "CEPHALEXIN ANHYDROUS"
+            ],
+            "form": "TABLET",
+            "routes": [
+              "ORAL"
+            ]
+          }
+        ],
+        "Oral tablet": true,
+        "Verification": "HUMAN PRESCRIPTION DRUG LABEL; single active ingredient matched to cephalexin using SPL ingredient/active-moiety data",
+        "Strength per tablet": "250 mg per tablet; 500 mg per tablet",
+        "Label updated on": "October 1, 2023",
+        "Product name": "CEPHALEXIN tablet"
+      },
+      "source_row": {
+        "filename": "cephalexin_250mg_500mg_teva_pharmaceuticals_usa_inc.pdf",
+        "product_name": "CEPHALEXIN tablet",
+        "packager": "Teva Pharmaceuticals USA, Inc.",
+        "label_updated_on": "October 1, 2023",
+        "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=445b2a87-2e4f-483a-abe8-26fefd67514a"
+      },
+      "status": "complete",
+      "page_count": 9
+    },
+    "cefuroxime": {
+      "set_id": "15cabe73-f39d-4798-a840-115fe94f8f96",
+      "filename": "cefuroxime_axetil_500mg_pd_rx_pharmaceuticals_inc.pdf",
+      "label": {
+        "Ingredient": "CEFUROXIME AXETIL",
+        "Strength": "500 mg per 1 tablet",
+        "Strengths": [
+          {
+            "amount": "500",
+            "unit": "mg",
+            "basis_amount": "1",
+            "basis_unit": "1",
+            "form": "TABLET, FILM COATED"
+          }
+        ],
+        "Packager": "PD-Rx Pharmaceuticals, Inc.",
+        "Set ID": "15cabe73-f39d-4798-a840-115fe94f8f96",
+        "Source page URL": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=15cabe73-f39d-4798-a840-115fe94f8f96",
+        "Exact product title (DailyMed API)": "CEFUROXIME AXETIL TABLET, FILM COATED [PD-RX PHARMACEUTICALS, INC.]",
+        "Verified target": "cefuroxime",
+        "Category": "HUMAN PRESCRIPTION DRUG LABEL",
+        "Evidence": [
+          {
+            "ingredient": "CEFUROXIME AXETIL",
+            "active_moieties": [
+              "CEFUROXIME"
+            ],
+            "form": "TABLET, FILM COATED",
+            "routes": [
+              "ORAL"
+            ]
+          }
+        ],
+        "Oral tablet": true,
+        "Verification": "HUMAN PRESCRIPTION DRUG LABEL; single active ingredient matched to cefuroxime using SPL ingredient/active-moiety data",
+        "Strength per tablet": "500 mg per tablet",
+        "Label updated on": "October 14, 2026",
+        "Product name": "CEFUROXIME AXETIL tablet, film coated INDICATIONS AND USAGE DOSAGE AND ADMINISTRATION DOSAGE FORMS AND STRENGTHS CONTRAINDICATIONS WARNINGS AND PRECAUTIONS ADVERSE REACTIONS DRUG INTERACTIONS FULL PRESCRIBING INFORMATION: CONTENTS * 1 INDICATIONS AND USAGE 2 DOSAGE AND ADMINISTRATION 3 DOSAGE FORMS AND STRENGTHS 4 CONTRAINDICATIONS 5 WARNINGS AND PRECAUTIONS 6 ADVERSE REACTIONS 7 DRUG INTERACTIONS 8 USE IN SPECIFIC POPULATIONS 10 OVERDOSAGE 11 DESCRIPTION 12 CLINICAL PHARMACOLOGY 13 NONCLINICAL TOXICOLOGY 14 CLINICAL STUDIES 16 HOW SUPPLIED/STORAGE AND HANDLING 17 PATIENT COUNSELING INFORMATION"
+      },
+      "source_row": {
+        "filename": "cefuroxime_axetil_500mg_pd_rx_pharmaceuticals_inc.pdf",
+        "product_name": "CEFUROXIME AXETIL tablet, film coated INDICATIONS AND USAGE DOSAGE AND ADMINISTRATION DOSAGE FORMS AND STRENGTHS CONTRAINDICATIONS WARNINGS AND PRECAUTIONS ADVERSE REACTIONS DRUG INTERACTIONS FULL PRESCRIBING INFORMATION: CONTENTS * 1 INDICATIONS AND USAGE 2 DOSAGE AND ADMINISTRATION 3 DOSAGE FORMS AND STRENGTHS 4 CONTRAINDICATIONS 5 WARNINGS AND PRECAUTIONS 6 ADVERSE REACTIONS 7 DRUG INTERACTIONS 8 USE IN SPECIFIC POPULATIONS 10 OVERDOSAGE 11 DESCRIPTION 12 CLINICAL PHARMACOLOGY 13 NONCLINICAL TOXICOLOGY 14 CLINICAL STUDIES 16 HOW SUPPLIED/STORAGE AND HANDLING 17 PATIENT COUNSELING INFORMATION",
+        "packager": "PD-Rx Pharmaceuticals, Inc.",
+        "label_updated_on": "October 14, 2026",
+        "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=15cabe73-f39d-4798-a840-115fe94f8f96"
+      },
+      "status": "complete",
+      "page_count": 23
+    },
+    "cefdinir": {
+      "set_id": "3c2130f9-a0d8-4a4e-bcad-36379202b7bb",
+      "filename": "cefdinir_300mg_pd_rx_pharmaceuticals_inc.pdf",
+      "label": {
+        "Ingredient": "CEFDINIR",
+        "Strength": "300 mg per 1 capsule",
+        "Strengths": [
+          {
+            "amount": "300",
+            "unit": "mg",
+            "basis_amount": "1",
+            "basis_unit": "1",
+            "form": "CAPSULE"
+          }
+        ],
+        "Packager": "PD-Rx Pharmaceuticals, Inc.",
+        "Set ID": "3c2130f9-a0d8-4a4e-bcad-36379202b7bb",
+        "Source page URL": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3c2130f9-a0d8-4a4e-bcad-36379202b7bb",
+        "Exact product title (DailyMed API)": "CEFDINIR CAPSULE [PD-RX PHARMACEUTICALS, INC.]",
+        "Verified target": "cefdinir",
+        "Category": "HUMAN PRESCRIPTION DRUG LABEL",
+        "Evidence": [
+          {
+            "ingredient": "CEFDINIR",
+            "active_moieties": [
+              "CEFDINIR"
+            ],
+            "form": "CAPSULE",
+            "routes": [
+              "ORAL"
+            ]
+          }
+        ],
+        "Oral tablet": false,
+        "Verification": "HUMAN PRESCRIPTION DRUG LABEL; single active ingredient matched to cefdinir using SPL ingredient/active-moiety data",
+        "Label updated on": "October 14, 2026",
+        "Product name": "CEFDINIR capsule"
+      },
+      "source_row": {
+        "filename": "cefdinir_300mg_pd_rx_pharmaceuticals_inc.pdf",
+        "product_name": "CEFDINIR capsule",
+        "packager": "PD-Rx Pharmaceuticals, Inc.",
+        "label_updated_on": "October 14, 2026",
+        "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3c2130f9-a0d8-4a4e-bcad-36379202b7bb"
+      },
+      "status": "complete",
+      "page_count": 20
+    },
+    "ceftriaxone": {
+      "set_id": "8351aa37-552d-471d-b293-c564dcb6ec29",
+      "filename": "ceftriaxone_sodium_1g_2g_250mg_500mg_hikma_pharmaceuticals_usa_inc.pdf",
+      "label": {
+        "Ingredient": "CEFTRIAXONE SODIUM",
+        "Strength": "1 g per 1 injection, powder, for solution; 2 g per 1 injection, powder, for solution; 250 mg per 1 injection, powder, for solution; 500 mg per 1 injection, powder, for solution",
+        "Strengths": [
+          {
+            "amount": "1",
+            "unit": "g",
+            "basis_amount": "1",
+            "basis_unit": "1",
+            "form": "INJECTION, POWDER, FOR SOLUTION"
+          },
+          {
+            "amount": "2",
+            "unit": "g",
+            "basis_amount": "1",
+            "basis_unit": "1",
+            "form": "INJECTION, POWDER, FOR SOLUTION"
+          },
+          {
+            "amount": "250",
+            "unit": "mg",
+            "basis_amount": "1",
+            "basis_unit": "1",
+            "form": "INJECTION, POWDER, FOR SOLUTION"
+          },
+          {
+            "amount": "500",
+            "unit": "mg",
+            "basis_amount": "1",
+            "basis_unit": "1",
+            "form": "INJECTION, POWDER, FOR SOLUTION"
+          }
+        ],
+        "Packager": "Hikma Pharmaceuticals USA Inc.",
+        "Set ID": "8351aa37-552d-471d-b293-c564dcb6ec29",
+        "Source page URL": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8351aa37-552d-471d-b293-c564dcb6ec29",
+        "Exact product title (DailyMed API)": "CEFTRIAXONE INJECTION, POWDER, FOR SOLUTION CEFTRIAXONE INJECTION, POWDER, FOR SOLUTION [HIKMA PHARMACEUTICALS USA INC.]",
+        "Verified target": "ceftriaxone",
+        "Category": "HUMAN PRESCRIPTION DRUG LABEL",
+        "Evidence": [
+          {
+            "ingredient": "CEFTRIAXONE SODIUM",
+            "active_moieties": [
+              "CEFTRIAXONE"
+            ],
+            "form": "INJECTION, POWDER, FOR SOLUTION",
+            "routes": [
+              "INTRAMUSCULAR",
+              "INTRAVENOUS"
+            ]
+          },
+          {
+            "ingredient": "CEFTRIAXONE SODIUM",
+            "active_moieties": [
+              "CEFTRIAXONE"
+            ],
+            "form": "INJECTION, POWDER, FOR SOLUTION",
+            "routes": [
+              "INTRAMUSCULAR",
+              "INTRAVENOUS"
+            ]
+          },
+          {
+            "ingredient": "CEFTRIAXONE SODIUM",
+            "active_moieties": [
+              "CEFTRIAXONE"
+            ],
+            "form": "INJECTION, POWDER, FOR SOLUTION",
+            "routes": [
+              "INTRAMUSCULAR",
+              "INTRAVENOUS"
+            ]
+          },
+          {
+            "ingredient": "CEFTRIAXONE SODIUM",
+            "active_moieties": [
+              "CEFTRIAXONE"
+            ],
+            "form": "INJECTION, POWDER, FOR SOLUTION",
+            "routes": [
+              "INTRAMUSCULAR",
+              "INTRAVENOUS"
+            ]
+          }
+        ],
+        "Oral tablet": false,
+        "Verification": "HUMAN PRESCRIPTION DRUG LABEL; single active ingredient matched to ceftriaxone using SPL ingredient/active-moiety data",
+        "Label updated on": "September 30, 2026",
+        "Product name": "CEFTRIAXONE injection, powder, for solution CEFTRIAXONE injection, powder, for solution"
+      },
+      "source_row": {
+        "filename": "ceftriaxone_sodium_1g_2g_250mg_500mg_hikma_pharmaceuticals_usa_inc.pdf",
+        "product_name": "CEFTRIAXONE injection, powder, for solution CEFTRIAXONE injection, powder, for solution",
+        "packager": "Hikma Pharmaceuticals USA Inc.",
+        "label_updated_on": "September 30, 2026",
+        "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8351aa37-552d-471d-b293-c564dcb6ec29"
+      },
+      "status": "complete",
+      "page_count": 29
+    }
+  },
+  "downloads": {
+    "acetaminophen_325mg_health_pharma.pdf": {
+      "set_id": "671adabe-5f82-4599-a133-3f67ccb34079",
+      "sha256": "c3ac86862b44dffced939fe95643e5880afaf59bb74c5d89c752b5b3792d7ba5"
+    },
+    "ibuprofen_200mg_haleon_us_holdings_llc.pdf": {
+      "set_id": "1a665e64-9f30-be37-4a83-38789f1f1e89",
+      "sha256": "832b172d9691de64fa9660c4b396df7c478fda57767b0dd859e9bba80c89502d"
+    },
+    "naproxen_500mg_remedyrepack_inc.pdf": {
+      "set_id": "12202ef3-c65e-45a6-88ed-5d945d8fd41c",
+      "sha256": "83dfcd8f642d08f3212296ac43cd6479a395940107782db0571c73a6bb4c9f76"
+    },
+    "aspirin_81mg_l_n_k_international_inc.pdf": {
+      "set_id": "39e142a7-8590-4e1e-8319-6904fb57cc8a",
+      "sha256": "f3d460d22a9a6330e54300183ea5efba9dd45567d785f3ba5953eb2b77ba98ff"
+    },
+    "diclofenac_sodium_100mg_nucare_pharmaceuticals_llc.pdf": {
+      "set_id": "26e44aa5-cfcd-f10b-e063-6394a90a4dcf",
+      "sha256": "b707c13c6180f3e6913dd792d4d3bd40115407a72204d98f3e9c4b4fdb0f5f75"
+    },
+    "meloxicam_15mg_bryant_ranch_prepack.pdf": {
+      "set_id": "2322a070-25f0-4fc6-a98e-44ad1fb52dc5",
+      "sha256": "b6fd854f53750d1ded256cc7a1bf44e943db89596c02178b40b5d44907afe5b3"
+    },
+    "celecoxib_200mg_truemed_group_llc.pdf": {
+      "set_id": "f955eac8-4d31-9fbb-e053-6294a90a10aa",
+      "sha256": "7c99a16f04f635dec3067a8b988422d600363bc4425a34b65a5099859de8b125"
+    },
+    "indomethacin_50mg_northstar_rxllc.pdf": {
+      "set_id": "6bb30cef-c460-4696-8acd-a453408640f4",
+      "sha256": "6006d8bb03b2dd89bd8584191023125630401752af21a7c12015706df9e8aab6"
+    },
+    "ketorolac_tromethamine_10mg_pd_rx_pharmaceuticals_inc.pdf": {
+      "set_id": "862dd7b7-8ed5-42bf-870e-a45b86740226",
+      "sha256": "5111833cf302fc0240fc4cd81bad7805517d440ba7a60fbffed4db05bd00e76b"
+    },
+    "allopurinol_100mg_300mg_accord_healthcare_inc.pdf": {
+      "set_id": "682dd8b8-fc6e-47c5-95b7-82d7ad96b750",
+      "sha256": "ba3ceafffb1b6303533e8b403f79b7c042d6329c8287e43331c64ffad274c2e2"
+    },
+    "colchicine_0.5mg_agepha_pharma_usa_llc.pdf": {
+      "set_id": "ff06d68f-d65f-d097-e053-6294a90a7e5f",
+      "sha256": "03ad458c08b0e3aa12546d9838f391ad683eaf2faf487d40265087be699f7816"
+    },
+    "amoxicillin_250mg_pd_rx_pharmaceuticals_inc.pdf": {
+      "set_id": "09660a95-a7b3-4d1f-832c-a4fa7a5b7ddd",
+      "sha256": "3ea34aa5707fdf6ce9cf940b641e2d4a5012048891d497d7e1eac792de9963a8"
+    },
+    "ampicillin_sodium_10g_per_100ml_northstar_rx_llc.pdf": {
+      "set_id": "3b683547-48ac-48ca-8fd4-6866fd17be34",
+      "sha256": "412688d216228084ed176e73372b323c3e38a746c8a3ff0bafe6371956707589"
+    },
+    "penicillin_v_potassium_500mg_remedyrepack_inc.pdf": {
+      "set_id": "64ac283c-fe6a-49f0-ae85-90ab98e38272",
+      "sha256": "f26e2e2a1a6263630bbbe5cd79aa219fcd7c2cd5d9ba683f9aa8073583c56f7a"
+    },
+    "cephalexin_250mg_500mg_teva_pharmaceuticals_usa_inc.pdf": {
+      "set_id": "445b2a87-2e4f-483a-abe8-26fefd67514a",
+      "sha256": "4f4c2d74c0c04550ee8d1d15029dd27c4780692427dde258108fd8b75b90c325"
+    },
+    "cefuroxime_axetil_500mg_pd_rx_pharmaceuticals_inc.pdf": {
+      "set_id": "15cabe73-f39d-4798-a840-115fe94f8f96",
+      "sha256": "6cb54649a8a8369628dec2eebea0706881fb0e26634a2c397a2c7aeca5662f9d"
+    },
+    "cefdinir_300mg_pd_rx_pharmaceuticals_inc.pdf": {
+      "set_id": "3c2130f9-a0d8-4a4e-bcad-36379202b7bb",
+      "sha256": "2c556436a5addb8b8a2bb9a0ee96de107f0efbd6d2c11e0890a261420a1fd2bd"
+    },
+    "ceftriaxone_sodium_1g_2g_250mg_500mg_hikma_pharmaceuticals_usa_inc.pdf": {
+      "set_id": "8351aa37-552d-471d-b293-c564dcb6ec29",
+      "sha256": "24f20c674d95ad48b977b2daf8356f00010fbb44f9e45b1376e5db9eb1242ec2"
+    }
+  },
+  "errors": {},
+  "audit": {
+    "verified_targets": 3,
+    "distinct_set_ids": 3,
+    "readable_pdfs": 3,
+    "matching_csv_rows": 3,
+    "total_pdf_pages": 48,
+    "unresolved": {}
+  }
+}
