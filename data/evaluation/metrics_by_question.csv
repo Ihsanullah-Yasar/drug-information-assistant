@@ -1,0 +1,19 @@
+﻿mode,question_id,question,expected_filename,hit,reciprocal_rank,first_relevant_rank,retrieved_count,gold_count
+global,ibu_01,What safety warnings are listed for ibuprofen?,ibuprofen_200mg_haleon_us_holdings_llc.pdf,1,0.5,2,5,5
+global,ibu_02,What are the allergy warnings for ibuprofen?,ibuprofen_200mg_haleon_us_holdings_llc.pdf,1,0.5,2,5,3
+global,ibu_03,What does the ibuprofen label say about stomach bleeding?,ibuprofen_200mg_haleon_us_holdings_llc.pdf,1,0.25,4,5,3
+global,ace_01,What warnings are listed for acetaminophen?,acetaminophen_325mg_health_pharma.pdf,1,0.5,2,5,4
+global,ace_02,What is the acetaminophen liver warning?,acetaminophen_325mg_health_pharma.pdf,0,0.0,,5,2
+global,ace_03,When should a person stop using acetaminophen according to the label?,acetaminophen_325mg_health_pharma.pdf,1,1.0,1,5,3
+global,flu_01,What uses are listed for fluoxetine?,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf,1,0.3333333333333333,3,5,3
+global,flu_02,What side effects are listed for fluoxetine?,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf,1,1.0,1,5,10
+global,flu_03,What warnings does the fluoxetine label give about suicidal thoughts?,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf,1,1.0,1,5,8
+drug_aware,ibu_01,What safety warnings are listed for ibuprofen?,ibuprofen_200mg_haleon_us_holdings_llc.pdf,1,1.0,1,5,5
+drug_aware,ibu_02,What are the allergy warnings for ibuprofen?,ibuprofen_200mg_haleon_us_holdings_llc.pdf,1,1.0,1,5,3
+drug_aware,ibu_03,What does the ibuprofen label say about stomach bleeding?,ibuprofen_200mg_haleon_us_holdings_llc.pdf,1,1.0,1,5,3
+drug_aware,ace_01,What warnings are listed for acetaminophen?,acetaminophen_325mg_health_pharma.pdf,1,1.0,1,5,4
+drug_aware,ace_02,What is the acetaminophen liver warning?,acetaminophen_325mg_health_pharma.pdf,1,0.5,2,5,2
+drug_aware,ace_03,When should a person stop using acetaminophen according to the label?,acetaminophen_325mg_health_pharma.pdf,1,1.0,1,5,3
+drug_aware,flu_01,What uses are listed for fluoxetine?,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf,1,0.3333333333333333,3,5,3
+drug_aware,flu_02,What side effects are listed for fluoxetine?,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf,1,1.0,1,5,10
+drug_aware,flu_03,What warnings does the fluoxetine label give about suicidal thoughts?,fluoxetine_hydrochloride_10mg_20mg_torrent_pharmaceuticals_limited.pdf,1,1.0,1,5,8
