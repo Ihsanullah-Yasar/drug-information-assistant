@@ -77,6 +77,19 @@ class AnsweringFixTests(unittest.TestCase):
         self.assertEqual(status, "rejected_mixed_abstention")
         self.assertEqual((answer, ids), (ABSTENTION, []))
 
+    def test_combined_citation_brackets_are_accepted(self):
+        draft = (
+            "The provided passages state that ampicillin is indicated for infections "
+            "such as respiratory tract infections and bacterial meningitis [S1, S3]."
+        )
+        status, reason, answer, ids = _check_answer(draft, {"S1", "S2", "S3"})
+        self.assertEqual(status, "answered")
+        self.assertEqual(ids, ["S1", "S3"])
+        self.assertIn("[S1]", answer)
+        self.assertIn("[S3]", answer)
+        self.assertNotIn("[S1, S3]", answer)
+        self.assertIn("Citation IDs validated", reason)
+
     def test_supported_cited_answer_remains_accepted(self):
         result = _check_answer("The supplied passage warns of severe stomach bleeding [S1].", {"S1"})
         self.assertEqual(result[0], "answered")
