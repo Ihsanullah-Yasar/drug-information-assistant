@@ -1,0 +1,2 @@
+# New Step 10 UI dependency only. Keep existing Steps 1-9 requirements.
+gradio>=6.0,<7.0
