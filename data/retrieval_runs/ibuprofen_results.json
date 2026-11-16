@@ -1,0 +1,82 @@
+{
+  "question": "What are the adverse reactions of ibuprofen?",
+  "top_k": 5,
+  "filename_filter": null,
+  "matches": [
+    {
+      "rank": 1,
+      "chunk_id": "56385e6d322ac2bbc57112239b6db1fd4e8b3f25c5e065a034409dc60aabd5af",
+      "text": "t differences\nbetween young and elderly subjects with normal hepatic function and normal (age-\nadjusted) renal function after oral or intravenous administration.\nADVERSE REACTIONS\nThe following reactions have been reported with the use of clindamycin.\nInfections and Infestations:Clostridioides difficilecolitis\nGastrointestinal:Abdominal pain, pseudomembranous colitis, nausea, vomiting, and\ndiarrhea (See BOXED WARNING). The onset of pseudomembranous colitis symptoms\nmay occur during or after antibacterial treatment (See WARNINGS). Esophagitis\n(including necrotizing esophagitis) and esophageal ulcer have been reported, particularly\nwhen taken in a lying position or with a small amount of water. An unpleasant or metallic\ntaste has been reported after oral administration.\nHypersensitivity Reactions:Generalized mild to moderate morbilliform-like\n(maculopapular) skin rashes are the most frequently reported adverse reactions.\n",
+      "filename": "clindamycin_hydrochloride_75mg_150mg_300mg_micro_labs_limited.pdf",
+      "page_number": 11,
+      "chunk_index": 2,
+      "start_char": 770,
+      "end_char": 1703,
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9b9f898f-6a91-44f8-9508-f9ddfaad27bc",
+      "packager": "Micro Labs Limited",
+      "label_updated_on": "November 4, 2026",
+      "cosine_distance": 0.22261303663253784,
+      "cosine_similarity": 0.7773869633674622
+    },
+    {
+      "rank": 2,
+      "chunk_id": "07d8f1f4c1cf9fa741e826ca9ec56a0deab057ea6c984b73c444a4a2074a46ac",
+      "text": "6 ADVERSE REACTIONS\nThe following serious adverse reactions are described below and elsewhere in labeling:\n• Acute Tubulointerstitial Nephritis [see Warnings and Precautions(5.2)]\n• Clostridium difficile-Associated Diarrhea [see Warnings and Precautions(5.3)]\n• Bone Fracture [see Warnings and Precautions(5.4)]\n• Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.5)]\n• Cutaneous and Systemic Lupus Erythematosus [see Warnings and\nPrecautions(5.6)]\n• Cyanocobalamin (Vitamin B-12) Deficiency [see Warnings and Precautions(5.7)]\n• Hypomagnesemia and Mineral Metabolism [see Warnings and Precautions(5.8)]\n• Fundic Gland Polyps [see Warnings and Precautions(5.10)]\n6.1 Clinical Trials Experience\nThe adverse reaction profiles for pantoprazole sodium delayed-release oral suspension\nand pantoprazole sodium delayed-release tablets are similar.\nBecause clinical trials are conducted under widely varying conditions, adverse reaction\n",
+      "filename": "pantoprazole_sodium_40mg_redpharm_drug.pdf",
+      "page_number": 8,
+      "chunk_index": 2,
+      "start_char": 763,
+      "end_char": 1710,
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5f1f2694-3965-2cc7-e063-6294a90a87ed",
+      "packager": "Redpharm Drug",
+      "label_updated_on": "October 31, 2026",
+      "cosine_distance": 0.2271161675453186,
+      "cosine_similarity": 0.7728838324546814
+    },
+    {
+      "rank": 3,
+      "chunk_id": "cff9b39e13e04ea0f0205e610e0fbfbde4458ec004898bb4c3fe07be5f6c0039",
+      "text": "ns).\n• History of asthma, urticaria, or allergic-type reactions after taking aspirin or other\nNSAIDs. Severe, sometimes fatal, anaphylactice reactions to NSAIDs have been reported\nin such patients ( see WARNINGS; Anaphylactic Reactions, PRECAUTIONS; Exacerbation\nof Asthma Related to Aspirin Sensitivity) .\n• In the setting of coronary artery bypass graft (CABG) surgery ( see WARNINGS;\nCardiovascular Thrombotic Events).\nWARNINGS",
+      "filename": "diclofenac_sodium_100mg_nucare_pharmaceuticals_llc.pdf",
+      "page_number": 4,
+      "chunk_index": 4,
+      "start_char": 2383,
+      "end_char": 2813,
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=26e44aa5-cfcd-f10b-e063-6394a90a4dcf",
+      "packager": "NuCare Pharmaceuticals, LLC.",
+      "label_updated_on": "November 5, 2026",
+      "cosine_distance": 0.2302316427230835,
+      "cosine_similarity": 0.7697683572769165
+    },
+    {
+      "rank": 4,
+      "chunk_id": "9655114a2cf0d1376f3312aaf25044beca5011e9e10ec5b6465e5ffeb33fc1a8",
+      "text": "life-threatening allergic reactions\nOther side effects of NSAIDs include:stomach pain, constipation, diarrhea, gas,\nheartburn, nausea, vomiting, and dizziness.\nGet emergency help right away if you get any of the following symptoms:\nshortness of breath or trouble breathing\nchest pain\nweakness in one part or side of your body\nslurred speech\nswelling of the face or throat\nStop taking your NSAID and call your healthcare provider right away if you\nget any of the following symptoms:\nnausea\nmore tired or weaker than usual\ndiarrhea\nitching\nyour skin or eyes look yellow\nindigestion or stomach pain\nflu-like symptoms\nvomit blood\nthere is blood in your bowel movement, or it is black and sticky like tar\nunusual weight gain\nskin rash or blisters with fever\nswelling of the arms, and legs, hands and feet\nIf you take too much of your NSAID, call your healthcare provider or get medical help\nright away.\nThese are not all the possible side effects of NSAIDs. For more information,\nask your healthcare\n",
+      "filename": "meloxicam_15mg_bryant_ranch_prepack.pdf",
+      "page_number": 34,
+      "chunk_index": 1,
+      "start_char": 0,
+      "end_char": 995,
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2322a070-25f0-4fc6-a98e-44ad1fb52dc5",
+      "packager": "Bryant Ranch Prepack",
+      "label_updated_on": "October 19, 2026",
+      "cosine_distance": 0.23063063621520996,
+      "cosine_similarity": 0.76936936378479
+    },
+    {
+      "rank": 5,
+      "chunk_id": "3267c9fd45bab2b8306a34beb24a27928372eefd4486aca052cce494a89fc99e",
+      "text": "tion\nNSAIDs, including diclofenac, can cause serious gastrointestinal (GI) adverse events,\nincluding inflammation, bleeding, ulceration, and perforation of the esophagus, stomach,\nsmall intestine, or large intestine, which can be fatal. These serious adverse events can\noccur at any time, with or without warning symptoms, in patients treated with NSAIDs.\nOnly one in five patients, who develop a serious upper GI adverse event on NSAID\ntherapy, is symptomatic. Upper GI ulcers, gross bleeding, or perforation caused by\nNSAIDs occurred in approximately 1% of patients treated for 3 to 6 months, and in\nabout 2% to 4% of patients treated for one year. However, even short-term therapy is\nnot without risk.",
+      "filename": "diclofenac_sodium_100mg_nucare_pharmaceuticals_llc.pdf",
+      "page_number": 5,
+      "chunk_index": 5,
+      "start_char": 3089,
+      "end_char": 3793,
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=26e44aa5-cfcd-f10b-e063-6394a90a4dcf",
+      "packager": "NuCare Pharmaceuticals, LLC.",
+      "label_updated_on": "November 5, 2026",
+      "cosine_distance": 0.23143136501312256,
+      "cosine_similarity": 0.7685686349868774
+    }
+  ]
+}
